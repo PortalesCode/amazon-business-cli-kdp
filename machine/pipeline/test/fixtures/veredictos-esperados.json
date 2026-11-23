@@ -1,0 +1,116 @@
+{
+  "brain games": {
+    "verdict": "saturado",
+    "coverage": 10,
+    "mass": 200,
+    "gates": "C1-C2+C3+C4+"
+  },
+  "coloring book": {
+    "verdict": "saturado",
+    "coverage": 10,
+    "mass": 200,
+    "gates": "C1-C2+C3+C4+"
+  },
+  "memory journal for mom": {
+    "verdict": "saturado",
+    "coverage": 8.8,
+    "mass": 131.3,
+    "gates": "C1-C2+C3+C4+"
+  },
+  "sourdough bread baking": {
+    "verdict": "saturado",
+    "coverage": 8.8,
+    "mass": 110,
+    "gates": "C1-C2+C3+C4+"
+  },
+  "dog training book": {
+    "verdict": "saturado",
+    "coverage": 10,
+    "mass": 97.3,
+    "gates": "C1-C2+C3+C4+"
+  },
+  "genealogy": {
+    "verdict": "pasa",
+    "coverage": 9.4,
+    "mass": 61.1,
+    "gates": "C1+C2+C3+C4+"
+  },
+  "dementia activities for seniors": {
+    "verdict": "saturado",
+    "coverage": 10,
+    "mass": 59.2,
+    "gates": "C1-C2+C3+C4+"
+  },
+  "puppy potty training": {
+    "verdict": "saturado",
+    "coverage": 8.8,
+    "mass": 47.6,
+    "gates": "C1-C2+C3+C4+"
+  },
+  "beekeeping for beginners": {
+    "verdict": "saturado",
+    "coverage": 7.4,
+    "mass": 36.3,
+    "gates": "C1-C2+C3+C4+"
+  },
+  "dementia caregiving": {
+    "verdict": "descartar",
+    "coverage": 7,
+    "mass": 33.8,
+    "gates": "C1-C2+C3-C4+"
+  },
+  "apartment dog enrichment": {
+    "verdict": "descartar",
+    "coverage": 8.8,
+    "mass": 26.5,
+    "gates": "C1+C2+C3-C4-"
+  },
+  "caregiver daily log book": {
+    "verdict": "descartar",
+    "coverage": 10,
+    "mass": 22.6,
+    "gates": "C1-C2+C3+C4-"
+  },
+  "dog enrichment": {
+    "verdict": "mercado-chico",
+    "coverage": 9.4,
+    "mass": 22.1,
+    "gates": "C1+C2+C3+C4-"
+  },
+  "mental stimulation for dogs": {
+    "verdict": "descartar",
+    "coverage": 8.2,
+    "mass": 15.2,
+    "gates": "C1+C2+C3-C4-"
+  },
+  "puppy first 90 days": {
+    "verdict": "descartar",
+    "coverage": 3.6,
+    "mass": 10.4,
+    "gates": "C1+C2-C3-C4-"
+  },
+  "rabbit care": {
+    "verdict": "descartar",
+    "coverage": 9.4,
+    "mass": 6.5,
+    "gates": "C1-C2+C3+C4-"
+  },
+  "caregiving for aging parents": {
+    "verdict": "descartar",
+    "coverage": 7,
+    "mass": 5.3,
+    "gates": "C1-C2+C3+C4-"
+  },
+  "cat enrichment": {
+    "verdict": "descartar",
+    "coverage": 4.8,
+    "mass": 2.2,
+    "gates": "C1+C2-C3-C4-"
+  },
+  "event driven architecture": {
+    "verdict": "descartar",
+    "coverage": 6.8,
+    "mass": 5.7,
+    "gates": "C1+C2+C3-C4-"
+  }
+}

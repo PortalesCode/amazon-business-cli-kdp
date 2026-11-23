@@ -1,0 +1,917 @@
+{
+  "url": "https://www.amazon.com/gp/bestsellers/books/48",
+  "label": "crafts",
+  "capturedAt": "2026-11-21T08:01:16.117Z",
+  "pages": [
+    {
+      "page": 1,
+      "url": "https://www.amazon.com/gp/bestsellers/books/48?pg=1",
+      "kind": "bestsellers",
+      "items": 50,
+      "total": null,
+      "itemsData": [
+        {
+          "asin": "B0DJ27336M",
+          "position": 1,
+          "title": "Cozy Christmas: Coloring Book for Adults and Kids (Cozy Spaces Coloring)",
+          "author": null,
+          "price": 5.35,
+          "priceRaw": "$5.35",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 2103,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DJ27336M",
+          "raw": {
+            "text": "#1 Cozy Christmas: Coloring Book for Adults and Kids (Cozy Spaces Coloring) Coco Wyo 4.6 out of 5 stars 2,103 Paperback $5.35 6 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1250892317",
+          "position": 2,
+          "title": "Murdle: Volume 1",
+          "author": null,
+          "price": 12.48,
+          "priceRaw": "$12.48",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 8058,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1250892317",
+          "raw": {
+            "text": "#2 Murdle: Volume 1 G T Karber 4.5 out of 5 stars 8,058 Paperback $12.48 13 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "076249168X",
+          "position": 3,
+          "title": "Bob Ross by the Numbers (RP Minis)",
+          "author": null,
+          "price": 7.45,
+          "priceRaw": "$7.45",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 7686,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/076249168X",
+          "raw": {
+            "text": "#3 Bob Ross by the Numbers (RP Minis) Bob Ross 4.3 out of 5 stars 7,686 Paperback $7.45 8 pts"
+          }
+        },
+        {
+          "asin": "1629143693",
+          "position": 4,
+          "title": "Back to Basics: A Complete Guide to Traditional Skills (Back to Basics Guides)",
+          "author": null,
+          "price": 15.37,
+          "priceRaw": "$15.37",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 5514,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1629143693",
+          "raw": {
+            "text": "#4 Back to Basics: A Complete Guide to Traditional Skills (Back to Basics Guides) Abigail Gehring 4.8 out of 5 stars 5,514 Hardcover $15.37 16 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0762482893",
+          "position": 5,
+          "title": "The Screaming Christmas Goat: Ahhhhh! (RP Minis)",
+          "author": null,
+          "price": 7.61,
+          "priceRaw": "$7.61",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 1225,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0762482893",
+          "raw": {
+            "text": "#5 The Screaming Christmas Goat: Ahhhhh! (RP Minis) Lauren Emily Whalen 4.7 out of 5 stars 1,225 Paperback $7.61 8 pts"
+          }
+        },
+        {
+          "asin": "0762459816",
+          "position": 6,
+          "title": "The Screaming Goat (Book & Figure)",
+          "author": null,
+          "price": 7.96,
+          "priceRaw": "$7.96",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 43161,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0762459816",
+          "raw": {
+            "text": "#6 The Screaming Goat (Book & Figure) Running Press 4.7 out of 5 stars 43,161 Paperback $7.96 8 pts"
+          }
+        },
+        {
+          "asin": "9387779262",
+          "position": 7,
+          "title": "My First Library: Boxset of 10 Board Books for Kids",
+          "author": null,
+          "price": 16.8,
+          "priceRaw": "$16.80",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 93835,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/9387779262",
+          "raw": {
+            "text": "#7 My First Library: Boxset of 10 Board Books for Kids Wonder House Books 4.6 out of 5 stars 93,835 Board book $16.80 17 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0062378074",
+          "position": 8,
+          "title": "SAS Survival Handbook, Third Edition: The Ultimate Guide to Surviving Anywhere ― The Classic Survival Handbook, Updated with Urban Survival",
+          "author": null,
+          "price": 24.22,
+          "priceRaw": "$24.22",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 8420,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0062378074",
+          "raw": {
+            "text": "#8 SAS Survival Handbook, Third Edition: The Ultimate Guide to Surviving Anywhere ― The Classic Survival Handbook, Updated with Urban Survival John 'Lofty' Wiseman 4.7 out of 5 stars 8,420 Paperback $24.22 25 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0143131664",
+          "position": 9,
+          "title": "Wreck This Journal: Now in Color",
+          "author": null,
+          "price": 9.59,
+          "priceRaw": "$9.59",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 24238,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0143131664",
+          "raw": {
+            "text": "#9 Wreck This Journal: Now in Color Keri Smith 4.7 out of 5 stars 24,238 Paperback $9.59 10 pts"
+          }
+        },
+        {
+          "asin": "1645585417",
+          "position": 10,
+          "title": "Large Print Easy Color & Frame - Calm (Stress Free Coloring Book)",
+          "author": null,
+          "price": 6.42,
+          "priceRaw": "$6.42",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 8755,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1645585417",
+          "raw": {
+            "text": "#10 Large Print Easy Color & Frame - Calm (Stress Free Coloring Book) New Seasons 4.7 out of 5 stars 8,755 Spiral-bound $6.42 7 pts"
+          }
+        },
+        {
+          "asin": "1449483186",
+          "position": 11,
+          "title": "Disney Dreams Collection Thomas Kinkade Studios Coloring Book",
+          "author": null,
+          "price": 5.98,
+          "priceRaw": "$5.98",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 33096,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1449483186",
+          "raw": {
+            "text": "#11 Disney Dreams Collection Thomas Kinkade Studios Coloring Book Thomas Kinkade 4.7 out of 5 stars 33,096 Paperback $5.98 6 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0593886453",
+          "position": 12,
+          "title": "The Ultimate Fun Adult Activity Book: Logic Puzzles, Sudoku, Mazes, Word Searches, Crosswords, Acrostics, Coloring, and More! (White Elephant Gifts; Stocking Stuffer for Adults)",
+          "author": null,
+          "price": 8.49,
+          "priceRaw": "$8.49",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 526,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0593886453",
+          "raw": {
+            "text": "#12 The Ultimate Fun Adult Activity Book: Logic Puzzles, Sudoku, Mazes, Word Searches, Crosswords, Acrostics, Coloring, and More! (White Elephant Gifts; Stocking Stuffer for Adults) Julie Demyanovich 4.3 out of 5 stars 526 Paperback $8.49 9 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0399161945",
+          "position": 13,
+          "title": "Wreck This Journal (Black) Expanded Edition",
+          "author": null,
+          "price": 7.91,
+          "priceRaw": "$7.91",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 18951,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0399161945",
+          "raw": {
+            "text": "#13 Wreck This Journal (Black) Expanded Edition Keri Smith 4.7 out of 5 stars 18,951 Diary $7.91 8 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1787935035",
+          "position": 14,
+          "title": "The Complete Amish Survival Manual: Break the Chains of Modern Slavery and Achieve Self-Sufficiency | Herbal Remedies, DIY Projects, Canning, Survival Skills, and Off-Grid Living",
+          "author": null,
+          "price": 34.28,
+          "priceRaw": "$34.28",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1534,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1787935035",
+          "raw": {
+            "text": "#14 The Complete Amish Survival Manual: Break the Chains of Modern Slavery and Achieve Self-Sufficiency | Herbal Remedies, DIY Projects, Canning, Survival Skills, and Off-Grid Living Isaiah Schwartz 4.6 out of 5 stars 1,534 Paperback $34.28 35 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B0D3CSPMZG",
+          "position": 15,
+          "title": "Stress Relief: Coloring Book for Adults and Kids, Bold and Easy, Simple and Big Designs for Relaxation Featuring Animals, Landscape, Flowers, Patterns, Cute Things And Many More",
+          "author": null,
+          "price": 9.99,
+          "priceRaw": "$9.99",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 9009,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0D3CSPMZG",
+          "raw": {
+            "text": "#15 Stress Relief: Coloring Book for Adults and Kids, Bold and Easy, Simple and Big Designs for Relaxation Featuring Animals, Landscape, Flowers, Patterns, Cute Things And Many More Coco Wyo 4.8 out of 5 stars 9,009 Paperback $9.99 10 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0645277460",
+          "position": 16,
+          "title": "Prepare Your Home for a Sudden Grid-Down Situation: Take Self-Reliance to the Next Level with Proven Methods and Strategies to Survive a Grid-Down ... the Modern Family to Prepare for Any Crisis)",
+          "author": null,
+          "price": 14.99,
+          "priceRaw": "$14.99",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 1488,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0645277460",
+          "raw": {
+            "text": "#16 Prepare Your Home for a Sudden Grid-Down Situation: Take Self-Reliance to the Next Level with Proven Methods and Strategies to Survive a Grid-Down ... the Modern Family to Prepare for Any Crisis) Ted Riley 4.5 out of 5 stars 1,488 Paperback $14.99 15 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "B0DGX7KCL5",
+          "position": 17,
+          "title": "Cozy Girl Christmas Coloring Book: Bold and Easy Designs for Adults & Teens (Cozy Girl Series)",
+          "author": null,
+          "price": 9.99,
+          "priceRaw": "$9.99",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1494,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DGX7KCL5",
+          "raw": {
+            "text": "#17 Cozy Girl Christmas Coloring Book: Bold and Easy Designs for Adults & Teens (Cozy Girl Series) Jeanett Veronica 4.8 out of 5 stars 1,494 Paperback $9.99 10 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1684128870",
+          "position": 18,
+          "title": "Harry Potter Crochet - Harry Potter and Dobby Amigurumi - Yarn, Safety Eyes, Crochet Hook and Instructional Booklet - Craft Gift for Harry Potter Fans (Crochet Kits)",
+          "author": null,
+          "price": 10.08,
+          "priceRaw": "$10.08",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 6634,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1684128870",
+          "raw": {
+            "text": "#18 Harry Potter Crochet - Harry Potter and Dobby Amigurumi - Yarn, Safety Eyes, Crochet Hook and Instructional Booklet - Craft Gift for Harry Potter Fans (Crochet Kits) Lucy Collin 4.6 out of 5 stars 6,634 Paperback $10.08 11 pts"
+          }
+        },
+        {
+          "asin": "1250409241",
+          "position": 19,
+          "title": "Merry Murdle",
+          "author": null,
+          "price": 9.08,
+          "priceRaw": "$9.08",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 469,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1250409241",
+          "raw": {
+            "text": "#19 Merry Murdle G. T Karber 4.8 out of 5 stars 469 Paperback $9.08 10 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0593886445",
+          "position": 20,
+          "title": "Ultimate Origami Challenge Kit for Kids 8-12: Fun Projects and Step-by-Step Folding Techniques to Go from Novice to Pro (90 Paper Sheets / 30 Projects Included; Christmas Gifts for Kids 8-12)",
+          "author": null,
+          "price": 11.28,
+          "priceRaw": "$11.28",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 204,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0593886445",
+          "raw": {
+            "text": "#20 Ultimate Origami Challenge Kit for Kids 8-12: Fun Projects and Step-by-Step Folding Techniques to Go from Novice to Pro (90 Paper Sheets / 30 Projects Included; Christmas Gifts for Kids 8-12) Brian Soonho Yoon 4.8 out of 5 stars 204 Hardcover $11.28 12 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1801714819",
+          "position": 21,
+          "title": "The All-in-One Off-Grid Survival Manual: [10-in-1] How to Live Anywhere, Protect Your Family, and Stay Off the Radar | 300+ DIY Projects for Power, Water, Food, Home Defense, and Radio Communication",
+          "author": null,
+          "price": 31.97,
+          "priceRaw": "$31.97",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 329,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1801714819",
+          "raw": {
+            "text": "#21 The All-in-One Off-Grid Survival Manual: [10-in-1] How to Live Anywhere, Protect Your Family, and Stay Off the Radar | 300+ DIY Projects for Power, Water, Food, Home Defense, and Radio Communication Jackson Mitchell 4.2 out of 5 stars 329 Paperback $31.97 32 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1680225391",
+          "position": 22,
+          "title": "Paper Airplane Kit: 100 Planes to Fold & Fly, 1000 Stickers, Launcher & 100 Rubber Bands | Colorful Sheets | STEM Family Gift for Ages 7 and Up",
+          "author": null,
+          "price": 15.85,
+          "priceRaw": "$15.85",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 4043,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1680225391",
+          "raw": {
+            "text": "#22 Paper Airplane Kit: 100 Planes to Fold & Fly, 1000 Stickers, Launcher & 100 Rubber Bands | Colorful Sheets | STEM Family Gift for Ages 7 and Up Publications International Ltd. 4.6 out of 5 stars 4,043 Hardcover $15.85 16 pts"
+          }
+        },
+        {
+          "asin": "1964113326",
+          "position": 23,
+          "title": "Cozy Christmas: Cute & Cozy Coloring Book for Adults and Teens (Cozy Friends Coloring)",
+          "author": null,
+          "price": 8.99,
+          "priceRaw": "$8.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 75,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1964113326",
+          "raw": {
+            "text": "#23 Cozy Christmas: Cute & Cozy Coloring Book for Adults and Teens (Cozy Friends Coloring) Amelia Green 4.6 out of 5 stars 75 Paperback $8.99 9 pts"
+          }
+        },
+        {
+          "asin": "B0FKJDM9TW",
+          "position": 24,
+          "title": "Still & Slow - Monochrome Coloring Book for Adults - 35 Mindful Illustrations for Stress & Anxiety Relief - One-Pen Ritual, Calm Prompts, Thick Paper (One Color Coloring Book)",
+          "author": null,
+          "price": 19.92,
+          "priceRaw": "$19.92",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 160,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0FKJDM9TW",
+          "raw": {
+            "text": "#24 Still & Slow - Monochrome Coloring Book for Adults - 35 Mindful Illustrations for Stress & Anxiety Relief - One-Pen Ritual, Calm Prompts, Thick Paper (One Color Coloring Book) Still and Slow 4.6 out of 5 stars 160 Pocket Book $19.92 25 pts"
+          }
+        },
+        {
+          "asin": "076248229X",
+          "position": 25,
+          "title": "Tiny Violin: Soundtrack for Your Sob Story (RP Minis)",
+          "author": null,
+          "price": 9.25,
+          "priceRaw": "$9.25",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 1554,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/076248229X",
+          "raw": {
+            "text": "#25 Tiny Violin: Soundtrack for Your Sob Story (RP Minis) Sarah Royal 4.7 out of 5 stars 1,554 Paperback $9.25 10 pts"
+          }
+        },
+        {
+          "asin": "B0BMSZSBKL",
+          "position": 26,
+          "title": "Scissor Skills Preschool Activity Book: Learn to Cut Lines, Shapes, Fruits, Animals | Fun Cutting & Coloring Book for Kids | Preschool Learning Activities for 3-5 Year Olds",
+          "author": null,
+          "price": 3.99,
+          "priceRaw": "$3.99",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 4884,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0BMSZSBKL",
+          "raw": {
+            "text": "#26 Scissor Skills Preschool Activity Book: Learn to Cut Lines, Shapes, Fruits, Animals | Fun Cutting & Coloring Book for Kids | Preschool Learning Activities for 3-5 Year Olds Lucas & Friends by RV AppStudios 4.8 out of 5 stars 4,884 Paperback $3.99 4 pts"
+          }
+        },
+        {
+          "asin": "1464245363",
+          "position": 27,
+          "title": "LEGO® Botanicals: Tiny Wildflower Bouquet",
+          "author": null,
+          "price": 11.95,
+          "priceRaw": "$11.95",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 251,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1464245363",
+          "raw": {
+            "text": "#27 LEGO® Botanicals: Tiny Wildflower Bouquet AMEET Sp. z o.o. 4.6 out of 5 stars 251 Hardcover $11.95 12 pts"
+          }
+        },
+        {
+          "asin": "0762462876",
+          "position": 28,
+          "title": "Wacky Waving Inflatable Tube Guy: (The Original) (RP Minis)",
+          "author": null,
+          "price": 11.66,
+          "priceRaw": "$11.66",
+          "currency": "USD",
+          "rating": 4,
+          "reviews": 44878,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0762462876",
+          "raw": {
+            "text": "#28 Wacky Waving Inflatable Tube Guy: (The Original) (RP Minis) Conor Riordan 4.0 out of 5 stars 44,878 Paperback $11.66 12 pts"
+          }
+        },
+        {
+          "asin": "1523519363",
+          "position": 29,
+          "title": "Paint by Sticker Kids (Official): Pets: Create 10 Pictures One Sticker at a Time!",
+          "author": null,
+          "price": 5.83,
+          "priceRaw": "$5.83",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1455,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1523519363",
+          "raw": {
+            "text": "#29 Paint by Sticker Kids (Official): Pets: Create 10 Pictures One Sticker at a Time! Workman Publishing 4.8 out of 5 stars 1,455 Paperback $5.83 6 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1523515279",
+          "position": 30,
+          "title": "The Reverse Coloring Book™: The Book Has the Colors, You Draw the Lines!",
+          "author": null,
+          "price": 7.87,
+          "priceRaw": "$7.87",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 6192,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1523515279",
+          "raw": {
+            "text": "#30 The Reverse Coloring Book™: The Book Has the Colors, You Draw the Lines! Kendra Norton 4.7 out of 5 stars 6,192 Paperback $7.87 8 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1612120059",
+          "position": 31,
+          "title": "Rosemary Gladstar's Medicinal Herbs: A Beginner's Guide: 33 Healing Herbs to Know, Grow, and Use",
+          "author": null,
+          "price": 8.3,
+          "priceRaw": "$8.30",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 13827,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1612120059",
+          "raw": {
+            "text": "#31 Rosemary Gladstar's Medicinal Herbs: A Beginner's Guide: 33 Healing Herbs to Know, Grow, and Use Rosemary Gladstar 4.8 out of 5 stars 13,827 Paperback $8.30 9 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B0BCZLDJN4",
+          "position": 32,
+          "title": "ABC Coloring Book: Color 100+ Animals, Birds, Vehicles, Fruits, Toys & Alphabets For Boys & Girls | Coloring Book for Toddlers and Preschool Kids | ... Book and Coloring Pages (Kids Ages 3-5)",
+          "author": null,
+          "price": 3.99,
+          "priceRaw": "$3.99",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 4693,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0BCZLDJN4",
+          "raw": {
+            "text": "#32 ABC Coloring Book: Color 100+ Animals, Birds, Vehicles, Fruits, Toys & Alphabets For Boys & Girls | Coloring Book for Toddlers and Preschool Kids | ... Book and Coloring Pages (Kids Ages 3-5) Lucas & Friends by RV AppStudios 4.8 out of 5 stars 4,693 Paperback $3.99 4 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0D4YLQRMP",
+          "position": 33,
+          "title": "Cozy Friends: Coloring Book for Adults and Teens Featuring Super Cute Animal Characters with Easy and Simple Designs for Relaxation",
+          "author": null,
+          "price": 9.99,
+          "priceRaw": "$9.99",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 12712,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0D4YLQRMP",
+          "raw": {
+            "text": "#33 Cozy Friends: Coloring Book for Adults and Teens Featuring Super Cute Animal Characters with Easy and Simple Designs for Relaxation Coco Wyo 4.8 out of 5 stars 12,712 Paperback $9.99 10 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1250892325",
+          "position": 34,
+          "title": "Murdle: Volume 2",
+          "author": null,
+          "price": 9.51,
+          "priceRaw": "$9.51",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1255,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1250892325",
+          "raw": {
+            "text": "#34 Murdle: Volume 2 G. T. Karber 4.8 out of 5 stars 1,255 Paperback $9.51 10 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1464251339",
+          "position": 35,
+          "title": "Mom, I Want to Hear Your Story: A Mother's Guided Journal To Share Her Life & Her Love (Hear Your Story Books)",
+          "author": null,
+          "price": 7.58,
+          "priceRaw": "$7.58",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 2382,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1464251339",
+          "raw": {
+            "text": "#35 Mom, I Want to Hear Your Story: A Mother's Guided Journal To Share Her Life & Her Love (Hear Your Story Books) Jeffrey Mason 4.8 out of 5 stars 2,382 Hardcover $7.58 8 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0DLH2HLKL",
+          "position": 36,
+          "title": "The Prepper’s Survival Bible: Your Complete Guide to Surviving Any Crises & Disasters. Bug-In & Bug-Out, Food & Water Prep, Off-Grid Living, Homesteading, Urban Survival, Bushcraft & More!",
+          "author": null,
+          "price": 22.28,
+          "priceRaw": "$22.28",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 1567,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DLH2HLKL",
+          "raw": {
+            "text": "#36 The Prepper’s Survival Bible: Your Complete Guide to Surviving Any Crises & Disasters. Bug-In & Bug-Out, Food & Water Prep, Off-Grid Living, Homesteading, Urban Survival, Bushcraft & More! Morgan J. Kepler 4.2 out of 5 stars 1,567 Paperback $22.28 23 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0CTGLNZWH",
+          "position": 37,
+          "title": "Mindfulness Patterns: Coloring Book with Creative Pattern Designs for Stress Relief and Relaxation",
+          "author": null,
+          "price": 9.89,
+          "priceRaw": "$9.89",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1703,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0CTGLNZWH",
+          "raw": {
+            "text": "#37 Mindfulness Patterns: Coloring Book with Creative Pattern Designs for Stress Relief and Relaxation Vivi Tinta 4.6 out of 5 stars 1,703 Paperback $9.89 10 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1400244412",
+          "position": 38,
+          "title": "The Way of the Wildflower: Gospel Meditations to Unburden Your Anxious Soul – The Perfect Christian Devotional Christmas Gift for Women",
+          "author": null,
+          "price": 16.13,
+          "priceRaw": "$16.13",
+          "currency": "USD",
+          "rating": 4.9,
+          "reviews": 1047,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1400244412",
+          "raw": {
+            "text": "#38 The Way of the Wildflower: Gospel Meditations to Unburden Your Anxious Soul – The Perfect Christian Devotional Christmas Gift for Women Ruth Chou Simons 4.9 out of 5 stars 1,047 Hardcover $16.13 17 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "0794854427",
+          "position": 39,
+          "title": "The Official Red Book®: A Guide Book of United States Coins, 2027, 80th Edition – The Definitive Grade-by-Grade U.S. Coin Collecting & Retail Price ... History, Grading, GSID, & Color Images",
+          "author": null,
+          "price": 16.73,
+          "priceRaw": "$16.73",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 510,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0794854427",
+          "raw": {
+            "text": "#39 The Official Red Book®: A Guide Book of United States Coins, 2027, 80th Edition – The Definitive Grade-by-Grade U.S. Coin Collecting & Retail Price ... History, Grading, GSID, & Color Images Jeff Garrett 4.8 out of 5 stars 510 Spiral-bound $16.73 17 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "1645585662",
+          "position": 40,
+          "title": "Color & Frame - Bible Coloring: Psalms: 63 Coloring Pages with Bible Verses | Christian Devotional Book Gift for Women, Adults, Teens & Faith-Based Relaxation | Perforated, Spiral Bound",
+          "author": null,
+          "price": 6.97,
+          "priceRaw": "$6.97",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 2581,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1645585662",
+          "raw": {
+            "text": "#40 Color & Frame - Bible Coloring: Psalms: 63 Coloring Pages with Bible Verses | Christian Devotional Book Gift for Women, Adults, Teens & Faith-Based Relaxation | Perforated, Spiral Bound New Seasons 4.8 out of 5 stars 2,581 Spiral-bound $6.97 7 pts"
+          }
+        },
+        {
+          "asin": "B0FLJVJKP6",
+          "position": 41,
+          "title": "Cozy Girl Season: Bold and Easy Coloring Book for Adults & Teens, Featuring Fall, Halloween, and Christmas Designs | Simple, Cute Illustrations for Hygge and Relaxation (Cozy Girl Series)",
+          "author": null,
+          "price": 9.96,
+          "priceRaw": "$9.96",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 792,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0FLJVJKP6",
+          "raw": {
+            "text": "#41 Cozy Girl Season: Bold and Easy Coloring Book for Adults & Teens, Featuring Fall, Halloween, and Christmas Designs | Simple, Cute Illustrations for Hygge and Relaxation (Cozy Girl Series) Jeanett Veronica 4.8 out of 5 stars 792 Paperback $9.96 10 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "078523683X",
+          "position": 42,
+          "title": "The Art of Home: A Designer Guide to Creating an Elevated Yet Approachable Home",
+          "author": null,
+          "price": 23,
+          "priceRaw": "$23.00",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 3434,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/078523683X",
+          "raw": {
+            "text": "#42 The Art of Home: A Designer Guide to Creating an Elevated Yet Approachable Home Shea McGee 4.5 out of 5 stars 3,434 Hardcover $23.00 23 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0DPMY4MJP",
+          "position": 43,
+          "title": "The Ultimate Activity Book for Smart Girls: Tricky Brain Teasers, Mind Games and Logic Puzzle Activities for Girls 8-12 (Activity Books for Kids)",
+          "author": null,
+          "price": 11.72,
+          "priceRaw": "$11.72",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 1096,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DPMY4MJP",
+          "raw": {
+            "text": "#43 The Ultimate Activity Book for Smart Girls: Tricky Brain Teasers, Mind Games and Logic Puzzle Activities for Girls 8-12 (Activity Books for Kids) IQ Street 4.7 out of 5 stars 1,096 Paperback $11.72 12 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B09ZCTWDH8",
+          "position": 44,
+          "title": "How to Draw Anime and Manga for Beginners: Learn to Draw Awesome Anime and Manga Characters - A Step-by-Step Drawing Guide for Kids, Teens, and Adults",
+          "author": null,
+          "price": 15.55,
+          "priceRaw": "$15.55",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 3208,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B09ZCTWDH8",
+          "raw": {
+            "text": "#44 How to Draw Anime and Manga for Beginners: Learn to Draw Awesome Anime and Manga Characters - A Step-by-Step Drawing Guide for Kids, Teens, and Adults Shinjuku Press 4.7 out of 5 stars 3,208 Paperback $15.55 16 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "1454968117",
+          "position": 45,
+          "title": "Murdoku: Around the World: 80 Murder Mystery Logic Puzzles",
+          "author": null,
+          "price": 15.19,
+          "priceRaw": "$15.19",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 86,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1454968117",
+          "raw": {
+            "text": "#45 Murdoku: Around the World: 80 Murder Mystery Logic Puzzles Manuel Garand 4.8 out of 5 stars 86 Paperback $15.19 16 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1602399840",
+          "position": 46,
+          "title": "Mini Farming: Self-Sufficiency on 1/4 Acre",
+          "author": null,
+          "price": 7.87,
+          "priceRaw": "$7.87",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 6966,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1602399840",
+          "raw": {
+            "text": "#46 Mini Farming: Self-Sufficiency on 1/4 Acre Brett L. Markham 4.6 out of 5 stars 6,966 Paperback $7.87 8 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "1523533315",
+          "position": 47,
+          "title": "365 Cats Page-A-Day® Calendar 2027: The World's Favorite Cat Calendar | Cat",
+          "author": null,
+          "price": 16.77,
+          "priceRaw": "$16.77",
+          "currency": "USD",
+          "rating": 4.9,
+          "reviews": 867,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1523533315",
+          "raw": {
+            "text": "#47 365 Cats Page-A-Day® Calendar 2027: The World's Favorite Cat Calendar | Cat Workman Calendars 4.9 out of 5 stars 867 Calendar $16.77 17 pts"
+          }
+        },
+        {
+          "asin": "B0DF7D1YNY",
+          "position": 48,
+          "title": "The Baofeng Radio Bible: The Comprehensive and Easy-to-Follow Guerrilla's Guide to Become a Pro with Your Baofeng Radio in No Time and Stay Connected When It Matters Most",
+          "author": null,
+          "price": 20.05,
+          "priceRaw": "$20.05",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 2748,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DF7D1YNY",
+          "raw": {
+            "text": "#48 The Baofeng Radio Bible: The Comprehensive and Easy-to-Follow Guerrilla's Guide to Become a Pro with Your Baofeng Radio in No Time and Stay Connected When It Matters Most Eliot J. Hawke 4.5 out of 5 stars 2,748 Paperback $20.05 21 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "166720632X",
+          "position": 49,
+          "title": "Harry Potter Color-by-Number - Coloring Book for Teens and Adults, Officially Licensed",
+          "author": null,
+          "price": 7,
+          "priceRaw": "$7.00",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 516,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/166720632X",
+          "raw": {
+            "text": "#49 Harry Potter Color-by-Number - Coloring Book for Teens and Adults, Officially Licensed Editors of Thunder Bay Press 4.8 out of 5 stars 516 Flexibound $7.00 7 pts"
+          }
+        },
+        {
+          "asin": "B0GZGX9TPM",
+          "position": 50,
+          "title": "100 Color by Number Monochrome Mysteries: A One Color Coloring Book For Adults Relaxation and Wonder – Black and White Mystery Reveal (Hatch & Fill)",
+          "author": null,
+          "price": null,
+          "priceRaw": null,
+          "currency": "ARS",
+          "rating": 4.8,
+          "reviews": 547,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GZGX9TPM",
+          "raw": {
+            "text": "#50 100 Color by Number Monochrome Mysteries: A One Color Coloring Book For Adults Relaxation and Wonder – Black and White Mystery Reveal (Hatch & Fill) Pixelcolorist Books 4.8 out of 5 stars 547 Paperback"
+          }
+        }
+      ]
+    }
+  ],
+  "stopped": null
+}

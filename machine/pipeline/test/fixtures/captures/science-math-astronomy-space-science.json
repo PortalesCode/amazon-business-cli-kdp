@@ -1,0 +1,1826 @@
+{
+  "url": "https://www.amazon.com/gp/bestsellers/books/13439",
+  "label": "science-math-astronomy-space-science",
+  "capturedAt": "2026-11-21T09:58:42.724Z",
+  "pages": [
+    {
+      "page": 1,
+      "url": "https://www.amazon.com/gp/bestsellers/books/13439?pg=1",
+      "kind": "bestsellers",
+      "items": 50,
+      "total": null,
+      "itemsData": [
+        {
+          "asin": "B0H37XZPDZ",
+          "position": 1,
+          "title": "Out of the Shadows: Revealing the Truth About Non-Human Intelligent Life",
+          "author": null,
+          "price": 22.79,
+          "priceRaw": "$22.79",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1441,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0H37XZPDZ",
+          "raw": {
+            "text": "#1 Out of the Shadows: Revealing the Truth About Non-Human Intelligent Life Jay Stratton 4.6 out of 5 stars 1,441 Audible Audiobook $22.79 4 formats available"
+          }
+        },
+        {
+          "asin": "B0FN36ZJC5",
+          "position": 2,
+          "title": "The Impossible Factory: The Remarkable True Story of Kelly Johnson and the Lockheed Skunk Works, America's Innovation Machine",
+          "author": null,
+          "price": 1.99,
+          "priceRaw": "$1.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 102000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0FN36ZJC5",
+          "raw": {
+            "text": "#2 The Impossible Factory: The Remarkable True Story of Kelly Johnson and the Lockheed Skunk Works, America's Innovation Machine Josh Dean 4.6 out of 5 stars 102 Kindle Edition $1.99 6 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0679891153",
+          "position": 3,
+          "title": "There's No Place Like Space! All About Our Solar System",
+          "author": null,
+          "price": 5.98,
+          "priceRaw": "$5.98",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 27874,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0679891153",
+          "raw": {
+            "text": "#3 There's No Place Like Space! All About Our Solar System Tish Rabe 4.8 out of 5 stars 27,874 Hardcover $5.98 6 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "1426224389",
+          "position": 4,
+          "title": "Lost in Space: 5,000 Facts for Navigating the Universe",
+          "author": null,
+          "price": 38.95,
+          "priceRaw": "$38.95",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 369,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1426224389",
+          "raw": {
+            "text": "#4 Lost in Space: 5,000 Facts for Navigating the Universe Neil deGrasse Tyson 4.8 out of 5 stars 369 Hardcover $38.95 39 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "149267043X",
+          "position": 5,
+          "title": "Baby University Board Book Set: A Science for Toddlers (Gifts for Kids)",
+          "author": null,
+          "price": 23.79,
+          "priceRaw": "$23.79",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 7223,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/149267043X",
+          "raw": {
+            "text": "#5 Baby University Board Book Set: A Science for Toddlers (Gifts for Kids) Chris Ferrie 4.7 out of 5 stars 7,223 Board book $23.79 24 pts"
+          }
+        },
+        {
+          "asin": "0393609391",
+          "position": 6,
+          "title": "Astrophysics for People in a Hurry",
+          "author": null,
+          "price": 11.65,
+          "priceRaw": "$11.65",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 38185,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0393609391",
+          "raw": {
+            "text": "#6 Astrophysics for People in a Hurry Neil deGrasse Tyson 4.6 out of 5 stars 38,185 Hardcover $11.65 12 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B06XTZ6QMN",
+          "position": 7,
+          "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+          "author": null,
+          "price": 21.19,
+          "priceRaw": "$21.19",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 7858,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B06XTZ6QMN",
+          "raw": {
+            "text": "#7 The Demon-Haunted World: Science as a Candle in the Dark Carl Sagan 4.7 out of 5 stars 7,858 Audible Audiobook $21.19 5 formats available"
+          }
+        },
+        {
+          "asin": "1426220154",
+          "position": 8,
+          "title": "National Geographic Backyard Guide to the Night Sky, 2nd Edition",
+          "author": null,
+          "price": 9.11,
+          "priceRaw": "$9.11",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 2256,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1426220154",
+          "raw": {
+            "text": "#8 National Geographic Backyard Guide to the Night Sky, 2nd Edition Andrew Fazekas 4.7 out of 5 stars 2,256 Paperback $9.11 10 pts"
+          }
+        },
+        {
+          "asin": "0345539435",
+          "position": 9,
+          "title": "Cosmos",
+          "author": null,
+          "price": 9.47,
+          "priceRaw": "$9.47",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 8825,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0345539435",
+          "raw": {
+            "text": "#9 Cosmos Carl Sagan 4.7 out of 5 stars 8,825 Paperback $9.47 10 pts 6 formats available"
+          }
+        },
+        {
+          "asin": "1510779876",
+          "position": 10,
+          "title": "Pilot's Handbook of Aeronautical Knowledge: FAA-H-8083-25C",
+          "author": null,
+          "price": 9.05,
+          "priceRaw": "$9.05",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 720,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1510779876",
+          "raw": {
+            "text": "#10 Pilot's Handbook of Aeronautical Knowledge: FAA-H-8083-25C Federal Aviation Administration 4.8 out of 5 stars 720 Paperback $9.05 10 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "1668249979",
+          "position": 11,
+          "title": "Take Me to Your Leader: Perspectives on Your First Alien Encounter",
+          "author": null,
+          "price": 14.23,
+          "priceRaw": "$14.23",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 1517,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1668249979",
+          "raw": {
+            "text": "#11 Take Me to Your Leader: Perspectives on Your First Alien Encounter Neil deGrasse Tyson 4.4 out of 5 stars 1,517 Hardcover $14.23 15 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B0000U7N00",
+          "position": 12,
+          "title": "A Short History of Nearly Everything: 2.0",
+          "author": null,
+          "price": 22.69,
+          "priceRaw": "$22.69",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 19924,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0000U7N00",
+          "raw": {
+            "text": "#12 A Short History of Nearly Everything: 2.0 Bill Bryson 4.6 out of 5 stars 19,924 Audible Audiobook $22.69 7 formats available"
+          }
+        },
+        {
+          "asin": "0999034650",
+          "position": 13,
+          "title": "50 Things To See With A Telescope - Kids: A Constellation Focused Approach",
+          "author": null,
+          "price": 12.44,
+          "priceRaw": "$12.44",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 8216,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0999034650",
+          "raw": {
+            "text": "#13 50 Things To See With A Telescope - Kids: A Constellation Focused Approach John A Read 4.7 out of 5 stars 8,216 Paperback $12.44 13 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0544272994",
+          "position": 14,
+          "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions ― From the Creator of xkcd",
+          "author": null,
+          "price": 21.23,
+          "priceRaw": "$21.23",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 18805,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0544272994",
+          "raw": {
+            "text": "#14 What If?: Serious Scientific Answers to Absurd Hypothetical Questions ― From the Creator of xkcd Randall Munroe 4.6 out of 5 stars 18,805 Hardcover $21.23 20 pts 6 formats available"
+          }
+        },
+        {
+          "asin": "B0BWLMH4D7",
+          "position": 15,
+          "title": "To Infinity and Beyond: A Journey of Cosmic Discovery",
+          "author": null,
+          "price": 3.99,
+          "priceRaw": "$3.99",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 1855000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0BWLMH4D7",
+          "raw": {
+            "text": "#15 To Infinity and Beyond: A Journey of Cosmic Discovery Neil Tyson 4.7 out of 5 stars 1,855 Kindle Edition $3.99 12 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0590414291",
+          "position": 16,
+          "title": "The Magic School Bus Lost in the Solar System",
+          "author": null,
+          "price": 5.84,
+          "priceRaw": "$5.84",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1492,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0590414291",
+          "raw": {
+            "text": "#16 The Magic School Bus Lost in the Solar System Joanna Cole 4.8 out of 5 stars 1,492 Paperback $5.84 6 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "0929385225",
+          "position": 17,
+          "title": "Behold a Pale Horse",
+          "author": null,
+          "price": 18.4,
+          "priceRaw": "$18.40",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 13899,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0929385225",
+          "raw": {
+            "text": "#17 Behold a Pale Horse Milton William Cooper 4.7 out of 5 stars 13,899 Paperback $18.40 19 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0735216118",
+          "position": 18,
+          "title": "The Order of Time",
+          "author": null,
+          "price": 8.11,
+          "priceRaw": "$8.11",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 6012,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0735216118",
+          "raw": {
+            "text": "#18 The Order of Time Carlo Rovelli 4.4 out of 5 stars 6,012 Paperback $8.11 9 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "B0FLYNDPHN",
+          "position": 19,
+          "title": "The Others: UFOs, AI, and the Secret Forces Guiding Human Destiny",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 4.1,
+          "reviews": 186000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0FLYNDPHN",
+          "raw": {
+            "text": "#19 The Others: UFOs, AI, and the Secret Forces Guiding Human Destiny D. W. Pasulka 4.1 out of 5 stars 186 Kindle Edition $2.99 9 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0DYTVNWB4",
+          "position": 20,
+          "title": "110 Night Sky Treasures to see with a Telescope: A Fun Stargazing Book for Kids and Astronomy Beginners: A Fun Space Guide Book for Kids to Explore Planets, Constellations, and Distant Galaxies!",
+          "author": null,
+          "price": 14.99,
+          "priceRaw": "$14.99",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 210,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DYTVNWB4",
+          "raw": {
+            "text": "#20 110 Night Sky Treasures to see with a Telescope: A Fun Stargazing Book for Kids and Astronomy Beginners: A Fun Space Guide Book for Kids to Explore Planets, Constellations, and Distant Galaxies! Atlas Explorers Press 4.7 out of 5 stars 210 Paperback $14.99 15 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "1668092425",
+          "position": 21,
+          "title": "On the Equality of All Things: Lessons on Physics and Philosophy",
+          "author": null,
+          "price": 27,
+          "priceRaw": "$27.00",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 107,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1668092425",
+          "raw": {
+            "text": "#21 On the Equality of All Things: Lessons on Physics and Philosophy Carlo Rovelli 4.3 out of 5 stars 107 Hardcover $27.00 27 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "1966605110",
+          "position": 22,
+          "title": "James Webb Space Telescope 2027 Astronomy Wall Calendar (12\"x12\") | Images from NASA's Premier Space Telescope",
+          "author": null,
+          "price": 12.95,
+          "priceRaw": "$12.95",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 296,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1966605110",
+          "raw": {
+            "text": "#22 James Webb Space Telescope 2027 Astronomy Wall Calendar (12\"x12\") | Images from NASA's Premier Space Telescope Grant Collier 4.8 out of 5 stars 296 Calendar $12.95 13 pts"
+          }
+        },
+        {
+          "asin": "0316743003",
+          "position": 23,
+          "title": "Skunk Works: A Personal Memoir of My Years at Lockheed",
+          "author": null,
+          "price": 11.49,
+          "priceRaw": "$11.49",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 5174,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0316743003",
+          "raw": {
+            "text": "#23 Skunk Works: A Personal Memoir of My Years at Lockheed Ben R. Rich 4.7 out of 5 stars 5,174 Paperback $11.49 12 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0345376595",
+          "position": 24,
+          "title": "Pale Blue Dot: A Vision of the Human Future in Space",
+          "author": null,
+          "price": 12.09,
+          "priceRaw": "$12.09",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 2857,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0345376595",
+          "raw": {
+            "text": "#24 Pale Blue Dot: A Vision of the Human Future in Space Carl Sagan 4.7 out of 5 stars 2,857 Paperback $12.09 13 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "B09NZ9HH4J",
+          "position": 25,
+          "title": "Behold a Pale Horse",
+          "author": null,
+          "price": 9.99,
+          "priceRaw": "$9.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 271,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B09NZ9HH4J",
+          "raw": {
+            "text": "#25 Behold a Pale Horse William Cooper 4.6 out of 5 stars 271 Audible Audiobook $9.99"
+          }
+        },
+        {
+          "asin": "0544668251",
+          "position": 26,
+          "title": "Thing Explainer: Complicated Stuff in Simple Words ― A Simple Illustrated Guide to How Things Work",
+          "author": null,
+          "price": 12.69,
+          "priceRaw": "$12.69",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 4936,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0544668251",
+          "raw": {
+            "text": "#26 Thing Explainer: Complicated Stuff in Simple Words ― A Simple Illustrated Guide to How Things Work Randall Munroe 4.5 out of 5 stars 4,936 Hardcover $12.69 13 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B07W53SV45",
+          "position": 27,
+          "title": "Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life",
+          "author": null,
+          "price": 1.99,
+          "priceRaw": "$1.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 2079000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07W53SV45",
+          "raw": {
+            "text": "#27 Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life Ozan Varol 4.6 out of 5 stars 2,079 Kindle Edition $1.99 6 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "B00TA5MPEU",
+          "position": 28,
+          "title": "The Wright Brothers",
+          "author": null,
+          "price": 16.99,
+          "priceRaw": "$16.99",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 21460,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B00TA5MPEU",
+          "raw": {
+            "text": "#28 The Wright Brothers David McCullough 4.5 out of 5 stars 21,460 Audible Audiobook $16.99 5 formats available"
+          }
+        },
+        {
+          "asin": "0425166805",
+          "position": 29,
+          "title": "Chariots of the Gods",
+          "author": null,
+          "price": 13.83,
+          "priceRaw": "$13.83",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 11530,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0425166805",
+          "raw": {
+            "text": "#29 Chariots of the Gods Erich Von Daniken 4.6 out of 5 stars 11,530 Paperback $13.83 14 pts 6 formats available"
+          }
+        },
+        {
+          "asin": "1465499954",
+          "position": 30,
+          "title": "Universe, Third Edition",
+          "author": null,
+          "price": 18.84,
+          "priceRaw": "$18.84",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1790,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1465499954",
+          "raw": {
+            "text": "#30 Universe, Third Edition DK 4.8 out of 5 stars 1,790 Hardcover $18.84 19 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B003YJEXUM",
+          "position": 31,
+          "title": "Packing for Mars: The Curious Science of Life in the Void",
+          "author": null,
+          "price": 3.99,
+          "priceRaw": "$3.99",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 2201000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B003YJEXUM",
+          "raw": {
+            "text": "#31 Packing for Mars: The Curious Science of Life in the Void Mary Roach 4.5 out of 5 stars 2,201 Kindle Edition $3.99 12 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B073W2BCHD",
+          "position": 32,
+          "title": "The Astronomy Book: Big Ideas Simply Explained (DK Big Ideas)",
+          "author": null,
+          "price": 1.99,
+          "priceRaw": "$1.99",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 1483000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B073W2BCHD",
+          "raw": {
+            "text": "#32 The Astronomy Book: Big Ideas Simply Explained (DK Big Ideas) DK 4.7 out of 5 stars 1,483 Kindle Edition $1.99 6 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "1426221770",
+          "position": 33,
+          "title": "Cosmic Queries: StarTalk's Guide to Who We Are, How We Got Here, and Where We're Going",
+          "author": null,
+          "price": 11.98,
+          "priceRaw": "$11.98",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 3496,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1426221770",
+          "raw": {
+            "text": "#33 Cosmic Queries: StarTalk's Guide to Who We Are, How We Got Here, and Where We're Going Neil deGrasse Tyson 4.8 out of 5 stars 3,496 Hardcover $11.98 12 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "B0GTBK7GWS",
+          "position": 34,
+          "title": "Visitor",
+          "author": null,
+          "price": 0.99,
+          "priceRaw": "$0.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 1095000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GTBK7GWS",
+          "raw": {
+            "text": "#34 Visitor Craig A. Falconer 4.4 out of 5 stars 1,095 Kindle Edition $0.99 3 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0FM7XF7WT",
+          "position": 35,
+          "title": "Not For Disclosure: The Truth about UFOs, the World's Best Kept Secret - The Sunday Times Bestseller from the UK's Leading Barrister",
+          "author": null,
+          "price": 14.95,
+          "priceRaw": "$14.95",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 279,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0FM7XF7WT",
+          "raw": {
+            "text": "#35 Not For Disclosure: The Truth about UFOs, the World's Best Kept Secret - The Sunday Times Bestseller from the UK's Leading Barrister Jonathan Caplan 4.4 out of 5 stars 279 Audible Audiobook $14.95 3 formats available"
+          }
+        },
+        {
+          "asin": "1101984252",
+          "position": 36,
+          "title": "The Big Picture: On the Origins of Life, Meaning, and the Universe Itself",
+          "author": null,
+          "price": 8.17,
+          "priceRaw": "$8.17",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 3649,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1101984252",
+          "raw": {
+            "text": "#36 The Big Picture: On the Origins of Life, Meaning, and the Universe Itself Sean Carroll 4.4 out of 5 stars 3,649 Paperback $8.17 9 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "1615192417",
+          "position": 37,
+          "title": "The Lost Art of Reading Nature’s Signs: Use Outdoor Clues to Find Your Way, Predict the Weather, Locate Water, Track Animals―and Other Forgotten Skills (Natural Navigation)",
+          "author": null,
+          "price": 400,
+          "priceRaw": "$400",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 6935,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1615192417",
+          "raw": {
+            "text": "#37 The Lost Art of Reading Nature’s Signs: Use Outdoor Clues to Find Your Way, Predict the Weather, Locate Water, Track Animals―and Other Forgotten Skills (Natural Navigation) Tristan Gooley 4.6 out of 5 stars 6,935 Paperback 69 offers from $400 $4 00 4 formats available"
+          }
+        },
+        {
+          "asin": "B0CQ2WXWJ2",
+          "position": 38,
+          "title": "Challenger: A True Story of Heroism and Disaster on the Edge of Space",
+          "author": null,
+          "price": 19.59,
+          "priceRaw": "$19.59",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 1879,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0CQ2WXWJ2",
+          "raw": {
+            "text": "#38 Challenger: A True Story of Heroism and Disaster on the Edge of Space Adam Higginbotham 4.7 out of 5 stars 1,879 Audible Audiobook $19.59 5 formats available"
+          }
+        },
+        {
+          "asin": "0553380168",
+          "position": 39,
+          "title": "A Brief History of Time",
+          "author": null,
+          "price": 8.54,
+          "priceRaw": "$8.54",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 11635,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0553380168",
+          "raw": {
+            "text": "#39 A Brief History of Time Stephen Hawking 4.6 out of 5 stars 11,635 Paperback $8.54 10 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0CK8D7WPP",
+          "position": 40,
+          "title": "The Wrong Stuff: How the Soviet Space Program Crashed and Burned",
+          "author": null,
+          "price": 1.99,
+          "priceRaw": "$1.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 378000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0CK8D7WPP",
+          "raw": {
+            "text": "#40 The Wrong Stuff: How the Soviet Space Program Crashed and Burned John Strausbaugh 4.4 out of 5 stars 378 Kindle Edition $1.99 6 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B00DJDCGA2",
+          "position": 41,
+          "title": "My Big TOE: Awakening: Book One of a Trilogy Unifying Philosophy, Physics, and Metaphysics",
+          "author": null,
+          "price": 16.99,
+          "priceRaw": "$16.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 670,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B00DJDCGA2",
+          "raw": {
+            "text": "#41 My Big TOE: Awakening: Book One of a Trilogy Unifying Philosophy, Physics, and Metaphysics Thomas Campbell 4.4 out of 5 stars 670 Audible Audiobook $16.99 4 formats available"
+          }
+        },
+        {
+          "asin": "B01B55PR4M",
+          "position": 42,
+          "title": "Between Death and Life: Conversations with a Spirit",
+          "author": null,
+          "price": 17.49,
+          "priceRaw": "$17.49",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 5971,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B01B55PR4M",
+          "raw": {
+            "text": "#42 Between Death and Life: Conversations with a Spirit Dolores Cannon 4.7 out of 5 stars 5,971 Audible Audiobook $17.49 4 formats available"
+          }
+        },
+        {
+          "asin": "B0BT665PF1",
+          "position": 43,
+          "title": "Skinwalkers at the Pentagon: An Insider's Account of the Secret Government UFO Program",
+          "author": null,
+          "price": 14.49,
+          "priceRaw": "$14.49",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 3174,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0BT665PF1",
+          "raw": {
+            "text": "#43 Skinwalkers at the Pentagon: An Insider's Account of the Secret Government UFO Program James T. Lacatski DEng 4.4 out of 5 stars 3,174 Audible Audiobook $14.49 4 formats available"
+          }
+        },
+        {
+          "asin": "B09Q7Y4GL5",
+          "position": 44,
+          "title": "Starry Messenger: Cosmic Perspectives on Civilization",
+          "author": null,
+          "price": 14.95,
+          "priceRaw": "$14.95",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 4996,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B09Q7Y4GL5",
+          "raw": {
+            "text": "#44 Starry Messenger: Cosmic Perspectives on Civilization Neil deGrasse Tyson 4.7 out of 5 stars 4,996 Audible Audiobook $14.95 5 formats available"
+          }
+        },
+        {
+          "asin": "1560273283",
+          "position": 45,
+          "title": "The Standard Pilot Log (Black): ASA-SP-30",
+          "author": null,
+          "price": 12.07,
+          "priceRaw": "$12.07",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1824,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1560273283",
+          "raw": {
+            "text": "#45 The Standard Pilot Log (Black): ASA-SP-30 ASA Staff 4.8 out of 5 stars 1,824 Hardcover $12.07 13 pts"
+          }
+        },
+        {
+          "asin": "089281814X",
+          "position": 46,
+          "title": "A Brief Tour of Higher Consciousness: A Cosmic Book on the Mechanics of Creation",
+          "author": null,
+          "price": 12.04,
+          "priceRaw": "$12.04",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 504,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/089281814X",
+          "raw": {
+            "text": "#46 A Brief Tour of Higher Consciousness: A Cosmic Book on the Mechanics of Creation Itzhak Bentov 4.7 out of 5 stars 504 Paperback $12.04 13 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "0517887290",
+          "position": 47,
+          "title": "Fingerprints of the Gods: The Evidence of Earth's Lost Civilization",
+          "author": null,
+          "price": 13.84,
+          "priceRaw": "$13.84",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 5116,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0517887290",
+          "raw": {
+            "text": "#47 Fingerprints of the Gods: The Evidence of Earth's Lost Civilization Graham Hancock 4.7 out of 5 stars 5,116 Paperback $13.84 14 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0063235560",
+          "position": 48,
+          "title": "Imminent: Written by the Former Head of the Pentagon Program Investigating UAPs",
+          "author": null,
+          "price": 12.69,
+          "priceRaw": "$12.69",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 5783,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0063235560",
+          "raw": {
+            "text": "#48 Imminent: Written by the Former Head of the Pentagon Program Investigating UAPs Luis Elizondo 4.6 out of 5 stars 5,783 Hardcover $12.69 17 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0762493410",
+          "position": 49,
+          "title": "UFO Cow Abduction: Beam Up Your Bovine (With Light and Sound!) (RP Minis)",
+          "author": null,
+          "price": 10.99,
+          "priceRaw": "$10.99",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 7499,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0762493410",
+          "raw": {
+            "text": "#49 UFO Cow Abduction: Beam Up Your Bovine (With Light and Sound!) (RP Minis) Matt Smiriglio 4.5 out of 5 stars 7,499 Paperback $10.99 11 pts"
+          }
+        },
+        {
+          "asin": "0399184414",
+          "position": 50,
+          "title": "Seven Brief Lessons on Physics",
+          "author": null,
+          "price": 10.98,
+          "priceRaw": "$10.98",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 14416,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0399184414",
+          "raw": {
+            "text": "#50 Seven Brief Lessons on Physics Carlo Rovelli 4.3 out of 5 stars 14,416 Hardcover $10.98 11 pts 5 formats available"
+          }
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "url": "https://www.amazon.com/gp/bestsellers/books/13439?pg=2",
+      "kind": "bestsellers",
+      "items": 50,
+      "total": null,
+      "itemsData": [
+        {
+          "asin": "B0B4F3NRCQ",
+          "position": 51,
+          "title": "Communion",
+          "author": null,
+          "price": 18.59,
+          "priceRaw": "$18.59",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 1529,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0B4F3NRCQ",
+          "raw": {
+            "text": "#51 Communion Whitley Strieber 4.2 out of 5 stars 1,529 Audible Audiobook $18.59 4 formats available"
+          }
+        },
+        {
+          "asin": "1951806557",
+          "position": 52,
+          "title": "Awesome Space Facts for Kids: Discover Amazing Facts, Mind-Blowing Records, and the Wonders of the Universe!",
+          "author": null,
+          "price": 9.89,
+          "priceRaw": "$9.89",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 421,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1951806557",
+          "raw": {
+            "text": "#52 Awesome Space Facts for Kids: Discover Amazing Facts, Mind-Blowing Records, and the Wonders of the Universe! John Hicks 4.7 out of 5 stars 421 Paperback $9.89 10 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1770859977",
+          "position": 53,
+          "title": "Hubble's Universe: Greatest Discoveries and Latest Images",
+          "author": null,
+          "price": 18.14,
+          "priceRaw": "$18.14",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1309,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1770859977",
+          "raw": {
+            "text": "#53 Hubble's Universe: Greatest Discoveries and Latest Images Terence Dickinson 4.8 out of 5 stars 1,309 Hardcover $18.14 19 pts"
+          }
+        },
+        {
+          "asin": "B005HTYBCM",
+          "position": 54,
+          "title": "The Beginning of Infinity: Explanations That Transform the World",
+          "author": null,
+          "price": 26.95,
+          "priceRaw": "$26.95",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 2427,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B005HTYBCM",
+          "raw": {
+            "text": "#54 The Beginning of Infinity: Explanations That Transform the World David Deutsch 4.5 out of 5 stars 2,427 Audible Audiobook $26.95 5 formats available"
+          }
+        },
+        {
+          "asin": "0070362408",
+          "position": 55,
+          "title": "Stick and Rudder: An Explanation of the Art of Flying",
+          "author": null,
+          "price": 19.49,
+          "priceRaw": "$19.49",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1592,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0070362408",
+          "raw": {
+            "text": "#55 Stick and Rudder: An Explanation of the Art of Flying Wolfgang Langewiesche 4.8 out of 5 stars 1,592 Hardcover $19.49 20 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B07GQ587W6",
+          "position": 56,
+          "title": "Jesus and the Essenes",
+          "author": null,
+          "price": 12.31,
+          "priceRaw": "$12.31",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 4005,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07GQ587W6",
+          "raw": {
+            "text": "#56 Jesus and the Essenes Dolores Cannon 4.8 out of 5 stars 4,005 Audible Audiobook $12.31 4 formats available"
+          }
+        },
+        {
+          "asin": "1510771948",
+          "position": 57,
+          "title": "Airplane Flying Handbook: FAA-H-8083-3C (2026)",
+          "author": null,
+          "price": 15.9,
+          "priceRaw": "$15.90",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 2026,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1510771948",
+          "raw": {
+            "text": "#57 Airplane Flying Handbook: FAA-H-8083-3C (2026) Federal Aviation Administration 4.7 out of 5 stars 329 Paperback $15.90 16 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "1496455584",
+          "position": 58,
+          "title": "Believing Is Seeing: A Physicist Explains How Science Shattered His Atheism and Revealed the Necessity of Faith",
+          "author": null,
+          "price": 17.28,
+          "priceRaw": "$17.28",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1325,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1496455584",
+          "raw": {
+            "text": "#58 Believing Is Seeing: A Physicist Explains How Science Shattered His Atheism and Revealed the Necessity of Faith Michael Guillen PhD 4.6 out of 5 stars 1,325 Paperback $17.28 19 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0393351378",
+          "position": 59,
+          "title": "The Science of Interstellar",
+          "author": null,
+          "price": 13.65,
+          "priceRaw": "$13.65",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 2517,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0393351378",
+          "raw": {
+            "text": "#59 The Science of Interstellar Kip Thorne 4.7 out of 5 stars 2,517 Paperback $13.65 14 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B01I2A0OBO",
+          "position": 60,
+          "title": "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+          "author": null,
+          "price": 18.37,
+          "priceRaw": "$18.37",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 13701,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B01I2A0OBO",
+          "raw": {
+            "text": "#60 Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race Margot Lee Shetterly 4.4 out of 5 stars 13,701 Audible Audiobook $18.37 5 formats available"
+          }
+        },
+        {
+          "asin": "1982120630",
+          "position": 61,
+          "title": "How to Not Die Alone: The Surprising Science That Will Help You Find Love",
+          "author": null,
+          "price": 11.14,
+          "priceRaw": "$11.14",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 3194,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1982120630",
+          "raw": {
+            "text": "#61 How to Not Die Alone: The Surprising Science That Will Help You Find Love Logan Ury 4.4 out of 5 stars 3,194 Paperback $11.14 12 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0310127815",
+          "position": 62,
+          "title": "Seven Days that Divide the World, 10th Anniversary Edition: The Beginning According to Genesis and Science",
+          "author": null,
+          "price": 11.19,
+          "priceRaw": "$11.19",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 696,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0310127815",
+          "raw": {
+            "text": "#62 Seven Days that Divide the World, 10th Anniversary Edition: The Beginning According to Genesis and Science John C. Lennox 4.7 out of 5 stars 696 Paperback $11.19 12 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "0063411768",
+          "position": 63,
+          "title": "Bird Men: The Rise of American Airpower and the Machine That Ended World War II – A WWII History of American Airpower and the Superfortress That Changed the Course of the War",
+          "author": null,
+          "price": 27.74,
+          "priceRaw": "$27.74",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 14,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0063411768",
+          "raw": {
+            "text": "#63 Bird Men: The Rise of American Airpower and the Machine That Ended World War II – A WWII History of American Airpower and the Superfortress That Changed the Course of the War A. J. Baime 4.6 out of 5 stars 14 Hardcover $27.74 28 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B0GFP7BBZ2",
+          "position": 64,
+          "title": "Have a Nice Disclosure!",
+          "author": null,
+          "price": 11.99,
+          "priceRaw": "$11.99",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 118,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GFP7BBZ2",
+          "raw": {
+            "text": "#64 Have a Nice Disclosure! Julia Mossbridge 4.2 out of 5 stars 118 Audible Audiobook $11.99 3 formats available"
+          }
+        },
+        {
+          "asin": "0062071505",
+          "position": 65,
+          "title": "Return of the God Hypothesis: Three Scientific Discoveries That Reveal the Mind Behind the Universe ― As Featured in the Film, The Story of Everything",
+          "author": null,
+          "price": 16.6,
+          "priceRaw": "$16.60",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 2531,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0062071505",
+          "raw": {
+            "text": "#65 Return of the God Hypothesis: Three Scientific Discoveries That Reveal the Mind Behind the Universe ― As Featured in the Film, The Story of Everything Stephen C. Meyer 4.8 out of 5 stars 2,531 Hardcover $16.60 17 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0961320753",
+          "position": 66,
+          "title": "The Night Sky 30°-40° (Large; North Latitude)",
+          "author": null,
+          "price": 18.95,
+          "priceRaw": "$18.95",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 1184000000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0961320753",
+          "raw": {
+            "text": "#66 The Night Sky 30°-40° (Large; North Latitude) David Chandler Company 4.7 out of 5 stars 1,184 Map $18.95 19 pts"
+          }
+        },
+        {
+          "asin": "B001OELZNC",
+          "position": 67,
+          "title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+          "author": null,
+          "price": 16.95,
+          "priceRaw": "$16.95",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 4249,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B001OELZNC",
+          "raw": {
+            "text": "#67 The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory Brian Greene 4.6 out of 5 stars 4,249 Audible Audiobook $16.95 4 formats available"
+          }
+        },
+        {
+          "asin": "0972509461",
+          "position": 68,
+          "title": "My Big Toe: A Trilogy Unifying Philosophy, Physics, and Metaphysics: Awakening, Discovery, Inner Workings",
+          "author": null,
+          "price": 28.01,
+          "priceRaw": "$28.01",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 562,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0972509461",
+          "raw": {
+            "text": "#68 My Big Toe: A Trilogy Unifying Philosophy, Physics, and Metaphysics: Awakening, Discovery, Inner Workings Thomas Campbell 4.6 out of 5 stars 562 Paperback $28.01 29 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0061379131",
+          "position": 69,
+          "title": "Twelfth Plan: A Study of Ancient Astronaut Theory and the Planet Nibiru",
+          "author": null,
+          "price": 7.19,
+          "priceRaw": "$7.19",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 4244000000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0061379131",
+          "raw": {
+            "text": "#69 Twelfth Plan: A Study of Ancient Astronaut Theory and the Planet Nibiru Zecharia Sitchin 4.6 out of 5 stars 4,244 Mass Market Paperback $7.19 8 pts 6 formats available"
+          }
+        },
+        {
+          "asin": "0062014102",
+          "position": 70,
+          "title": "The Holographic Universe: The Revolutionary Theory of Reality ― A Science and Philosophy Book on Quantum Physics and the Paranormal",
+          "author": null,
+          "price": 14.43,
+          "priceRaw": "$14.43",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 2530,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0062014102",
+          "raw": {
+            "text": "#70 The Holographic Universe: The Revolutionary Theory of Reality ― A Science and Philosophy Book on Quantum Physics and the Paranormal Michael Talbot 4.6 out of 5 stars 2,530 Paperback $14.43 15 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0802778135",
+          "position": 71,
+          "title": "Quadrivium: The Four Classical Liberal Arts of Number, Geometry, Music, & Cosmology (Wooden Books, 33)",
+          "author": null,
+          "price": 10.15,
+          "priceRaw": "$10.15",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 2129,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0802778135",
+          "raw": {
+            "text": "#71 Quadrivium: The Four Classical Liberal Arts of Number, Geometry, Music, & Cosmology (Wooden Books, 33) Miranda Lundy 4.8 out of 5 stars 2,129 Hardcover $10.15 11 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B07N31G98W",
+          "position": 72,
+          "title": "American Cosmic: UFOs, Religion, Technology",
+          "author": null,
+          "price": 14.95,
+          "priceRaw": "$14.95",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 1954,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07N31G98W",
+          "raw": {
+            "text": "#72 American Cosmic: UFOs, Religion, Technology D.W. Pasulka 4.5 out of 5 stars 1,954 Audible Audiobook $14.95 4 formats available"
+          }
+        },
+        {
+          "asin": "B0001KHV7E",
+          "position": 73,
+          "title": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+          "author": null,
+          "price": 25.59,
+          "priceRaw": "$25.59",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 2324,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0001KHV7E",
+          "raw": {
+            "text": "#73 The Fabric of the Cosmos: Space, Time, and the Texture of Reality Brian Greene 4.6 out of 5 stars 2,324 Audible Audiobook $25.59 6 formats available"
+          }
+        },
+        {
+          "asin": "B091J2CP5X",
+          "position": 74,
+          "title": "The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War",
+          "author": null,
+          "price": 15.23,
+          "priceRaw": "$15.23",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 11100,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B091J2CP5X",
+          "raw": {
+            "text": "#74 The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War Malcolm Gladwell 4.5 out of 5 stars 11,100 Audible Audiobook $15.23 4 formats available"
+          }
+        },
+        {
+          "asin": "0062979981",
+          "position": 75,
+          "title": "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX ― A Riveting Space Exploration History of Rocket Failures and Triumph",
+          "author": null,
+          "price": 18.64,
+          "priceRaw": "$18.64",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 3736,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0062979981",
+          "raw": {
+            "text": "#75 Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX ― A Riveting Space Exploration History of Rocket Failures and Triumph Eric Berger 4.8 out of 5 stars 3,736 Paperback $18.64 19 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0593844084",
+          "position": 76,
+          "title": "Cosmos: Explore the Wonders of the Universe (DK Secret World Encyclopedias)",
+          "author": null,
+          "price": 25.89,
+          "priceRaw": "$25.89",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 290,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0593844084",
+          "raw": {
+            "text": "#76 Cosmos: Explore the Wonders of the Universe (DK Secret World Encyclopedias) DK 4.8 out of 5 stars 290 Hardcover $25.89 26 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "9390391423",
+          "position": 77,
+          "title": "Space - Solar System: Knowledge Encyclopedia For Children",
+          "author": null,
+          "price": 5.99,
+          "priceRaw": "$5.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1141,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/9390391423",
+          "raw": {
+            "text": "#77 Space - Solar System: Knowledge Encyclopedia For Children Wonder House Books 4.6 out of 5 stars 1,141 Paperback $5.99 6 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1108457568",
+          "position": 78,
+          "title": "Turn Left At Orion: Hundreds of Night Sky Objects to See in a Home Telescope - and How to Find Them",
+          "author": null,
+          "price": 36.35,
+          "priceRaw": "$36.35",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 2347,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1108457568",
+          "raw": {
+            "text": "#78 Turn Left At Orion: Hundreds of Night Sky Objects to See in a Home Telescope - and How to Find Them Guy Consolmagno 4.7 out of 5 stars 2,347 Spiral-bound $36.35 37 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B09NLFY54Z",
+          "position": 79,
+          "title": "A Brief History of Time: From the Big Bang to Black Holes",
+          "author": null,
+          "price": 12.89,
+          "priceRaw": "$12.89",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 15565,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B09NLFY54Z",
+          "raw": {
+            "text": "#79 A Brief History of Time: From the Big Bang to Black Holes Stephen W. Hawking 4.5 out of 5 stars 15,565 Audible Audiobook $12.89 4 formats available"
+          }
+        },
+        {
+          "asin": "B0F1CBBKJW",
+          "position": 80,
+          "title": "Scientific American October 2026",
+          "author": null,
+          "price": 6.99,
+          "priceRaw": "$6.99",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 10000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0F1CBBKJW",
+          "raw": {
+            "text": "#80 Scientific American October 2026 Scientific American 4.2 out of 5 stars 10 Kindle Edition $6.99 21 pts"
+          }
+        },
+        {
+          "asin": "1982103558",
+          "position": 81,
+          "title": "The End of Everything: (Astrophysically Speaking)",
+          "author": null,
+          "price": 10.58,
+          "priceRaw": "$10.58",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 3375,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1982103558",
+          "raw": {
+            "text": "#81 The End of Everything: (Astrophysically Speaking) Katie Mack 4.6 out of 5 stars 3,375 Paperback $10.58 11 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0062936719",
+          "position": 82,
+          "title": "Black Holes: The Key to Understanding the Universe ― A Definitive Popular Science Book from a Star Physicist",
+          "author": null,
+          "price": 22,
+          "priceRaw": "$22.00",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1597,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0062936719",
+          "raw": {
+            "text": "#82 Black Holes: The Key to Understanding the Universe ― A Definitive Popular Science Book from a Star Physicist Brian Cox 4.6 out of 5 stars 1,597 Paperback $22.00 22 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "B06XC6H7W2",
+          "position": 83,
+          "title": "Bringing Columbia Home: The Untold Story of a Lost Space Shuttle and Her Crew",
+          "author": null,
+          "price": 0.99,
+          "priceRaw": "$0.99",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 2268000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B06XC6H7W2",
+          "raw": {
+            "text": "#83 Bringing Columbia Home: The Untold Story of a Lost Space Shuttle and Her Crew Michael D. Leinbach 4.5 out of 5 stars 2,268 Kindle Edition $0.99 3 pts 6 formats available"
+          }
+        },
+        {
+          "asin": "B0GM673T77",
+          "position": 84,
+          "title": "Cydonia: The Secret Chronicles of Mars",
+          "author": null,
+          "price": 23.33,
+          "priceRaw": "$23.33",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 125,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GM673T77",
+          "raw": {
+            "text": "#84 Cydonia: The Secret Chronicles of Mars David E. Flynn 4.6 out of 5 stars 125 Paperback $23.33 24 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "1439148813",
+          "position": 85,
+          "title": "Failure Is Not an Option: Mission Control From Mercury to Apollo 13 and Beyond",
+          "author": null,
+          "price": 10.18,
+          "priceRaw": "$10.18",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 3053,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1439148813",
+          "raw": {
+            "text": "#85 Failure Is Not an Option: Mission Control From Mercury to Apollo 13 and Beyond Gene Kranz 4.7 out of 5 stars 3,053 Paperback $10.18 11 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "B081GDJ6KT",
+          "position": 86,
+          "title": "The Custodians: Beyond Abduction",
+          "author": null,
+          "price": 17.45,
+          "priceRaw": "$17.45",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 2836,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B081GDJ6KT",
+          "raw": {
+            "text": "#86 The Custodians: Beyond Abduction Dolores Cannon 4.8 out of 5 stars 2,836 Audible Audiobook $17.45 4 formats available"
+          }
+        },
+        {
+          "asin": "1644252279",
+          "position": 87,
+          "title": "Aviation Mechanic Handbook",
+          "author": null,
+          "price": 11.92,
+          "priceRaw": "$11.92",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 316,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1644252279",
+          "raw": {
+            "text": "#87 Aviation Mechanic Handbook Dale Crane 4.8 out of 5 stars 316 Spiral-bound $11.92 12 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0553103741",
+          "position": 88,
+          "title": "The Illustrated Brief History of Time, Updated and Expanded Edition",
+          "author": null,
+          "price": 23.73,
+          "priceRaw": "$23.73",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1883,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0553103741",
+          "raw": {
+            "text": "#88 The Illustrated Brief History of Time, Updated and Expanded Edition Stephen Hawking 4.8 out of 5 stars 1,883 Hardcover $23.73 25 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "935440443X",
+          "position": 89,
+          "title": "Knowledge Encyclopedia - Space (Knowledge Encyclopedia For Children)",
+          "author": null,
+          "price": 18.63,
+          "priceRaw": "$18.63",
+          "currency": "USD",
+          "rating": 4.9,
+          "reviews": 908,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/935440443X",
+          "raw": {
+            "text": "#89 Knowledge Encyclopedia - Space (Knowledge Encyclopedia For Children) Wonder House Books 4.9 out of 5 stars 908 Hardcover $18.63 19 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0525432175",
+          "position": 90,
+          "title": "Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe",
+          "author": null,
+          "price": 15.77,
+          "priceRaw": "$15.77",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 3333,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0525432175",
+          "raw": {
+            "text": "#90 Until the End of Time: Mind, Matter, and Our Search for Meaning in an Evolving Universe Brian Greene 4.6 out of 5 stars 3,333 Paperback $15.77 16 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "0385333218",
+          "position": 91,
+          "title": "Rocket Boys (The Coalwood Series #1)",
+          "author": null,
+          "price": 10.48,
+          "priceRaw": "$10.48",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 3379,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0385333218",
+          "raw": {
+            "text": "#91 Rocket Boys (The Coalwood Series #1) Homer Hickam 4.7 out of 5 stars 3,379 Paperback $10.48 11 pts 6 formats available"
+          }
+        },
+        {
+          "asin": "1637745273",
+          "position": 92,
+          "title": "Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age",
+          "author": null,
+          "price": 18.03,
+          "priceRaw": "$18.03",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 891,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1637745273",
+          "raw": {
+            "text": "#92 Reentry: SpaceX, Elon Musk, and the Reusable Rockets that Launched a Second Space Age Eric Berger 4.7 out of 5 stars 891 Hardcover $18.03 19 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B01N10UQHG",
+          "position": 93,
+          "title": "Welcome to the Universe: An Astrophysical Tour",
+          "author": null,
+          "price": 23.93,
+          "priceRaw": "$23.93",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1277,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B01N10UQHG",
+          "raw": {
+            "text": "#93 Welcome to the Universe: An Astrophysical Tour Michael A. Strauss 4.6 out of 5 stars 1,277 Audible Audiobook $23.93 4 formats available"
+          }
+        },
+        {
+          "asin": "B087JMBQ8J",
+          "position": 94,
+          "title": "The Planets: The Definitive Visual Guide to Our Solar System",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1578000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B087JMBQ8J",
+          "raw": {
+            "text": "#94 The Planets: The Definitive Visual Guide to Our Solar System DK 4.8 out of 5 stars 1,578 Kindle Edition $2.99 9 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "150117200X",
+          "position": 95,
+          "title": "The Day After Roswell",
+          "author": null,
+          "price": 11.48,
+          "priceRaw": "$11.48",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 5602,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/150117200X",
+          "raw": {
+            "text": "#95 The Day After Roswell William J. Birnes 4.5 out of 5 stars 5,602 Paperback $11.48 12 pts 6 formats available"
+          }
+        },
+        {
+          "asin": "B07H1VFRZZ",
+          "position": 96,
+          "title": "StarTalk: Everything You Ever Need to Know About Space Travel, Sci-Fi, the Human Race, the Universe, and Beyond (Astrophysics for People in a Hurry Series)",
+          "author": null,
+          "price": 10.99,
+          "priceRaw": "$10.99",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 981000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07H1VFRZZ",
+          "raw": {
+            "text": "#96 StarTalk: Everything You Ever Need to Know About Space Travel, Sci-Fi, the Human Race, the Universe, and Beyond (Astrophysics for People in a Hurry Series) Neil Tyson 4.7 out of 5 stars 981 Kindle Edition $10.99 33 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0987422480",
+          "position": 97,
+          "title": "Passport to Magonia: From Folklore to Flying Saucers",
+          "author": null,
+          "price": 24.95,
+          "priceRaw": "$24.95",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1134,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0987422480",
+          "raw": {
+            "text": "#97 Passport to Magonia: From Folklore to Flying Saucers Jacques Vallee 4.6 out of 5 stars 1,134 Paperback $24.95 25 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0DG8K8MC3",
+          "position": 98,
+          "title": "SPACE FACTS FOR CURIOUS MINDS: 5,705 Astronomy facts about astronauts, planets, galaxies and everything in between with fun trivia",
+          "author": null,
+          "price": 11.99,
+          "priceRaw": "$11.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 188,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DG8K8MC3",
+          "raw": {
+            "text": "#98 SPACE FACTS FOR CURIOUS MINDS: 5,705 Astronomy facts about astronauts, planets, galaxies and everything in between with fun trivia PANTHEON SPACE ACADEMY 4.6 out of 5 stars 188 Paperback $11.99 12 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B0FKVWCNWD",
+          "position": 99,
+          "title": "Why Do We Exist?: The Nine Realms of Universe that Make You Possible",
+          "author": null,
+          "price": 14.95,
+          "priceRaw": "$14.95",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 99,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0FKVWCNWD",
+          "raw": {
+            "text": "#99 Why Do We Exist?: The Nine Realms of Universe that Make You Possible Hakeem Oluseyi 4.5 out of 5 stars 99 Audible Audiobook $14.95 3 formats available"
+          }
+        },
+        {
+          "asin": "1949501426",
+          "position": 100,
+          "title": "Forbidden Science 7: Final Report: The Journals of Jacques Vallee 2020-2025",
+          "author": null,
+          "price": 27.95,
+          "priceRaw": "$27.95",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 58,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1949501426",
+          "raw": {
+            "text": "#100 Forbidden Science 7: Final Report: The Journals of Jacques Vallee 2020-2025 Jacques Vallee 4.6 out of 5 stars 58 Paperback $27.95 28 pts 2 formats available"
+          }
+        }
+      ]
+    }
+  ],
+  "stopped": null
+}

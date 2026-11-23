@@ -1,0 +1,17 @@
+{
+  "name": "cli-amazon-business",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Workspace-isolated Amazon KDP research CLI and engine",
+  "bin": {
+    "amazon-business": "./src/cli.ts"
+  },
+  "scripts": {
+    "dev": "bun run src/cli.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "linkedom": "^0.18.15"
+  }
+}

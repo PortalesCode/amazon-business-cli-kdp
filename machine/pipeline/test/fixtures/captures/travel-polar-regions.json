@@ -1,0 +1,1826 @@
+{
+  "url": "https://www.amazon.com/gp/bestsellers/books/17199",
+  "label": "travel-polar-regions",
+  "capturedAt": "2026-11-21T09:44:33.366Z",
+  "pages": [
+    {
+      "page": 1,
+      "url": "https://www.amazon.com/gp/bestsellers/books/17199?pg=1",
+      "kind": "bestsellers",
+      "items": 50,
+      "total": null,
+      "itemsData": [
+        {
+          "asin": "0465062881",
+          "position": 1,
+          "title": "Endurance: Shackleton's Incredible Voyage",
+          "author": null,
+          "price": 9.48,
+          "priceRaw": "$9.48",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 27906,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0465062881",
+          "raw": {
+            "text": "#1 Endurance: Shackleton's Incredible Voyage Alfred Lansing 4.8 out of 5 stars 27,906 Paperback $9.48 10 pts 6 formats available"
+          }
+        },
+        {
+          "asin": "B0FG1XG57D",
+          "position": 2,
+          "title": "The Arctic Cruise: Make 2026 a year to remember, as you escape this winter for the holiday – and romance – of a lifetime under the Northern Lights (Cruise Escapes Book 1)",
+          "author": null,
+          "price": 0.99,
+          "priceRaw": "$0.99",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 2592000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0FG1XG57D",
+          "raw": {
+            "text": "#2 The Arctic Cruise: Make 2026 a year to remember, as you escape this winter for the holiday – and romance – of a lifetime under the Northern Lights (Cruise Escapes Book 1) Caroline James 4.5 out of 5 stars 2,592 Kindle Edition $0.99 3 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0HRTB5HRH",
+          "position": 3,
+          "title": "The Shrouded World (Dr. Emily Carter Archaeological Thrillers Book 2)",
+          "author": null,
+          "price": 6.99,
+          "priceRaw": "$6.99",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 6000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HRTB5HRH",
+          "raw": {
+            "text": "#3 The Shrouded World (Dr. Emily Carter Archaeological Thrillers Book 2) Nick Thacker 4.5 out of 5 stars 6 Kindle Edition $6.99 21 pts"
+          }
+        },
+        {
+          "asin": "1523506482",
+          "position": 4,
+          "title": "Atlas Obscura, 2nd Edition: An Explorer's Guide to the World's Hidden Wonders",
+          "author": null,
+          "price": 19.19,
+          "priceRaw": "$19.19",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 2444,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1523506482",
+          "raw": {
+            "text": "#4 Atlas Obscura, 2nd Edition: An Explorer's Guide to the World's Hidden Wonders Joshua Foer 4.8 out of 5 stars 2,444 Hardcover $19.19 20 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "1426220073",
+          "position": 5,
+          "title": "100 Dives of a Lifetime: The World's Ultimate Underwater Destinations (100 of a Lifetime)",
+          "author": null,
+          "price": 21.06,
+          "priceRaw": "$21.06",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1349,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1426220073",
+          "raw": {
+            "text": "#5 100 Dives of a Lifetime: The World's Ultimate Underwater Destinations (100 of a Lifetime) Carrie Miller 4.8 out of 5 stars 1,349 Hardcover $21.06 22 pts"
+          }
+        },
+        {
+          "asin": "1888729988",
+          "position": 6,
+          "title": "Secrets of Antarctica: The Untold History of the Ice Continent (The Esoteric Series)",
+          "author": null,
+          "price": 24.95,
+          "priceRaw": "$24.95",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 135,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1888729988",
+          "raw": {
+            "text": "#6 Secrets of Antarctica: The Untold History of the Ice Continent (The Esoteric Series) Brad Olsen 4.6 out of 5 stars 135 Paperback $24.95 25 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0744095093",
+          "position": 7,
+          "title": "Life on Svalbard: Finding Home on a Remote Island Near the North Pole",
+          "author": null,
+          "price": 32,
+          "priceRaw": "$32.00",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1226,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0744095093",
+          "raw": {
+            "text": "#7 Life on Svalbard: Finding Home on a Remote Island Near the North Pole Cecilia Blomdahl 4.8 out of 5 stars 1,226 Hardcover $32.00 32 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B07JFYHGPV",
+          "position": 8,
+          "title": "Erebus: One Ship, Two Epic Voyages, and the Greatest Naval Mystery of All Time",
+          "author": null,
+          "price": 1.99,
+          "priceRaw": "$1.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 6659000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07JFYHGPV",
+          "raw": {
+            "text": "#8 Erebus: One Ship, Two Epic Voyages, and the Greatest Naval Mystery of All Time Michael Palin 4.6 out of 5 stars 6,659 Kindle Edition $1.99 6 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "1641717017",
+          "position": 9,
+          "title": "Rick Steves Iceland (Rick Steves Travel Guide)",
+          "author": null,
+          "price": 21.87,
+          "priceRaw": "$21.87",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 8,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1641717017",
+          "raw": {
+            "text": "#9 Rick Steves Iceland (Rick Steves Travel Guide) Rick Steves 4.8 out of 5 stars 8 Paperback $21.87 22 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "067988341X",
+          "position": 10,
+          "title": "Polar Bears Past Bedtime (Magic Tree House, No. 12)",
+          "author": null,
+          "price": 6.21,
+          "priceRaw": "$6.21",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 1164,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/067988341X",
+          "raw": {
+            "text": "#10 Polar Bears Past Bedtime (Magic Tree House, No. 12) Mary Pope Osborne 4.7 out of 5 stars 1,164 Paperback $6.21 7 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "1805330896",
+          "position": 11,
+          "title": "A Woman in the Polar Night (Pushkin Press Classics)",
+          "author": null,
+          "price": 11.61,
+          "priceRaw": "$11.61",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1084,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1805330896",
+          "raw": {
+            "text": "#11 A Woman in the Polar Night (Pushkin Press Classics) Christiane Ritter 4.6 out of 5 stars 1,084 Paperback $11.61 12 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "0375727485",
+          "position": 12,
+          "title": "Arctic Dreams: National Book Award Winner",
+          "author": null,
+          "price": 519,
+          "priceRaw": "$519",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 1178,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0375727485",
+          "raw": {
+            "text": "#12 Arctic Dreams: National Book Award Winner Barry Lopez 4.5 out of 5 stars 1,178 Paperback 57 offers from $519 $5 19 5 formats available"
+          }
+        },
+        {
+          "asin": "0375404031",
+          "position": 13,
+          "title": "The Endurance: Shackleton's Legendary Antarctic Expedition",
+          "author": null,
+          "price": 14.24,
+          "priceRaw": "$14.24",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 871,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0375404031",
+          "raw": {
+            "text": "#13 The Endurance: Shackleton's Legendary Antarctic Expedition Caroline Alexander 4.8 out of 5 stars 871 Hardcover $14.24 15 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "076117964X",
+          "position": 14,
+          "title": "Eyelike Stickers: Wild Animals",
+          "author": null,
+          "price": 5.65,
+          "priceRaw": "$5.65",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 1098,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/076117964X",
+          "raw": {
+            "text": "#14 Eyelike Stickers: Wild Animals Workman Publishing 4.8 out of 5 stars 1,098 Paperback $5.65 6 pts"
+          }
+        },
+        {
+          "asin": "1984824341",
+          "position": 15,
+          "title": "Madhouse at the End of the Earth: The Belgica's Journey into the Dark Antarctic Night",
+          "author": null,
+          "price": 11.22,
+          "priceRaw": "$11.22",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 4581,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1984824341",
+          "raw": {
+            "text": "#15 Madhouse at the End of the Earth: The Belgica's Journey into the Dark Antarctic Night Julian Sancton 4.6 out of 5 stars 4,581 Paperback $11.22 12 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "1250782066",
+          "position": 16,
+          "title": "Labyrinth of Ice: The Triumphant and Tragic Greely Polar Expedition",
+          "author": null,
+          "price": 11.79,
+          "priceRaw": "$11.79",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 1439,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1250782066",
+          "raw": {
+            "text": "#16 Labyrinth of Ice: The Triumphant and Tragic Greely Polar Expedition Buddy Levy 4.7 out of 5 stars 1,439 Paperback $11.79 12 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "1668223678",
+          "position": 17,
+          "title": "The Wilder Way: A Memoir of Adventure, Freedom, and an Uncharted Life",
+          "author": null,
+          "price": 17.04,
+          "priceRaw": "$17.04",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 734,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1668223678",
+          "raw": {
+            "text": "#17 The Wilder Way: A Memoir of Adventure, Freedom, and an Uncharted Life Eva zu Beck 4.7 out of 5 stars 734 Hardcover $17.04 18 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B09TWQPSMB",
+          "position": 18,
+          "title": "South (Shackleton's Last Expedition): Illustrated 100th Anniversary Edition",
+          "author": null,
+          "price": 19.95,
+          "priceRaw": "$19.95",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 261,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B09TWQPSMB",
+          "raw": {
+            "text": "#18 South (Shackleton's Last Expedition): Illustrated 100th Anniversary Edition Ernest Shackleton 4.7 out of 5 stars 261 Hardcover $19.95 20 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B07PF1F2KD",
+          "position": 19,
+          "title": "The Sun Is a Compass: A 4,000-Mile Journey into the Alaskan Wilds",
+          "author": null,
+          "price": 16.95,
+          "priceRaw": "$16.95",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1404,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07PF1F2KD",
+          "raw": {
+            "text": "#19 The Sun Is a Compass: A 4,000-Mile Journey into the Alaskan Wilds Caroline Van Hemert 4.6 out of 5 stars 1,404 Audible Audiobook $16.95 5 formats available"
+          }
+        },
+        {
+          "asin": "B004TGPIS0",
+          "position": 20,
+          "title": "South: The Story of Shackleton's Last Expedition, 1914-1917",
+          "author": null,
+          "price": 18.19,
+          "priceRaw": "$18.19",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 2815,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B004TGPIS0",
+          "raw": {
+            "text": "#20 South: The Story of Shackleton's Last Expedition, 1914-1917 Sir Ernest Shackleton 4.4 out of 5 stars 2,815 Audible Audiobook $18.19 7 formats available"
+          }
+        },
+        {
+          "asin": "0545639255",
+          "position": 21,
+          "title": "Race to the South Pole (Ranger in Time #4)",
+          "author": null,
+          "price": 5.99,
+          "priceRaw": "$5.99",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 483,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0545639255",
+          "raw": {
+            "text": "#21 Race to the South Pole (Ranger in Time #4) Kate Messner 4.8 out of 5 stars 483 Paperback $5.99 6 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0691150338",
+          "position": 22,
+          "title": "Antarctic Wildlife: A Visitor's Guide (Princeton University Press (Wildguides))",
+          "author": null,
+          "price": 15.6,
+          "priceRaw": "$15.60",
+          "currency": "USD",
+          "rating": 4.9,
+          "reviews": 112,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0691150338",
+          "raw": {
+            "text": "#22 Antarctic Wildlife: A Visitor's Guide (Princeton University Press (Wildguides)) James Lowen 4.9 out of 5 stars 112 Paperback $15.60 16 pts"
+          }
+        },
+        {
+          "asin": "B07119FF46",
+          "position": 23,
+          "title": "To the Edges of the Earth: 1909, the Race for the Three Poles, and the Climax of the Age of Exploration",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 235000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07119FF46",
+          "raw": {
+            "text": "#23 To the Edges of the Earth: 1909, the Race for the Three Poles, and the Climax of the Age of Exploration Edward J. Larson 4.3 out of 5 stars 235 Kindle Edition $2.99 9 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "1536223328",
+          "position": 24,
+          "title": "My Antarctica: True Adventures in the Land of Mummified Seals, Space Robots, and So Much More",
+          "author": null,
+          "price": 10.5,
+          "priceRaw": "$10.50",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 17,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1536223328",
+          "raw": {
+            "text": "#24 My Antarctica: True Adventures in the Land of Mummified Seals, Space Robots, and So Much More G. Neri 4.7 out of 5 stars 17 Hardcover $10.50 11 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B00C1P0TQM",
+          "position": 25,
+          "title": "The Worst Journey in the World: Antarctica, 1910-1913",
+          "author": null,
+          "price": 0.99,
+          "priceRaw": "$0.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 335000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B00C1P0TQM",
+          "raw": {
+            "text": "#25 The Worst Journey in the World: Antarctica, 1910-1913 Apsley Cherry-Garrard 4.4 out of 5 stars 335 Kindle Edition $0.99 3 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1797224697",
+          "position": 26,
+          "title": "All About Antarctica: A Fact Book About the Southernmost Continent (Everything & Everywhere)",
+          "author": null,
+          "price": 10.85,
+          "priceRaw": "$10.85",
+          "currency": "USD",
+          "rating": 4.9,
+          "reviews": 26,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1797224697",
+          "raw": {
+            "text": "#26 All About Antarctica: A Fact Book About the Southernmost Continent (Everything & Everywhere) Marc Martin 4.9 out of 5 stars 26 Hardcover $10.85 11 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1094091243",
+          "position": 27,
+          "title": "The Twenty-Ninth Day: Surviving a Grizzly Attack in the Canadian Tundra",
+          "author": null,
+          "price": 14.63,
+          "priceRaw": "$14.63",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 5245,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1094091243",
+          "raw": {
+            "text": "#27 The Twenty-Ninth Day: Surviving a Grizzly Attack in the Canadian Tundra Alex Messenger 4.4 out of 5 stars 5,245 Paperback $14.63 15 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0316570729",
+          "position": 28,
+          "title": "The Best Journey in the World: An Antarctic Story",
+          "author": null,
+          "price": 35.62,
+          "priceRaw": "$35.62",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0316570729",
+          "raw": {
+            "text": "#28 The Best Journey in the World: An Antarctic Story Kim Stanley Robinson Hardcover $35.62 3 formats available"
+          }
+        },
+        {
+          "asin": "0375754741",
+          "position": 29,
+          "title": "The Last Place on Earth: Scott and Amundsen's Race to the South Pole, Revised and Updated (Modern Library Exploration)",
+          "author": null,
+          "price": 17.55,
+          "priceRaw": "$17.55",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 677,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0375754741",
+          "raw": {
+            "text": "#29 The Last Place on Earth: Scott and Amundsen's Race to the South Pole, Revised and Updated (Modern Library Exploration) Roland Huntford 4.7 out of 5 stars 677 Paperback $17.55 18 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B016I2A92C",
+          "position": 30,
+          "title": "Welcome to the Goddamn Ice Cube: Chasing Fear and Finding Home in the Great White North",
+          "author": null,
+          "price": 10.83,
+          "priceRaw": "$10.83",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 1243000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B016I2A92C",
+          "raw": {
+            "text": "#30 Welcome to the Goddamn Ice Cube: Chasing Fear and Finding Home in the Great White North Blair Braverman 4.3 out of 5 stars 1,243 Kindle Edition $10.83 33 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "1668064324",
+          "position": 31,
+          "title": "The Blue Hours: My Summers and Winter in Antarctica",
+          "author": null,
+          "price": 27.96,
+          "priceRaw": "$27.96",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1668064324",
+          "raw": {
+            "text": "#31 The Blue Hours: My Summers and Winter in Antarctica Stephanie Krzywonos Hardcover $27.96 4 formats available"
+          }
+        },
+        {
+          "asin": "1566959349",
+          "position": 32,
+          "title": "National Geographic South America and Antarctica Map (folded with flags and facts) (National Geographic Reference Map)",
+          "author": null,
+          "price": 14.95,
+          "priceRaw": "$14.95",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 34000000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1566959349",
+          "raw": {
+            "text": "#32 National Geographic South America and Antarctica Map (folded with flags and facts) (National Geographic Reference Map) National Geographic Maps 4.5 out of 5 stars 34 Map $14.95 15 pts"
+          }
+        },
+        {
+          "asin": "B0HMZDSNFD",
+          "position": 33,
+          "title": "Aurora Borealis: How To Turn Your Dream Into Reality",
+          "author": null,
+          "price": 27.13,
+          "priceRaw": "$27.13",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 1,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HMZDSNFD",
+          "raw": {
+            "text": "#33 Aurora Borealis: How To Turn Your Dream Into Reality Ross Ellet 5.0 out of 5 stars 1 Paperback $27.13 28 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "1586420003",
+          "position": 34,
+          "title": "Mawson's Will: The Greatest Polar Survival Story Ever Written",
+          "author": null,
+          "price": 14.03,
+          "priceRaw": "$14.03",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 143,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1586420003",
+          "raw": {
+            "text": "#34 Mawson's Will: The Greatest Polar Survival Story Ever Written Lennard Bickel 4.8 out of 5 stars 143 Paperback $14.03 15 pts"
+          }
+        },
+        {
+          "asin": "0375828850",
+          "position": 35,
+          "title": "Ice is Nice! All About the North and South Poles (The Cat in the Hat's Learning Library)",
+          "author": null,
+          "price": 8.15,
+          "priceRaw": "$8.15",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 234,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0375828850",
+          "raw": {
+            "text": "#35 Ice is Nice! All About the North and South Poles (The Cat in the Hat's Learning Library) Bonnie Worth 4.8 out of 5 stars 234 Hardcover $8.15 9 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1250289181",
+          "position": 36,
+          "title": "Realm of Ice and Sky: Triumph, Tragedy, and History's Greatest Arctic Rescue",
+          "author": null,
+          "price": 13.95,
+          "priceRaw": "$13.95",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 434,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1250289181",
+          "raw": {
+            "text": "#36 Realm of Ice and Sky: Triumph, Tragedy, and History's Greatest Arctic Rescue Buddy Levy 4.6 out of 5 stars 434 Hardcover $13.95 14 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "1771641738",
+          "position": 37,
+          "title": "Frozen in Time: The Fate of the Franklin Expedition",
+          "author": null,
+          "price": 12.54,
+          "priceRaw": "$12.54",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 971,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1771641738",
+          "raw": {
+            "text": "#37 Frozen in Time: The Fate of the Franklin Expedition Owen Beattie 4.5 out of 5 stars 971 Paperback $12.54 13 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0735386501",
+          "position": 38,
+          "title": "Mudpuppy - Arctic Life Sticker Play Reusable Activity Kit for Kids | Ages 3+, 50+ Stickers, Quality Rubber Stickers, Arctic Themed, Travel Friendly, Family Fun, Screen-Free Play, FSC Certified",
+          "author": null,
+          "price": 13.99,
+          "priceRaw": "$13.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 4,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0735386501",
+          "raw": {
+            "text": "#38 Mudpuppy - Arctic Life Sticker Play Reusable Activity Kit for Kids | Ages 3+, 50+ Stickers, Quality Rubber Stickers, Arctic Themed, Travel Friendly, Family Fun, Screen-Free Play, FSC Certified Mudpuppy 5.0 out of 5 stars 4 Novelty Book $13.99"
+          }
+        },
+        {
+          "asin": "0691140928",
+          "position": 39,
+          "title": "Mammals of North America: Second Edition (Princeton Field Guides)",
+          "author": null,
+          "price": 12.6,
+          "priceRaw": "$12.60",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 172,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0691140928",
+          "raw": {
+            "text": "#39 Mammals of North America: Second Edition (Princeton Field Guides) Roland W. Kays 4.6 out of 5 stars 172 Paperback $12.60 13 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "1250871638",
+          "position": 40,
+          "title": "Empire of Ice and Stone",
+          "author": null,
+          "price": 14.35,
+          "priceRaw": "$14.35",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 696,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1250871638",
+          "raw": {
+            "text": "#40 Empire of Ice and Stone Buddy Levy 4.7 out of 5 stars 696 Paperback $14.35 15 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B0HGBSPWPN",
+          "position": 41,
+          "title": "Frozen Frontiers: A Journey to the Heart of Antarctica: The Authentic Travel Experience",
+          "author": null,
+          "price": 21.96,
+          "priceRaw": "$21.96",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 2,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HGBSPWPN",
+          "raw": {
+            "text": "#41 Frozen Frontiers: A Journey to the Heart of Antarctica: The Authentic Travel Experience Isla Rey 5.0 out of 5 stars 2 Paperback $21.96 22 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1804692670",
+          "position": 42,
+          "title": "Antarctica",
+          "author": null,
+          "price": 22.29,
+          "priceRaw": "$22.29",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 5,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1804692670",
+          "raw": {
+            "text": "#42 Antarctica Tony Soper 5.0 out of 5 stars 5 Paperback $22.29 23 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GL16WDT3",
+          "position": 43,
+          "title": "The Curious Field Guide to Antarctica: What the Days Are Really Like in Antarctica—When Nothing Is Guaranteed (The Curious Field Guide Series)",
+          "author": null,
+          "price": 18.99,
+          "priceRaw": "$18.99",
+          "currency": "USD",
+          "rating": 4.1,
+          "reviews": 17,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GL16WDT3",
+          "raw": {
+            "text": "#43 The Curious Field Guide to Antarctica: What the Days Are Really Like in Antarctica—When Nothing Is Guaranteed (The Curious Field Guide Series) Curious Field Guide 4.1 out of 5 stars 17 Paperback $18.99 19 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1583557881",
+          "position": 44,
+          "title": "Antarctic Wildlife: A Folding Pocket Guide to Familiar Species of the Antarctic and Subantarctic Environments (Wildlife and Nature Identification)",
+          "author": null,
+          "price": 8.95,
+          "priceRaw": "$8.95",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 113,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1583557881",
+          "raw": {
+            "text": "#44 Antarctic Wildlife: A Folding Pocket Guide to Familiar Species of the Antarctic and Subantarctic Environments (Wildlife and Nature Identification) James Kavanagh Waterford Press 4.5 out of 5 stars 113 Pamphlet $8.95 9 pts"
+          }
+        },
+        {
+          "asin": "1586423347",
+          "position": 45,
+          "title": "Against the Ice: The Classic Arctic Survival Story",
+          "author": null,
+          "price": 18.95,
+          "priceRaw": "$18.95",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 542,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1586423347",
+          "raw": {
+            "text": "#45 Against the Ice: The Classic Arctic Survival Story Ejnar Mikkelsen 4.6 out of 5 stars 542 Paperback $18.95 19 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B07ZG52XKK",
+          "position": 46,
+          "title": "On Call in the Arctic: A Doctor's Pursuit of Life, Love, and Miracles in the Alaskan Frontier",
+          "author": null,
+          "price": 17.29,
+          "priceRaw": "$17.29",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 611,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07ZG52XKK",
+          "raw": {
+            "text": "#46 On Call in the Arctic: A Doctor's Pursuit of Life, Love, and Miracles in the Alaskan Frontier Thomas J. Sims 4.6 out of 5 stars 611 Audible Audiobook $17.29 5 formats available"
+          }
+        },
+        {
+          "asin": "B0DNZBLM3X",
+          "position": 47,
+          "title": "Antarctica STORM: An Aggressor Inc. Thriller (The Aggressor Series)",
+          "author": null,
+          "price": 1.99,
+          "priceRaw": "$1.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1741000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DNZBLM3X",
+          "raw": {
+            "text": "#47 Antarctica STORM: An Aggressor Inc. Thriller (The Aggressor Series) FX Holden 4.6 out of 5 stars 1,741 Kindle Edition $1.99 6 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0735236852",
+          "position": 48,
+          "title": "Beyond the Trees: A Journey Alone Across Canada's Arctic",
+          "author": null,
+          "price": 17,
+          "priceRaw": "$17.00",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 1104,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0735236852",
+          "raw": {
+            "text": "#48 Beyond the Trees: A Journey Alone Across Canada's Arctic Adam Shoalts 4.5 out of 5 stars 1,104 Paperback $17.00 17 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "B07TV2C9J5",
+          "position": 49,
+          "title": "Until Thy Wrath Be Past: The Arctic Murders - atmospheric Scandi murder mysteries",
+          "author": null,
+          "price": 0.99,
+          "priceRaw": "$0.99",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 2274000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07TV2C9J5",
+          "raw": {
+            "text": "#49 Until Thy Wrath Be Past: The Arctic Murders - atmospheric Scandi murder mysteries Åsa Larsson 4.3 out of 5 stars 2,274 Kindle Edition $0.99 3 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B0CZ7MRV34",
+          "position": 50,
+          "title": "Into the Thaw: Witnessing Wonder Amid the Arctic Climate Crisis",
+          "author": null,
+          "price": 15.69,
+          "priceRaw": "$15.69",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 20,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0CZ7MRV34",
+          "raw": {
+            "text": "#50 Into the Thaw: Witnessing Wonder Amid the Arctic Climate Crisis Jon Waterman 4.4 out of 5 stars 20 Audible Audiobook $15.69 3 formats available"
+          }
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "url": "https://www.amazon.com/gp/bestsellers/books/17199?pg=2",
+      "kind": "bestsellers",
+      "items": 50,
+      "total": null,
+      "itemsData": [
+        {
+          "asin": "0593471520",
+          "position": 51,
+          "title": "Into the Ice: The Northwest Passage, the Polar Sun, and a 175-Year-Old Mystery",
+          "author": null,
+          "price": 17.29,
+          "priceRaw": "$17.29",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 264,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0593471520",
+          "raw": {
+            "text": "#51 Into the Ice: The Northwest Passage, the Polar Sun, and a 175-Year-Old Mystery Mark Synnott 4.4 out of 5 stars 264 Hardcover $17.29 19 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "1837588236",
+          "position": 52,
+          "title": "Lonely Planet Experience Antarctica: Build a Trip to Remember | Local Insights | Maps & Planning Tools | Covers Ushuaia, Southern Ocean, Antarctic Peninsula, the South Pole and more (Travel Guide)",
+          "author": null,
+          "price": 21.86,
+          "priceRaw": "$21.86",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1837588236",
+          "raw": {
+            "text": "#52 Lonely Planet Experience Antarctica: Build a Trip to Remember | Local Insights | Maps & Planning Tools | Covers Ushuaia, Southern Ocean, Antarctic Peninsula, the South Pole and more (Travel Guide) Alexis Averbuck Paperback $21.86 27 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B006R8PHW0",
+          "position": 53,
+          "title": "Antarctica: An Intimate Portrait of a Mysterious Continent",
+          "author": null,
+          "price": 11.99,
+          "priceRaw": "$11.99",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 465000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B006R8PHW0",
+          "raw": {
+            "text": "#53 Antarctica: An Intimate Portrait of a Mysterious Continent Gabrielle Walker 4.5 out of 5 stars 465 Kindle Edition $11.99 36 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0525563644",
+          "position": 54,
+          "title": "Silence: In the Age of Noise",
+          "author": null,
+          "price": 8.62,
+          "priceRaw": "$8.62",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 1253,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0525563644",
+          "raw": {
+            "text": "#54 Silence: In the Age of Noise Erling Kagge 4.4 out of 5 stars 1,253 Paperback $8.62 9 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B072HLRW96",
+          "position": 55,
+          "title": "The Weather Machine: A Journey Inside the Forecast",
+          "author": null,
+          "price": 3.99,
+          "priceRaw": "$3.99",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 378000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B072HLRW96",
+          "raw": {
+            "text": "#55 The Weather Machine: A Journey Inside the Forecast Andrew Blum 4.2 out of 5 stars 378 Kindle Edition $3.99 12 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "0063138573",
+          "position": 56,
+          "title": "Frostlines: A Journey Through Entangled Lives and Landscapes in a Warming Arctic",
+          "author": null,
+          "price": 16,
+          "priceRaw": "$16.00",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 83,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0063138573",
+          "raw": {
+            "text": "#56 Frostlines: A Journey Through Entangled Lives and Landscapes in a Warming Arctic Neil Shea 4.6 out of 5 stars 83 Hardcover $16.00 16 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "B0FS9MRYHD",
+          "position": 57,
+          "title": "Following Alaska's Call: Continuing the Journey: Embracing Change and Finding Strength in Alaska’s Wilderness",
+          "author": null,
+          "price": 17.89,
+          "priceRaw": "$17.89",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 411,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0FS9MRYHD",
+          "raw": {
+            "text": "#57 Following Alaska's Call: Continuing the Journey: Embracing Change and Finding Strength in Alaska’s Wilderness Ann Parker 4.6 out of 5 stars 411 Audible Audiobook $17.89 4 formats available"
+          }
+        },
+        {
+          "asin": "0142002364",
+          "position": 58,
+          "title": "Shackleton's Way: Leadership Lessons from the Great Antarctic Explorer",
+          "author": null,
+          "price": 17.09,
+          "priceRaw": "$17.09",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 847,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0142002364",
+          "raw": {
+            "text": "#58 Shackleton's Way: Leadership Lessons from the Great Antarctic Explorer Margot Morrell 4.6 out of 5 stars 847 Paperback $17.09 18 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "1927249880",
+          "position": 59,
+          "title": "Antarctica Cruising Guide: Sixth edition: Includes Antarctic Peninsula, Falkland Islands, South Georgia and Ross Sea",
+          "author": null,
+          "price": 28.91,
+          "priceRaw": "$28.91",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 23,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1927249880",
+          "raw": {
+            "text": "#59 Antarctica Cruising Guide: Sixth edition: Includes Antarctic Peninsula, Falkland Islands, South Georgia and Ross Sea Craig Franklin PhD 4.3 out of 5 stars 23 Paperback $28.91 29 pts"
+          }
+        },
+        {
+          "asin": "0593702433",
+          "position": 60,
+          "title": "The Pillagers' Guide to Arctic Pianos: A Novel",
+          "author": null,
+          "price": 17.46,
+          "priceRaw": "$17.46",
+          "currency": "USD",
+          "rating": 4.1,
+          "reviews": 29,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0593702433",
+          "raw": {
+            "text": "#60 The Pillagers' Guide to Arctic Pianos: A Novel Kendra Langford Shaw 4.1 out of 5 stars 29 Hardcover $17.46 18 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0CQWP67GL",
+          "position": 61,
+          "title": "The North Pole and Inner Earth Chronicles: The Smoky God: A Voyage to the Inner World + The Secret Diary of Admiral Richard E. Byrd | Two Books in One Landmark Edition, Arctic, Hollow & Flat Earth",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 236000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0CQWP67GL",
+          "raw": {
+            "text": "#61 The North Pole and Inner Earth Chronicles: The Smoky God: A Voyage to the Inner World + The Secret Diary of Admiral Richard E. Byrd | Two Books in One Landmark Edition, Arctic, Hollow & Flat Earth Admiral Richard E. Byrd 4.5 out of 5 stars 236 Kindle Edition $2.99 9 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1616086025",
+          "position": 62,
+          "title": "High Latitudes: The Incredible True Story of an Arctic Journey by Master storyteller Farley Mowat (17 million books sold)",
+          "author": null,
+          "price": 23.73,
+          "priceRaw": "$23.73",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 69,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1616086025",
+          "raw": {
+            "text": "#62 High Latitudes: The Incredible True Story of an Arctic Journey by Master storyteller Farley Mowat (17 million books sold) Farley Mowat 4.6 out of 5 stars 69 Paperback $23.73 25 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1426221444",
+          "position": 63,
+          "title": "National Geographic Family Reference Atlas 5th Edition",
+          "author": null,
+          "price": 62.77,
+          "priceRaw": "$62.77",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 710,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1426221444",
+          "raw": {
+            "text": "#63 National Geographic Family Reference Atlas 5th Edition National Geographic 4.7 out of 5 stars 710 Hardcover $62.77 63 pts"
+          }
+        },
+        {
+          "asin": "0143039385",
+          "position": 64,
+          "title": "The Worst Journey in the World (Penguin Classics)",
+          "author": null,
+          "price": 14.91,
+          "priceRaw": "$14.91",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 1207,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0143039385",
+          "raw": {
+            "text": "#64 The Worst Journey in the World (Penguin Classics) Apsley Cherry-Garrard 4.4 out of 5 stars 1,207 Paperback $14.91 15 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "826930056X",
+          "position": 65,
+          "title": "Norway Travel Journal: With Map, Fun Facts, Important Phone Numbers, Learn Norwegian Words And Use as a Notebook: Travel to Norway",
+          "author": null,
+          "price": 6.99,
+          "priceRaw": "$6.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 27,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/826930056X",
+          "raw": {
+            "text": "#65 Norway Travel Journal: With Map, Fun Facts, Important Phone Numbers, Learn Norwegian Words And Use as a Notebook: Travel to Norway Iris Lundberg 4.4 out of 5 stars 27 Paperback $6.99 7 pts"
+          }
+        },
+        {
+          "asin": "0618219218",
+          "position": 66,
+          "title": "The Crystal Desert: Summers in Antarctica",
+          "author": null,
+          "price": 12.89,
+          "priceRaw": "$12.89",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 60,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0618219218",
+          "raw": {
+            "text": "#66 The Crystal Desert: Summers in Antarctica David G. Campbell 4.4 out of 5 stars 60 Paperback $12.89 13 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "074345314X",
+          "position": 67,
+          "title": "The Final Frontiersman: Heimo Korth and His Family, Alone in Alaska's Arctic Wilderness",
+          "author": null,
+          "price": 18.99,
+          "priceRaw": "$18.99",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 3220,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/074345314X",
+          "raw": {
+            "text": "#67 The Final Frontiersman: Heimo Korth and His Family, Alone in Alaska's Arctic Wilderness James Campbell 4.7 out of 5 stars 3,220 Paperback $18.99 19 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B0CJKY7174",
+          "position": 68,
+          "title": "South! (Annotated): The Story of Shackleton’s Last Expedition 1914-1917",
+          "author": null,
+          "price": 23.95,
+          "priceRaw": "$23.95",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 135,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0CJKY7174",
+          "raw": {
+            "text": "#68 South! (Annotated): The Story of Shackleton’s Last Expedition 1914-1917 Ernest Shackleton 4.3 out of 5 stars 135 Paperback $23.95 24 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "0940322889",
+          "position": 69,
+          "title": "An African in Greenland (New York Review Books Classics)",
+          "author": null,
+          "price": 12.36,
+          "priceRaw": "$12.36",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 132,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0940322889",
+          "raw": {
+            "text": "#69 An African in Greenland (New York Review Books Classics) Tete-Michel Kpomassie 4.7 out of 5 stars 132 Paperback $12.36 13 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0847864774",
+          "position": 70,
+          "title": "David Yarrow Photography: Americas Africa Antarctica Arctic Asia Europe",
+          "author": null,
+          "price": 76.75,
+          "priceRaw": "$76.75",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 312,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0847864774",
+          "raw": {
+            "text": "#70 David Yarrow Photography: Americas Africa Antarctica Arctic Asia Europe David Yarrow 4.8 out of 5 stars 312 Hardcover $76.75 77 pts"
+          }
+        },
+        {
+          "asin": "B0D3D2V6HK",
+          "position": 71,
+          "title": "Moon Alaska: Scenic Drives, National Parks, Best Hikes (Moon U.S. Travel Guide)",
+          "author": null,
+          "price": 21.71,
+          "priceRaw": "$21.71",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 48,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0D3D2V6HK",
+          "raw": {
+            "text": "#71 Moon Alaska: Scenic Drives, National Parks, Best Hikes (Moon U.S. Travel Guide) Lisa Maloney 4.6 out of 5 stars 48 Paperback $21.71 22 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0545155789",
+          "position": 72,
+          "title": "The Magic Tree House Research Guide 18-Book Set (American Revolution, Ancient Greece and the Olympics, Ancient Rome and Pompeii, Dinosaurs, Dolphins and Sharks, Knights and Castles, Mummies and Pyramids, Penguins and Antarctica, Pilgrims, Pirates, Polar Bears and the Arctic, Rain Forests, Sabertooths and the Ice Age, Sea Monsters, Space, Titanic, Tsunamis and Other Natural Disasters, and Twisters and Other Terrible Storms)",
+          "author": null,
+          "price": 119.88,
+          "priceRaw": "$119.88",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 59,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0545155789",
+          "raw": {
+            "text": "#72 The Magic Tree House Research Guide 18-Book Set (American Revolution, Ancient Greece and the Olympics, Ancient Rome and Pompeii, Dinosaurs, Dolphins and Sharks, Knights and Castles, Mummies and Pyramids, Penguins and Antarctica, Pilgrims, Pirates, Polar Bears and the Arctic, Rain Forests, Sabertooths and the Ice Age, Sea Monsters, Space, Titanic, Tsunamis and Other Natural Disasters, and Twisters and Other Terrible Storms) Mary Pope Osborne 4.6 out of 5 stars 59 Paperback $119.88 120 pts"
+          }
+        },
+        {
+          "asin": "B0HF8JZNJS",
+          "position": 73,
+          "title": "ANTARCTICA COMPREHENSIVE TRAVEL GUIDE 2026",
+          "author": null,
+          "price": 15.99,
+          "priceRaw": "$15.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 1,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HF8JZNJS",
+          "raw": {
+            "text": "#73 ANTARCTICA COMPREHENSIVE TRAVEL GUIDE 2026 HUDSON JOHN 5.0 out of 5 stars 1 Paperback $15.99 16 pts"
+          }
+        },
+        {
+          "asin": "B0HJ2L1R61",
+          "position": 74,
+          "title": "MILEPOST ALASKA TRAVEL GUIDE 2027: A Mile-by-Mile Companion for Scenic Highways, Fuel Stops, Campgrounds, National Parks, Wildlife, Northern Lights and Itineraries from Anchorage to the Arctic",
+          "author": null,
+          "price": 18.99,
+          "priceRaw": "$18.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 2,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HJ2L1R61",
+          "raw": {
+            "text": "#74 MILEPOST ALASKA TRAVEL GUIDE 2027: A Mile-by-Mile Companion for Scenic Highways, Fuel Stops, Campgrounds, National Parks, Wildlife, Northern Lights and Itineraries from Anchorage to the Arctic Diane Mattox 5.0 out of 5 stars 2 Paperback $18.99 19 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "078688746X",
+          "position": 75,
+          "title": "Ada Blackjack: A True Story of Survival in the Arctic",
+          "author": null,
+          "price": 15.99,
+          "priceRaw": "$15.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 759,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/078688746X",
+          "raw": {
+            "text": "#75 Ada Blackjack: A True Story of Survival in the Arctic Jennifer Niven 4.4 out of 5 stars 759 Paperback $15.99 16 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "1513262750",
+          "position": 76,
+          "title": "Two in the Far North, Revised Edition: A Conservation Champion's Story of Life, Love, and Adventure in the Wilderness",
+          "author": null,
+          "price": 12.21,
+          "priceRaw": "$12.21",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 111,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1513262750",
+          "raw": {
+            "text": "#76 Two in the Far North, Revised Edition: A Conservation Champion's Story of Life, Love, and Adventure in the Wilderness Margaret E. Murie 4.6 out of 5 stars 111 Paperback $12.21 13 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0882408364",
+          "position": 77,
+          "title": "Alone Across the Arctic: One Woman's Epic Journey by Dog Team",
+          "author": null,
+          "price": 9.65,
+          "priceRaw": "$9.65",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 76,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0882408364",
+          "raw": {
+            "text": "#77 Alone Across the Arctic: One Woman's Epic Journey by Dog Team Pam Flowers 4.8 out of 5 stars 76 Paperback $9.65 10 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0GX8SVFQF",
+          "position": 78,
+          "title": "Counting Penguins: How a Penguin Colony Stole My Heart and Changed My Life",
+          "author": null,
+          "price": 20,
+          "priceRaw": "$20.00",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 9,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GX8SVFQF",
+          "raw": {
+            "text": "#78 Counting Penguins: How a Penguin Colony Stole My Heart and Changed My Life Peter John Watson 4.8 out of 5 stars 9 Paperback $20.00 20 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0CDW3F4MV",
+          "position": 79,
+          "title": "Extreme Survival: How People, Plants, and Animals Live in the World's Toughest Places",
+          "author": null,
+          "price": 11.14,
+          "priceRaw": "$11.14",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0CDW3F4MV",
+          "raw": {
+            "text": "#79 Extreme Survival: How People, Plants, and Animals Live in the World's Toughest Places Ben Lerwill Hardcover $11.14 12 pts"
+          }
+        },
+        {
+          "asin": "0156671409",
+          "position": 80,
+          "title": "North To The Orient: A Timeless Aviation Classic and National Book Award Winner ― A Memoir of Exploration in the 1930s (Harvest Book)",
+          "author": null,
+          "price": 10.33,
+          "priceRaw": "$10.33",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 102,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0156671409",
+          "raw": {
+            "text": "#80 North To The Orient: A Timeless Aviation Classic and National Book Award Winner ― A Memoir of Exploration in the 1930s (Harvest Book) Anne Morrow Lindbergh 4.6 out of 5 stars 102 Paperback $10.33 11 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B00DNL31CM",
+          "position": 81,
+          "title": "Ice Blink: The Tragic Fate of Sir John Franklin's Lost Polar Expedition",
+          "author": null,
+          "price": 14.99,
+          "priceRaw": "$14.99",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 111000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B00DNL31CM",
+          "raw": {
+            "text": "#81 Ice Blink: The Tragic Fate of Sir John Franklin's Lost Polar Expedition Scott Cookman 4.3 out of 5 stars 111 Kindle Edition $14.99 45 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0691233578",
+          "position": 82,
+          "title": "Penguins: The Ultimate Guide Second Edition",
+          "author": null,
+          "price": 26.9,
+          "priceRaw": "$26.90",
+          "currency": "USD",
+          "rating": 4.9,
+          "reviews": 57,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0691233578",
+          "raw": {
+            "text": "#82 Penguins: The Ultimate Guide Second Edition Tui De Roy 4.9 out of 5 stars 57 Hardcover $26.90 27 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B000FC1ISQ",
+          "position": 83,
+          "title": "In the Land of White Death: An Epic Story of Survival in the Siberian Arctic (Modern Library Exploration)",
+          "author": null,
+          "price": 4.99,
+          "priceRaw": "$4.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 846000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B000FC1ISQ",
+          "raw": {
+            "text": "#83 In the Land of White Death: An Epic Story of Survival in the Siberian Arctic (Modern Library Exploration) Valerian Ivanovich Alʹbanov 4.4 out of 5 stars 846 Kindle Edition $4.99 15 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "1602390452",
+          "position": 84,
+          "title": "Tent Life in Siberia: An Incredible Account of Siberian Adventure, Travel, and Survival",
+          "author": null,
+          "price": 17.95,
+          "priceRaw": "$17.95",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 165,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1602390452",
+          "raw": {
+            "text": "#84 Tent Life in Siberia: An Incredible Account of Siberian Adventure, Travel, and Survival George Kennan 4.6 out of 5 stars 165 Paperback $17.95 18 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "B08FLCZRSS",
+          "position": 85,
+          "title": "Inspire: Life Lessons from the Wilderness - From the Sunday Times Bestselling Author",
+          "author": null,
+          "price": 8.99,
+          "priceRaw": "$8.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1167000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B08FLCZRSS",
+          "raw": {
+            "text": "#85 Inspire: Life Lessons from the Wilderness - From the Sunday Times Bestselling Author Ben Fogle 4.6 out of 5 stars 1,167 Kindle Edition $8.99 27 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "0792270614",
+          "position": 86,
+          "title": "NG Destinations, Antarctica the Last Continent (National Geographic Destinations)",
+          "author": null,
+          "price": 231,
+          "priceRaw": "$231",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 4,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0792270614",
+          "raw": {
+            "text": "#86 NG Destinations, Antarctica the Last Continent (National Geographic Destinations) National Geographic 5.0 out of 5 stars 4 Hardcover 35 offers from $231 $2 31"
+          }
+        },
+        {
+          "asin": "B006KF65JY",
+          "position": 87,
+          "title": "Mawson's Will: The Greatest Polar Survival Story Ever Written",
+          "author": null,
+          "price": 14.49,
+          "priceRaw": "$14.49",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 328,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B006KF65JY",
+          "raw": {
+            "text": "#87 Mawson's Will: The Greatest Polar Survival Story Ever Written Lennard Bickel 4.4 out of 5 stars 328 Audible Audiobook $14.49 4 formats available"
+          }
+        },
+        {
+          "asin": "0882408070",
+          "position": 88,
+          "title": "A Place Beyond: Finding Home in Arctic Alaska",
+          "author": null,
+          "price": 10.34,
+          "priceRaw": "$10.34",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 73,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0882408070",
+          "raw": {
+            "text": "#88 A Place Beyond: Finding Home in Arctic Alaska Nick Jans 4.8 out of 5 stars 73 Paperback $10.34 11 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B00GVG00MU",
+          "position": 89,
+          "title": "Mad, Bad and Dangerous to Know: The extraordinary life story of the world's greatest modern explorer",
+          "author": null,
+          "price": 4.99,
+          "priceRaw": "$4.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 2091000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B00GVG00MU",
+          "raw": {
+            "text": "#89 Mad, Bad and Dangerous to Know: The extraordinary life story of the world's greatest modern explorer Ranulph Fiennes 4.4 out of 5 stars 2,091 Kindle Edition $4.99 15 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "1607744988",
+          "position": 90,
+          "title": "North: The New Nordic Cuisine of Iceland [A Cookbook]",
+          "author": null,
+          "price": 25.06,
+          "priceRaw": "$25.06",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 204,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1607744988",
+          "raw": {
+            "text": "#90 North: The New Nordic Cuisine of Iceland [A Cookbook] Gunnar Karl Gíslason 4.8 out of 5 stars 204 Hardcover $25.06 26 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0922915997",
+          "position": 91,
+          "title": "Big Dead Place: Inside the Strange and Menacing World of Antarctica",
+          "author": null,
+          "price": 14.22,
+          "priceRaw": "$14.22",
+          "currency": "USD",
+          "rating": 4.1,
+          "reviews": 159,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0922915997",
+          "raw": {
+            "text": "#91 Big Dead Place: Inside the Strange and Menacing World of Antarctica Nicholas Johnson 4.1 out of 5 stars 159 Paperback $14.22 15 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0789349493",
+          "position": 92,
+          "title": "National Geographic: Canada 2027 Wall Calendar",
+          "author": null,
+          "price": 16.99,
+          "priceRaw": "$16.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 4,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0789349493",
+          "raw": {
+            "text": "#92 National Geographic: Canada 2027 Wall Calendar National Geographic 5.0 out of 5 stars 4 Calendar $16.99 17 pts"
+          }
+        },
+        {
+          "asin": "B07BB65LCQ",
+          "position": 93,
+          "title": "An Unsung Hero: Tom Crean - Antarctic Survivor",
+          "author": null,
+          "price": 9.99,
+          "priceRaw": "$9.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 1482000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07BB65LCQ",
+          "raw": {
+            "text": "#93 An Unsung Hero: Tom Crean - Antarctic Survivor Michael Smith 4.6 out of 5 stars 1,482 Kindle Edition $9.99 30 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "1648373097",
+          "position": 94,
+          "title": "Alaskan Yukon Trophies Won and Lost",
+          "author": null,
+          "price": 29.95,
+          "priceRaw": "$29.95",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 68,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1648373097",
+          "raw": {
+            "text": "#94 Alaskan Yukon Trophies Won and Lost G O Young 4.5 out of 5 stars 68 Paperback $29.95 30 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0812981766",
+          "position": 95,
+          "title": "Pym: A Novel",
+          "author": null,
+          "price": 15.29,
+          "priceRaw": "$15.29",
+          "currency": "USD",
+          "rating": 3.9,
+          "reviews": 386,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0812981766",
+          "raw": {
+            "text": "#95 Pym: A Novel Mat Johnson 3.9 out of 5 stars 386 Paperback $15.29 17 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "B0G6SB4WPM",
+          "position": 96,
+          "title": "Antarctic Wildlife Identification Guide: Know the species, understand the ecosystem (Be There)",
+          "author": null,
+          "price": 18.9,
+          "priceRaw": "$18.90",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 2,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0G6SB4WPM",
+          "raw": {
+            "text": "#96 Antarctic Wildlife Identification Guide: Know the species, understand the ecosystem (Be There) Adriana Vieira de Miranda 5.0 out of 5 stars 2 Paperback $18.90 19 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "014198547X",
+          "position": 97,
+          "title": "Antarctic Atlas: New Maps and Graphics That Tell the Story of A Continent",
+          "author": null,
+          "price": 18.45,
+          "priceRaw": "$18.45",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 85,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/014198547X",
+          "raw": {
+            "text": "#97 Antarctic Atlas: New Maps and Graphics That Tell the Story of A Continent Peter Fretwell 4.7 out of 5 stars 85 Paperback $18.45 29 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B07BPP9TCL",
+          "position": 98,
+          "title": "The White Darkness",
+          "author": null,
+          "price": 12.99,
+          "priceRaw": "$12.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 2381000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07BPP9TCL",
+          "raw": {
+            "text": "#98 The White Darkness David Grann 4.4 out of 5 stars 2,381 Kindle Edition $12.99 39 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "0553073001",
+          "position": 99,
+          "title": "Creation's Heartbeat: Following the Reindeer Spirit",
+          "author": null,
+          "price": 37.55,
+          "priceRaw": "$37.55",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 20,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0553073001",
+          "raw": {
+            "text": "#99 Creation's Heartbeat: Following the Reindeer Spirit Linda Schierse Leonard 4.4 out of 5 stars 20 Hardcover $37.55 38 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HDJT1F9Q",
+          "position": 100,
+          "title": "GREENLAND TRAVEL GUIDE 2026-2027 (FULL COLOR): Your Guide to Nuuk, Ilulissat, and Beyond — Glaciers, Fjords, Arctic Wildlife, and Sample Itineraries for Every Traveler",
+          "author": null,
+          "price": 8.99,
+          "priceRaw": "$8.99",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HDJT1F9Q",
+          "raw": {
+            "text": "#100 GREENLAND TRAVEL GUIDE 2026-2027 (FULL COLOR): Your Guide to Nuuk, Ilulissat, and Beyond — Glaciers, Fjords, Arctic Wildlife, and Sample Itineraries for Every Traveler EDWARD ARDEN Kindle Edition $8.99 27 pts 2 formats available"
+          }
+        }
+      ]
+    }
+  ],
+  "stopped": null
+}

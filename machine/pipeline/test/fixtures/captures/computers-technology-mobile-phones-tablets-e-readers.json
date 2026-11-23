@@ -1,0 +1,1826 @@
+{
+  "url": "https://www.amazon.com/gp/bestsellers/books/377557011",
+  "label": "computers-technology-mobile-phones-tablets-e-readers",
+  "capturedAt": "2026-11-21T09:59:29.672Z",
+  "pages": [
+    {
+      "page": 1,
+      "url": "https://www.amazon.com/gp/bestsellers/books/377557011?pg=1",
+      "kind": "bestsellers",
+      "items": 50,
+      "total": null,
+      "itemsData": [
+        {
+          "asin": "B01GZY28CW",
+          "position": 1,
+          "title": "The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 2810000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B01GZY28CW",
+          "raw": {
+            "text": "#1 The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data Kevin D. Mitnick 4.5 out of 5 stars 2,810 Kindle Edition $2.99 9 pts 6 formats available"
+          }
+        },
+        {
+          "asin": "B0HKS5TL2Q",
+          "position": 2,
+          "title": "iPhone 18 Pro, Pro Max & Duo for Seniors: A Large-Print Step-by-Step Visual Guide That Shows You Exactly Where to Tap | Easily Use Your New iPhone, Master Siri AI and Fix Common Problems on Your Own",
+          "author": null,
+          "price": 21.99,
+          "priceRaw": "$21.99",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 60,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HKS5TL2Q",
+          "raw": {
+            "text": "#2 iPhone 18 Pro, Pro Max & Duo for Seniors: A Large-Print Step-by-Step Visual Guide That Shows You Exactly Where to Tap | Easily Use Your New iPhone, Master Siri AI and Fix Common Problems on Your Own Harold Morgan Benton 4.7 out of 5 stars 60 Paperback $21.99 22 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "0989709442",
+          "position": 3,
+          "title": "THE ALL IN ONE iPHONE GUIDE FOR SENIORS: Easy Step-by-Step Instructions in Large Print With Full Color Photos to Master Calls, Texting, Apps & Camera Functions Even With Zero Tech Experience",
+          "author": null,
+          "price": 21.99,
+          "priceRaw": "$21.99",
+          "currency": "USD",
+          "rating": 4.9,
+          "reviews": 27,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0989709442",
+          "raw": {
+            "text": "#3 THE ALL IN ONE iPHONE GUIDE FOR SENIORS: Easy Step-by-Step Instructions in Large Print With Full Color Photos to Master Calls, Texting, Apps & Camera Functions Even With Zero Tech Experience Philip Robbins 4.9 out of 5 stars 27 Paperback $21.99 22 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0D9HRG3KC",
+          "position": 4,
+          "title": "How to Install a Kindle on Your Device: A simple step to installing a Kindle app in few minutes (for iOS, Android, Mac, and PC)",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 3.3,
+          "reviews": 108000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0D9HRG3KC",
+          "raw": {
+            "text": "#4 How to Install a Kindle on Your Device: A simple step to installing a Kindle app in few minutes (for iOS, Android, Mac, and PC) Zhuzh Tech 3.3 out of 5 stars 108 Kindle Edition $2.99 9 pts"
+          }
+        },
+        {
+          "asin": "183664633X",
+          "position": 5,
+          "title": "Python Illustrated: Not another boring Python book, learn programming the fun way",
+          "author": null,
+          "price": 27.07,
+          "priceRaw": "$27.07",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 44,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/183664633X",
+          "raw": {
+            "text": "#5 Python Illustrated: Not another boring Python book, learn programming the fun way Maaike van Putten 4.8 out of 5 stars 44 Paperback $27.07 28 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HLXGQDJ3",
+          "position": 6,
+          "title": "The 2027 Apple Watch for Seniors Made Simple: Series 12 & Ultra 4 Large-Print Step-by-Step Visual Guide That Shows You Exactly Where to Tap | Use Every Feature & Solve Common Problems on Your Own",
+          "author": null,
+          "price": 21.99,
+          "priceRaw": "$21.99",
+          "currency": "USD",
+          "rating": 4.9,
+          "reviews": 40,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HLXGQDJ3",
+          "raw": {
+            "text": "#6 The 2027 Apple Watch for Seniors Made Simple: Series 12 & Ultra 4 Large-Print Step-by-Step Visual Guide That Shows You Exactly Where to Tap | Use Every Feature & Solve Common Problems on Your Own Harold Morgan Benton 4.9 out of 5 stars 40 Paperback $21.99 22 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0HMM3VKKP",
+          "position": 7,
+          "title": "When We Look Up: An Interactive Graphic Novel for Families to Navigate Smartphones and Social Media Together",
+          "author": null,
+          "price": 17.5,
+          "priceRaw": "$17.50",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 13,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HMM3VKKP",
+          "raw": {
+            "text": "#7 When We Look Up: An Interactive Graphic Novel for Families to Navigate Smartphones and Social Media Together Dr. Alison Yeung MD 5.0 out of 5 stars 13 Paperback $17.50 18 pts"
+          }
+        },
+        {
+          "asin": "1394281579",
+          "position": 8,
+          "title": "Android Smartphones For Seniors For Dummies (For Dummies (Computer/Tech))",
+          "author": null,
+          "price": 16.68,
+          "priceRaw": "$16.68",
+          "currency": "USD",
+          "rating": 4,
+          "reviews": 125,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1394281579",
+          "raw": {
+            "text": "#8 Android Smartphones For Seniors For Dummies (For Dummies (Computer/Tech)) Marsha Collier 4.0 out of 5 stars 125 Paperback $16.68 17 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1633433706",
+          "position": 9,
+          "title": "Build Applications with Local AI Models on a Mac: Create private chatbots, voice apps, RAG systems, and more",
+          "author": null,
+          "price": 52.49,
+          "priceRaw": "$52.49",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 7,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1633433706",
+          "raw": {
+            "text": "#9 Build Applications with Local AI Models on a Mac: Create private chatbots, voice apps, RAG systems, and more Keiji Kamigusa 4.6 out of 5 stars 7 Paperback $52.49 53 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1805564625",
+          "position": 10,
+          "title": "Super Easy iPhone 17 Manual for Seniors & Absolute Beginners: Learn How to Turn On, Set Up, and Use Your iPhone 17 Step by Step - Large-Print Guide With Video Lessons to Stay Connected & Independent",
+          "author": null,
+          "price": 19.97,
+          "priceRaw": "$19.97",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 130,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1805564625",
+          "raw": {
+            "text": "#10 Super Easy iPhone 17 Manual for Seniors & Absolute Beginners: Learn How to Turn On, Set Up, and Use Your iPhone 17 Step by Step - Large-Print Guide With Video Lessons to Stay Connected & Independent NovaTech Publishing 4.4 out of 5 stars 130 Paperback $19.97 20 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0670921602",
+          "position": 11,
+          "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+          "author": null,
+          "price": 15.5,
+          "priceRaw": "$15.50",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 18038,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0670921602",
+          "raw": {
+            "text": "#11 The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses Ries Eric 4.5 out of 5 stars 18,038 Paperback $15.50 16 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "1394313403",
+          "position": 12,
+          "title": "iPad For Seniors For Dummies, 2025 - 2026 Edition",
+          "author": null,
+          "price": 17.23,
+          "priceRaw": "$17.23",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 99,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1394313403",
+          "raw": {
+            "text": "#12 iPad For Seniors For Dummies, 2025 - 2026 Edition Dwight Spivey 4.2 out of 5 stars 99 Paperback $17.23 18 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GX5BCJ3Z",
+          "position": 13,
+          "title": "Kindle Paperwhite User Manual 2026: A step-by-step illustrated Walkthrough to eﬀortlessly set up, customize your reading experience, and troubleshoot without the tech jargon.",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 4.1,
+          "reviews": 60000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GX5BCJ3Z",
+          "raw": {
+            "text": "#13 Kindle Paperwhite User Manual 2026: A step-by-step illustrated Walkthrough to eﬀortlessly set up, customize your reading experience, and troubleshoot without the tech jargon. IYKE JOSH DAVIS 4.1 out of 5 stars 60 Kindle Edition $2.99 9 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0DLV58Q6T",
+          "position": 14,
+          "title": "How to Manage Content and Devices in My Kindle Library: Download, Borrow, Share and Archive eBooks",
+          "author": null,
+          "price": 0.99,
+          "priceRaw": "$0.99",
+          "currency": "USD",
+          "rating": 3.5,
+          "reviews": 29000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DLV58Q6T",
+          "raw": {
+            "text": "#14 How to Manage Content and Devices in My Kindle Library: Download, Borrow, Share and Archive eBooks Jeremy E. Walters 3.5 out of 5 stars 29 Kindle Edition $0.99 3 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1250203414",
+          "position": 15,
+          "title": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
+          "author": null,
+          "price": 16.18,
+          "priceRaw": "$16.18",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 1566,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1250203414",
+          "raw": {
+            "text": "#15 Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs Ken Kocienda 4.4 out of 5 stars 1,566 Paperback $16.18 17 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "1801717524",
+          "position": 16,
+          "title": "iPad Seniors Guide: A Complete Step-by-Step Manual for Non-Tech-Savvy to Master Your iPad in No Time A Complete Step-by-Step Manual for Non-Tech-Savvy to Master Your iPad in No Time",
+          "author": null,
+          "price": 19.97,
+          "priceRaw": "$19.97",
+          "currency": "USD",
+          "rating": 3.9,
+          "reviews": 453,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1801717524",
+          "raw": {
+            "text": "#16 iPad Seniors Guide: A Complete Step-by-Step Manual for Non-Tech-Savvy to Master Your iPad in No Time A Complete Step-by-Step Manual for Non-Tech-Savvy to Master Your iPad in No Time John Halbert 3.9 out of 5 stars 453 Paperback $19.97 20 pts"
+          }
+        },
+        {
+          "asin": "1803243171",
+          "position": 17,
+          "title": "Microsoft 365 and SharePoint Online Cookbook: A complete guide to Microsoft Office 365 apps including SharePoint, Power Platform, Copilot and more",
+          "author": null,
+          "price": 26.59,
+          "priceRaw": "$26.59",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 118,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1803243171",
+          "raw": {
+            "text": "#17 Microsoft 365 and SharePoint Online Cookbook: A complete guide to Microsoft Office 365 apps including SharePoint, Power Platform, Copilot and more Gaurav Mahajan 4.5 out of 5 stars 118 Paperback $26.59 27 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HJXSWN61",
+          "position": 18,
+          "title": "How to Use My Kindle: The Plain-English Guide for Beginners and Seniors: 2026 Edition — Set Up Any Kindle, Fix Common Problems, Organize Your Library, and Borrow Free Library Books Step by Step",
+          "author": null,
+          "price": 4.99,
+          "priceRaw": "$4.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 1000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HJXSWN61",
+          "raw": {
+            "text": "#18 How to Use My Kindle: The Plain-English Guide for Beginners and Seniors: 2026 Edition — Set Up Any Kindle, Fix Common Problems, Organize Your Library, and Borrow Free Library Books Step by Step Ted Chambers 5.0 out of 5 stars 1 Kindle Edition $4.99 15 pts"
+          }
+        },
+        {
+          "asin": "B0HK281PZ1",
+          "position": 19,
+          "title": "iPhone Duo User Guide: A Beginner and Senior-Friendly Guide to Setup, iOS 27, Apple Intelligence, Siri AI, Foldable Features, Multitasking, Camera, Security, and More",
+          "author": null,
+          "price": 20.99,
+          "priceRaw": "$20.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 1,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HK281PZ1",
+          "raw": {
+            "text": "#19 iPhone Duo User Guide: A Beginner and Senior-Friendly Guide to Setup, iOS 27, Apple Intelligence, Siri AI, Foldable Features, Multitasking, Camera, Security, and More OLIVER TECHMAN 5.0 out of 5 stars 1 Paperback $20.99 21 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "180865367X",
+          "position": 20,
+          "title": "Claude Code Visual Bible: A step-by-step guide to creating and publishing websites and mobile apps with AI",
+          "author": null,
+          "price": 26.99,
+          "priceRaw": "$26.99",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 8,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/180865367X",
+          "raw": {
+            "text": "#20 Claude Code Visual Bible: A step-by-step guide to creating and publishing websites and mobile apps with AI Mark J. Price 4.3 out of 5 stars 8 Paperback $26.99 27 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1394457553",
+          "position": 21,
+          "title": "iPhone For Dummies, 2027-2028 Edition",
+          "author": null,
+          "price": 29.99,
+          "priceRaw": "$29.99",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1394457553",
+          "raw": {
+            "text": "#21 iPhone For Dummies, 2027-2028 Edition Guy Hart-Davis Paperback $29.99 2 formats available"
+          }
+        },
+        {
+          "asin": "B0H291LCBV",
+          "position": 22,
+          "title": "iPhone 16 User Guide for Seniors Made Easy: A Simple Step-by-Step Guide for Beginners in Large Print & Full Color: Calls, Texts, Photos, FaceTime, ... Experience Needed) (ClearStep Tech Guides)",
+          "author": null,
+          "price": 21.49,
+          "priceRaw": "$21.49",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 59,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0H291LCBV",
+          "raw": {
+            "text": "#22 iPhone 16 User Guide for Seniors Made Easy: A Simple Step-by-Step Guide for Beginners in Large Print & Full Color: Calls, Texts, Photos, FaceTime, ... Experience Needed) (ClearStep Tech Guides) Michael L. Bennett 4.8 out of 5 stars 59 Paperback $21.49 22 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1800562527",
+          "position": 23,
+          "title": "JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages",
+          "author": null,
+          "price": 25.15,
+          "priceRaw": "$25.15",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 431,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1800562527",
+          "raw": {
+            "text": "#23 JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages Laurence Lars Svekis 4.6 out of 5 stars 431 Paperback $25.15 26 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "1394373929",
+          "position": 24,
+          "title": "iPhone For Seniors For Dummies, 2026 Edition",
+          "author": null,
+          "price": 20.57,
+          "priceRaw": "$20.57",
+          "currency": "USD",
+          "rating": 3.8,
+          "reviews": 26,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1394373929",
+          "raw": {
+            "text": "#24 iPhone For Seniors For Dummies, 2026 Edition Dwight Spivey 3.8 out of 5 stars 26 Paperback $20.57 21 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0FVLMJDQ7",
+          "position": 25,
+          "title": "Seniors Guide to iPhone: Step-by-Step Instructions in Large Print with Color Illustrations for the Not-So-Tech-Savvy to Confidently Enjoy iPhone Features Without Relying on Others",
+          "author": null,
+          "price": 20.95,
+          "priceRaw": "$20.95",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 97,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0FVLMJDQ7",
+          "raw": {
+            "text": "#25 Seniors Guide to iPhone: Step-by-Step Instructions in Large Print with Color Illustrations for the Not-So-Tech-Savvy to Confidently Enjoy iPhone Features Without Relying on Others Miles Ardan 4.2 out of 5 stars 97 Paperback $20.95 21 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GGVBWGQK",
+          "position": 26,
+          "title": "Claude Code Crash Course: Build Real-World Apps with AI",
+          "author": null,
+          "price": 7.99,
+          "priceRaw": "$7.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 52000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GGVBWGQK",
+          "raw": {
+            "text": "#26 Claude Code Crash Course: Build Real-World Apps with AI Greg Lim 4.4 out of 5 stars 52 Kindle Edition $7.99 24 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1806021293",
+          "position": 27,
+          "title": "C, C++, and C# Programming for Beginners: Write real programs, master memory management, and build your first web apps and 3D games with AI",
+          "author": null,
+          "price": 43.99,
+          "priceRaw": "$43.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 3,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1806021293",
+          "raw": {
+            "text": "#27 C, C++, and C# Programming for Beginners: Write real programs, master memory management, and build your first web apps and 3D games with AI Mark J. Price 4.4 out of 5 stars 3 Paperback $43.99 44 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B005LH4Y3G",
+          "position": 28,
+          "title": "Inside Apple: How America's Most Admired—and Secretive—Company Really Works",
+          "author": null,
+          "price": 3.99,
+          "priceRaw": "$3.99",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 510000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B005LH4Y3G",
+          "raw": {
+            "text": "#28 Inside Apple: How America's Most Admired—and Secretive—Company Really Works Adam Lashinsky 4.2 out of 5 stars 510 Kindle Edition $3.99 12 pts 6 formats available"
+          }
+        },
+        {
+          "asin": "B0H4Z6LY47",
+          "position": 29,
+          "title": "Kindle Paperwhite 2026 User Guide for Beginners and Seniors: Easy Step-by-Step Instructions with Pictures to Set Up Your Kindle, Discover Hidden Features, Customize Settings and Read with Confidence",
+          "author": null,
+          "price": 5.99,
+          "priceRaw": "$5.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 3000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0H4Z6LY47",
+          "raw": {
+            "text": "#29 Kindle Paperwhite 2026 User Guide for Beginners and Seniors: Easy Step-by-Step Instructions with Pictures to Set Up Your Kindle, Discover Hidden Features, Customize Settings and Read with Confidence JOHN MASK 4.6 out of 5 stars 3 Kindle Edition $5.99 18 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GTQ8KMJN",
+          "position": 30,
+          "title": "Kindle Setup for Beginners (2026 Guide): Fast & Easy Step-by-Step Setup, Fonts, Library & Collections (No Tech Skills) (QuickFix Guides Series)",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 3.6,
+          "reviews": 7000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GTQ8KMJN",
+          "raw": {
+            "text": "#30 Kindle Setup for Beginners (2026 Guide): Fast & Easy Step-by-Step Setup, Fonts, Library & Collections (No Tech Skills) (QuickFix Guides Series) QuickFix Guides 3.6 out of 5 stars 7 Kindle Edition $2.99 9 pts"
+          }
+        },
+        {
+          "asin": "B0HMFJWC4F",
+          "position": 31,
+          "title": "The Only 2027 iPhone 18 + Apple Watch 2-in-1 Guide for Seniors: Pro, Pro Max, Duo, Series 12 & Ultra 4 | Large-Print Step-by-Step Guide to Set Up, Use Every Apple Feature & Fix Problems on Your Own",
+          "author": null,
+          "price": 29.99,
+          "priceRaw": "$29.99",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 39,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HMFJWC4F",
+          "raw": {
+            "text": "#31 The Only 2027 iPhone 18 + Apple Watch 2-in-1 Guide for Seniors: Pro, Pro Max, Duo, Series 12 & Ultra 4 | Large-Print Step-by-Step Guide to Set Up, Use Every Apple Feature & Fix Problems on Your Own Harold Morgan Benton 4.8 out of 5 stars 39 Paperback $29.99 30 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0HKNTVW12",
+          "position": 32,
+          "title": "iPhone 18 Pro Max User Guide: An Illustrated Step-by-Step Manual for Beginners and Seniors to Master iOS 27, Siri AI, Apple Intelligence, 48MP Pro ... Tips & Tricks (Apple 2026 User Guide Series)",
+          "author": null,
+          "price": 18.99,
+          "priceRaw": "$18.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 12,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HKNTVW12",
+          "raw": {
+            "text": "#32 iPhone 18 Pro Max User Guide: An Illustrated Step-by-Step Manual for Beginners and Seniors to Master iOS 27, Siri AI, Apple Intelligence, 48MP Pro ... Tips & Tricks (Apple 2026 User Guide Series) Marcus Reed 5.0 out of 5 stars 12 Paperback $18.99 19 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0G2HCDNSW",
+          "position": 33,
+          "title": "iPad For Seniors Made Easy: Finally Understand Your iPad Without Asking Your Kids for Help — Clear Pictures, Big Text, and No Tech Jargon, Just Easy ... (Photography Course for Seniors Included!)",
+          "author": null,
+          "price": 22.99,
+          "priceRaw": "$22.99",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 49,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0G2HCDNSW",
+          "raw": {
+            "text": "#33 iPad For Seniors Made Easy: Finally Understand Your iPad Without Asking Your Kids for Help — Clear Pictures, Big Text, and No Tech Jargon, Just Easy ... (Photography Course for Seniors Included!) James Whittaker 4.2 out of 5 stars 49 Paperback $22.99 23 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0H2K53WLL",
+          "position": 34,
+          "title": "The Scribe Sketchpad: Digital Art and Calligraphy on Kindle Scribe",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 1,
+          "reviews": 3000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0H2K53WLL",
+          "raw": {
+            "text": "#34 The Scribe Sketchpad: Digital Art and Calligraphy on Kindle Scribe Leo Arvin 1.0 out of 5 stars 3 Kindle Edition $2.99 9 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0FJ5KNKD3",
+          "position": 35,
+          "title": "Digital Life Without the Stress: The Complete Beginner's Guide to Computers, Smartphones, and Internet for Seniors who want Independence",
+          "author": null,
+          "price": 18.19,
+          "priceRaw": "$18.19",
+          "currency": "USD",
+          "rating": 4.9,
+          "reviews": 11,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0FJ5KNKD3",
+          "raw": {
+            "text": "#35 Digital Life Without the Stress: The Complete Beginner's Guide to Computers, Smartphones, and Internet for Seniors who want Independence Giovanni”Johnny” Valentini 4.9 out of 5 stars 11 Paperback $18.19 19 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0CMV96XTQ",
+          "position": 36,
+          "title": "iPhone 15 for Seniors: A Comprehensive and Easy-to-Follow Guide to Mastering Your New iPhone with Clear Illustrations and User-Friendly Explanations. Effortless Learning at Its Best",
+          "author": null,
+          "price": 15.87,
+          "priceRaw": "$15.87",
+          "currency": "USD",
+          "rating": 4,
+          "reviews": 152,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0CMV96XTQ",
+          "raw": {
+            "text": "#36 iPhone 15 for Seniors: A Comprehensive and Easy-to-Follow Guide to Mastering Your New iPhone with Clear Illustrations and User-Friendly Explanations. Effortless Learning at Its Best Lukas Worley 4.0 out of 5 stars 152 Paperback $15.87 16 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "111974024X",
+          "position": 37,
+          "title": "C Programming For Dummies (For Dummies (Computer/Tech))",
+          "author": null,
+          "price": 19.84,
+          "priceRaw": "$19.84",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 144,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/111974024X",
+          "raw": {
+            "text": "#37 C Programming For Dummies (For Dummies (Computer/Tech)) Dan Gookin 4.6 out of 5 stars 144 Paperback $19.84 20 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HH68H3PD",
+          "position": 38,
+          "title": "Amazon Fire TV Stick 4K Plus Guide 2026: A Practical Manual for Confident Daily Streaming, from First Setup to Smarter Control and Fewer Problems",
+          "author": null,
+          "price": 20.99,
+          "priceRaw": "$20.99",
+          "currency": "USD",
+          "rating": 3.5,
+          "reviews": 5,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HH68H3PD",
+          "raw": {
+            "text": "#38 Amazon Fire TV Stick 4K Plus Guide 2026: A Practical Manual for Confident Daily Streaming, from First Setup to Smarter Control and Fewer Problems Todd C. Messer 3.5 out of 5 stars 5 Paperback $20.99 21 pts"
+          }
+        },
+        {
+          "asin": "1801715475",
+          "position": 39,
+          "title": "iPhone 16 for Seniors and Beginners: The Complete Step-by-Step User Guide for Mastering Your iPhone, Use Camera Features, Setting Up Wi-Fi, FaceTime, and Siri",
+          "author": null,
+          "price": 19.97,
+          "priceRaw": "$19.97",
+          "currency": "USD",
+          "rating": 3.7,
+          "reviews": 207,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1801715475",
+          "raw": {
+            "text": "#39 iPhone 16 for Seniors and Beginners: The Complete Step-by-Step User Guide for Mastering Your iPhone, Use Camera Features, Setting Up Wi-Fi, FaceTime, and Siri John Halbert 3.7 out of 5 stars 207 Paperback $19.97 20 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "173243462X",
+          "position": 40,
+          "title": "Kindle Manual for Beginners: The Perfect Kindle Guide for Beginners, Seniors, & New Kindle Users",
+          "author": null,
+          "price": 17.95,
+          "priceRaw": "$17.95",
+          "currency": "USD",
+          "rating": 4,
+          "reviews": 390,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/173243462X",
+          "raw": {
+            "text": "#40 Kindle Manual for Beginners: The Perfect Kindle Guide for Beginners, Seniors, & New Kindle Users Joe Malacina 4.0 out of 5 stars 390 Paperback $17.95 18 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0DPCZGMFM",
+          "position": 41,
+          "title": "How to Install a Libby on Your Devices: Expert Advice for Installing Your Favourite Reading Apps",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 29000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DPCZGMFM",
+          "raw": {
+            "text": "#41 How to Install a Libby on Your Devices: Expert Advice for Installing Your Favourite Reading Apps Francis Roberts 4.2 out of 5 stars 29 Kindle Edition $2.99 9 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HLY8Z323",
+          "position": 42,
+          "title": "iPhone 17 User Guide for Seniors Made Easy: A Step-by-Step Guide for Beginners in Large Print & Full Color: Calls, Texts, Photos, FaceTime, Email, ... Experience Needed) (ClearStep Tech Guides)",
+          "author": null,
+          "price": 21.94,
+          "priceRaw": "$21.94",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 35,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HLY8Z323",
+          "raw": {
+            "text": "#42 iPhone 17 User Guide for Seniors Made Easy: A Step-by-Step Guide for Beginners in Large Print & Full Color: Calls, Texts, Photos, FaceTime, Email, ... Experience Needed) (ClearStep Tech Guides) Michael L. Bennett 4.8 out of 5 stars 35 Paperback $21.94 22 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1806107775",
+          "position": 43,
+          "title": "Practical Mobile Forensics: Forensically investigate and analyze modern iOS and Android devices",
+          "author": null,
+          "price": 45.59,
+          "priceRaw": "$45.59",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1806107775",
+          "raw": {
+            "text": "#43 Practical Mobile Forensics: Forensically investigate and analyze modern iOS and Android devices Rohit Tamma Paperback $45.59 46 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HHZ3JPFF",
+          "position": 44,
+          "title": "The New iPad A16 User Guide: A Step-by-Step Manual for Beginners and Seniors to Master iPadOS 26, Apps, Settings, and Multitasking",
+          "author": null,
+          "price": 14.99,
+          "priceRaw": "$14.99",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HHZ3JPFF",
+          "raw": {
+            "text": "#44 The New iPad A16 User Guide: A Step-by-Step Manual for Beginners and Seniors to Master iPadOS 26, Apps, Settings, and Multitasking Claire Bennett Paperback $14.99 15 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1718504748",
+          "position": 45,
+          "title": "The Spacecraft Hacker's Handbook: Exploiting Ground Stations, Flight Software, and Satellite Terminals",
+          "author": null,
+          "price": 57.36,
+          "priceRaw": "$57.36",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1718504748",
+          "raw": {
+            "text": "#45 The Spacecraft Hacker's Handbook: Exploiting Ground Stations, Flight Software, and Satellite Terminals Andrzej Olchawa Paperback $57.36 58 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1806028034",
+          "position": 46,
+          "title": "Modern Computer Architecture and Organization: A systems-level guide to modern computer architectures, from hardware foundations to AI datacenters",
+          "author": null,
+          "price": 54.99,
+          "priceRaw": "$54.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 11,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1806028034",
+          "raw": {
+            "text": "#46 Modern Computer Architecture and Organization: A systems-level guide to modern computer architectures, from hardware foundations to AI datacenters Jim Ledin 4.6 out of 5 stars 11 Paperback $54.99 55 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0G1YHL2LR",
+          "position": 47,
+          "title": "The New Apple Watch for Seniors Made Simple — Series 11, Ultra 3 & SE 3 Guide: Full-Color Large Print Step-by-Step Book for Easy Setup, Heart Health, Fall Detection & Emergency Help When Needed Most",
+          "author": null,
+          "price": 22.99,
+          "priceRaw": "$22.99",
+          "currency": "USD",
+          "rating": 3.9,
+          "reviews": 87,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0G1YHL2LR",
+          "raw": {
+            "text": "#47 The New Apple Watch for Seniors Made Simple — Series 11, Ultra 3 & SE 3 Guide: Full-Color Large Print Step-by-Step Book for Easy Setup, Heart Health, Fall Detection & Emergency Help When Needed Most Harold Morgan Benton 3.9 out of 5 stars 87 Paperback $22.99 23 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0HHJQTSY7",
+          "position": 48,
+          "title": "iPhone Guide for Seniors and Beginners: A Practical Step-by-Step Handbook for Everyday Features, Communication, Photos, Apps, Internet, Safety, and Accessibility",
+          "author": null,
+          "price": 21.95,
+          "priceRaw": "$21.95",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 18,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HHJQTSY7",
+          "raw": {
+            "text": "#48 iPhone Guide for Seniors and Beginners: A Practical Step-by-Step Handbook for Everyday Features, Communication, Photos, Apps, Internet, Safety, and Accessibility Eddie L. Crawford 5.0 out of 5 stars 18 Paperback $21.95 22 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "183620227X",
+          "position": 49,
+          "title": "React Key Concepts: An in-depth guide to React's core features",
+          "author": null,
+          "price": 23.74,
+          "priceRaw": "$23.74",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 45,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/183620227X",
+          "raw": {
+            "text": "#49 React Key Concepts: An in-depth guide to React's core features Maximilian Schwarzmüller 4.5 out of 5 stars 45 Paperback $23.74 24 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1394373953",
+          "position": 50,
+          "title": "iPhone For Dummies, 2026 Edition",
+          "author": null,
+          "price": 18,
+          "priceRaw": "$18.00",
+          "currency": "USD",
+          "rating": 4,
+          "reviews": 28,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1394373953",
+          "raw": {
+            "text": "#50 iPhone For Dummies, 2026 Edition Guy Hart-Davis 4.0 out of 5 stars 28 Paperback $18.00 18 pts 2 formats available"
+          }
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "url": "https://www.amazon.com/gp/bestsellers/books/377557011?pg=2",
+      "kind": "bestsellers",
+      "items": 50,
+      "total": null,
+      "itemsData": [
+        {
+          "asin": "B0DRC49K3G",
+          "position": 51,
+          "title": "How To Download The Kindle App To Your Devices: Kindle App Download For ios/Android/PC/MAC, Kindle Book Deals, Kindle Credits, & Kindle Colorsoft",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 82000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DRC49K3G",
+          "raw": {
+            "text": "#51 How To Download The Kindle App To Your Devices: Kindle App Download For ios/Android/PC/MAC, Kindle Book Deals, Kindle Credits, & Kindle Colorsoft Kameron Snow 4.4 out of 5 stars 82 Kindle Edition $2.99 9 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HQJXHW3G",
+          "position": 52,
+          "title": "iPhone 18 PRO USER GUIDE: An Easy Step-by-Step Manual for Beginners & Seniors with Clear Visual Instructions and Video Tutorials to Set Up and Use Your iPhone with Confidence",
+          "author": null,
+          "price": 19.99,
+          "priceRaw": "$19.99",
+          "currency": "USD",
+          "rating": 4.9,
+          "reviews": 24,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HQJXHW3G",
+          "raw": {
+            "text": "#52 iPhone 18 PRO USER GUIDE: An Easy Step-by-Step Manual for Beginners & Seniors with Clear Visual Instructions and Video Tutorials to Set Up and Use Your iPhone with Confidence Nolan Veycroft 4.9 out of 5 stars 24 Paperback $19.99 20 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1394453957",
+          "position": 53,
+          "title": "MacBook Neo For Dummies",
+          "author": null,
+          "price": 24.99,
+          "priceRaw": "$24.99",
+          "currency": "USD",
+          "rating": 3.9,
+          "reviews": 14,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1394453957",
+          "raw": {
+            "text": "#53 MacBook Neo For Dummies Mark L. Chambers 3.9 out of 5 stars 14 Paperback $24.99 25 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0H9YNHMVC",
+          "position": 54,
+          "title": "Samsung Galaxy A17 5g User Guide For Beginners And Seniors: An Easy Practical Guide for Setup, Calls, Messages, Apps, Camera, Security, Accessibility, Internet, and Daily Phone Tasks",
+          "author": null,
+          "price": 17.98,
+          "priceRaw": "$17.98",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 4,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0H9YNHMVC",
+          "raw": {
+            "text": "#54 Samsung Galaxy A17 5g User Guide For Beginners And Seniors: An Easy Practical Guide for Setup, Calls, Messages, Apps, Camera, Security, Accessibility, Internet, and Daily Phone Tasks Dorian Westfall 5.0 out of 5 stars 4 Paperback $17.98 18 pts"
+          }
+        },
+        {
+          "asin": "B0HDYN5Z57",
+          "position": 55,
+          "title": "Super Easy Apple Watch For Seniors: The Stress-Free Guide to Set Up Your Safety Features, Track Your Heart, and Feel Watched Over. Full-Color, Large-Print Steps for Series 11, Ultra 3 and SE",
+          "author": null,
+          "price": 19.99,
+          "priceRaw": "$19.99",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 15,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HDYN5Z57",
+          "raw": {
+            "text": "#55 Super Easy Apple Watch For Seniors: The Stress-Free Guide to Set Up Your Safety Features, Track Your Heart, and Feel Watched Over. Full-Color, Large-Print Steps for Series 11, Ultra 3 and SE Timothy Randall 4.8 out of 5 stars 15 Paperback $19.99 20 pts"
+          }
+        },
+        {
+          "asin": "B0H562NF4V",
+          "position": 56,
+          "title": "Kindle Colorsoft User Guide 2026: A Simple Step-by-Step Manual for Beginners and Seniors to Set Up, Read in Color, Manage Books, Use Audiobooks, and Troubleshoot Common Problems",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 4.9,
+          "reviews": 10000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0H562NF4V",
+          "raw": {
+            "text": "#56 Kindle Colorsoft User Guide 2026: A Simple Step-by-Step Manual for Beginners and Seniors to Set Up, Read in Color, Manage Books, Use Audiobooks, and Troubleshoot Common Problems Satyam Pandey 4.9 out of 5 stars 10 Kindle Edition $2.99 9 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0G1S3PJZW",
+          "position": 57,
+          "title": "The Complete iPhone 17 Guide for Seniors: An Easy, Step-by-Step Guide for Zero-Tech Beginners for Everyday Use (Full Color Edition) (The Tech-Savvy Guides for Seniors)",
+          "author": null,
+          "price": 20.97,
+          "priceRaw": "$20.97",
+          "currency": "USD",
+          "rating": 4.1,
+          "reviews": 213,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0G1S3PJZW",
+          "raw": {
+            "text": "#57 The Complete iPhone 17 Guide for Seniors: An Easy, Step-by-Step Guide for Zero-Tech Beginners for Everyday Use (Full Color Edition) (The Tech-Savvy Guides for Seniors) Wesley Grant 4.1 out of 5 stars 213 Paperback $20.97 21 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GZ8Z96FH",
+          "position": 58,
+          "title": "iPhone 17e User Guide for Beginners and Seniors: The Complete Easy Step-by-Step Manual to Master Your New iPhone Without Frustration, with Tips, Tricks, Hidden Features, and Troubleshooting Techniques",
+          "author": null,
+          "price": 15.99,
+          "priceRaw": "$15.99",
+          "currency": "USD",
+          "rating": 4,
+          "reviews": 1,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GZ8Z96FH",
+          "raw": {
+            "text": "#58 iPhone 17e User Guide for Beginners and Seniors: The Complete Easy Step-by-Step Manual to Master Your New iPhone Without Frustration, with Tips, Tricks, Hidden Features, and Troubleshooting Techniques Brave Marks 4.0 out of 5 stars 1 Paperback $15.99 16 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1836206631",
+          "position": 59,
+          "title": "C# 14 and .NET 10 – Modern Cross-Platform Development Fundamentals: Build modern websites and services with ASP.NET Core, Blazor, and EF Core using Visual Studio 2026",
+          "author": null,
+          "price": 37.99,
+          "priceRaw": "$37.99",
+          "currency": "USD",
+          "rating": 3.7,
+          "reviews": 92,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1836206631",
+          "raw": {
+            "text": "#59 C# 14 and .NET 10 – Modern Cross-Platform Development Fundamentals: Build modern websites and services with ASP.NET Core, Blazor, and EF Core using Visual Studio 2026 Mark J. Price 3.7 out of 5 stars 92 Paperback $37.99 38 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1394374488",
+          "position": 60,
+          "title": "iPad and iPad Pro For Dummies",
+          "author": null,
+          "price": 25.58,
+          "priceRaw": "$25.58",
+          "currency": "USD",
+          "rating": 3.7,
+          "reviews": 8,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1394374488",
+          "raw": {
+            "text": "#60 iPad and iPad Pro For Dummies Paul McFedries 3.7 out of 5 stars 8 Paperback $25.58 26 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GS6V7QCQ",
+          "position": 61,
+          "title": "iPhone 17e User Guide: An Illustrated Beginners and Seniors Manual with iOS 26 Tips and Tricks to Unlock Your IPhone's Full Potential",
+          "author": null,
+          "price": 18.99,
+          "priceRaw": "$18.99",
+          "currency": "USD",
+          "rating": 4,
+          "reviews": 3,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GS6V7QCQ",
+          "raw": {
+            "text": "#61 iPhone 17e User Guide: An Illustrated Beginners and Seniors Manual with iOS 26 Tips and Tricks to Unlock Your IPhone's Full Potential Scott A. McIntosh 4.0 out of 5 stars 3 Paperback $18.99 19 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0HMRN36YL",
+          "position": 62,
+          "title": "Amazon Alexa Tablet 12 Pro User Guide: Step-by-Step Tips, Tricks & Skills to Master Alexa+, Kindle Reading, Smart Home Controls, and Productivity",
+          "author": null,
+          "price": 6.99,
+          "priceRaw": "$6.99",
+          "currency": "USD",
+          "rating": 3,
+          "reviews": 3000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HMRN36YL",
+          "raw": {
+            "text": "#62 Amazon Alexa Tablet 12 Pro User Guide: Step-by-Step Tips, Tricks & Skills to Master Alexa+, Kindle Reading, Smart Home Controls, and Productivity Roul Parris 3.0 out of 5 stars 3 Kindle Edition $6.99 21 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1250096065",
+          "position": 63,
+          "title": "Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry",
+          "author": null,
+          "price": 10.61,
+          "priceRaw": "$10.61",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 1607,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1250096065",
+          "raw": {
+            "text": "#63 Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry Jacquie McNish 4.3 out of 5 stars 1,607 Paperback $10.61 11 pts 5 formats available"
+          }
+        },
+        {
+          "asin": "B0HCW4C3WD",
+          "position": 64,
+          "title": "The Evolution of the Swipe: Taps and Apps (Anatomy of the Swipe)",
+          "author": null,
+          "price": 29.99,
+          "priceRaw": "$29.99",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 35,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HCW4C3WD",
+          "raw": {
+            "text": "#64 The Evolution of the Swipe: Taps and Apps (Anatomy of the Swipe) Ahmed Siddiqui 4.6 out of 5 stars 35 Paperback $29.99 30 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0HJY12792",
+          "position": 65,
+          "title": "iPhone Duo User Guide: Master Apple's First Foldable Device with iOS 27 Features, Dual Screen Navigation, Camera Controls, Privacy, Customization, and ... (Apple 2026 User Guide Series Book 2)",
+          "author": null,
+          "price": 5.99,
+          "priceRaw": "$5.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 1000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HJY12792",
+          "raw": {
+            "text": "#65 iPhone Duo User Guide: Master Apple's First Foldable Device with iOS 27 Features, Dual Screen Navigation, Camera Controls, Privacy, Customization, and ... (Apple 2026 User Guide Series Book 2) Marcus Reed 5.0 out of 5 stars 1 Kindle Edition $5.99 18 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B07KJ2NGYL",
+          "position": 66,
+          "title": "ALL-NEW KINDLE PAPERWHITE USER'S GUIDE: THE COMPLETE ALL-NEW EDITION: The Ultimate Manual To Set Up, Manage Your E-Reader, Advanced Tips And Tricks",
+          "author": null,
+          "price": 5.99,
+          "priceRaw": "$5.99",
+          "currency": "USD",
+          "rating": 3.8,
+          "reviews": 705000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B07KJ2NGYL",
+          "raw": {
+            "text": "#66 ALL-NEW KINDLE PAPERWHITE USER'S GUIDE: THE COMPLETE ALL-NEW EDITION: The Ultimate Manual To Set Up, Manage Your E-Reader, Advanced Tips And Tricks QUICK GUIDES TEAM 3.8 out of 5 stars 705 Kindle Edition $5.99 18 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HLWLSDYB",
+          "position": 67,
+          "title": "The Complete Apple Watch Series 12 and Ultra 4 Guide for Seniors: The Easiest Full-Color Big-Text Manual to Stay Safe, Connected, and Independent with Confidence (The Simple Tech Guides for Seniors)",
+          "author": null,
+          "price": 22.97,
+          "priceRaw": "$22.97",
+          "currency": "USD",
+          "rating": 4.7,
+          "reviews": 16,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HLWLSDYB",
+          "raw": {
+            "text": "#67 The Complete Apple Watch Series 12 and Ultra 4 Guide for Seniors: The Easiest Full-Color Big-Text Manual to Stay Safe, Connected, and Independent with Confidence (The Simple Tech Guides for Seniors) Luke Benson 4.7 out of 5 stars 16 Paperback $22.97 23 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HLG7KNXS",
+          "position": 68,
+          "title": "SAMSUNG GALAXY S26 FE USER MANUAL FOR BEGINNERS AND SENIORS",
+          "author": null,
+          "price": 21.99,
+          "priceRaw": "$21.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 1,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HLG7KNXS",
+          "raw": {
+            "text": "#68 SAMSUNG GALAXY S26 FE USER MANUAL FOR BEGINNERS AND SENIORS DAVTECH RYAN 5.0 out of 5 stars 1 Paperback $21.99 22 pts"
+          }
+        },
+        {
+          "asin": "B0HNRZX32V",
+          "position": 69,
+          "title": "iPhone 18 Pro & Pro Max for Seniors: A Large-Print Visual Guide With Real Screenshots and a Practice Exercise in Every Chapter | Senior Mode, Scam Calls, Siri AI and Everyday Problems Solved",
+          "author": null,
+          "price": 18.98,
+          "priceRaw": "$18.98",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 13,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HNRZX32V",
+          "raw": {
+            "text": "#69 iPhone 18 Pro & Pro Max for Seniors: A Large-Print Visual Guide With Real Screenshots and a Practice Exercise in Every Chapter | Senior Mode, Scam Calls, Siri AI and Everyday Problems Solved Walter J. Hale 5.0 out of 5 stars 13 Paperback $18.98 19 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HJX37X3G",
+          "position": 70,
+          "title": "iPhone 18 Pro Max User Manual: A Practical Guide to Mastering iOS 27, Apple Intelligence, Camera, Siri, Apps, Privacy, Security, and Hidden Features for Everyday Use",
+          "author": null,
+          "price": 23.99,
+          "priceRaw": "$23.99",
+          "currency": "USD",
+          "rating": 4,
+          "reviews": 2,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HJX37X3G",
+          "raw": {
+            "text": "#70 iPhone 18 Pro Max User Manual: A Practical Guide to Mastering iOS 27, Apple Intelligence, Camera, Siri, Apps, Privacy, Security, and Hidden Features for Everyday Use Jake B. Sato 4.0 out of 5 stars 2 Paperback $23.99 24 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GT78TCVT",
+          "position": 71,
+          "title": "MacBook Pro M5 Pro USER GUIDE For Beginners 2026: Maximizing System Performance, Managing Storage, and Enhancing Security with Easy-To-Follow Instructions for Seamless Device Management",
+          "author": null,
+          "price": 19.99,
+          "priceRaw": "$19.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 2,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GT78TCVT",
+          "raw": {
+            "text": "#71 MacBook Pro M5 Pro USER GUIDE For Beginners 2026: Maximizing System Performance, Managing Storage, and Enhancing Security with Easy-To-Follow Instructions for Seamless Device Management Caleb Donovan Donovan 5.0 out of 5 stars 2 Paperback $19.99 20 pts"
+          }
+        },
+        {
+          "asin": "1801070644",
+          "position": 72,
+          "title": "Learn Microsoft Power Apps: The definitive handbook for building solutions with Power Apps to solve your business needs",
+          "author": null,
+          "price": 28.49,
+          "priceRaw": "$28.49",
+          "currency": "USD",
+          "rating": 4.1,
+          "reviews": 78,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1801070644",
+          "raw": {
+            "text": "#72 Learn Microsoft Power Apps: The definitive handbook for building solutions with Power Apps to solve your business needs Matthew Weston 4.1 out of 5 stars 78 Paperback $28.49 29 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GTF4BL37",
+          "position": 73,
+          "title": "iPhone 17e User Manual for Seniors: Beginner-Friendly Guide to Setup, Navigation, Apps, Security, Explore iOS Features, Battery Tips, and Troubleshooting your Device (DeviceBridge Guide Series)",
+          "author": null,
+          "price": 14.99,
+          "priceRaw": "$14.99",
+          "currency": "USD",
+          "rating": 3.4,
+          "reviews": 11,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GTF4BL37",
+          "raw": {
+            "text": "#73 iPhone 17e User Manual for Seniors: Beginner-Friendly Guide to Setup, Navigation, Apps, Security, Explore iOS Features, Battery Tips, and Troubleshooting your Device (DeviceBridge Guide Series) Caleb J. Penmore 3.4 out of 5 stars 11 Paperback $14.99 15 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "0578675862",
+          "position": 74,
+          "title": "Working in Public: The Making and Maintenance of Open Source Software",
+          "author": null,
+          "price": 17,
+          "priceRaw": "$17.00",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 417,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/0578675862",
+          "raw": {
+            "text": "#74 Working in Public: The Making and Maintenance of Open Source Software Nadia Asparouhova 4.5 out of 5 stars 417 Hardcover $17.00 18 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0H2HTP7D2",
+          "position": 75,
+          "title": "Kindle Colorsoft Signature Edition User Guide 2026: The Complete Step-by-Step Manual for Reading, Settings, Features, and Troubleshooting (The Kindle Guide)",
+          "author": null,
+          "price": 2.99,
+          "priceRaw": "$2.99",
+          "currency": "USD",
+          "rating": 3.5,
+          "reviews": 6000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0H2HTP7D2",
+          "raw": {
+            "text": "#75 Kindle Colorsoft Signature Edition User Guide 2026: The Complete Step-by-Step Manual for Reading, Settings, Features, and Troubleshooting (The Kindle Guide) Curt Bevins 3.5 out of 5 stars 6 Kindle Edition $2.99 9 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GHPZPK7V",
+          "position": 76,
+          "title": "Samsung Galaxy A16 5G User Manual for Beginners and Seniors: Step by Step Beginner Friendly Guide to Set Up Your Phone, Discover Hidden Features, Fix Common Problems, and Take Better Photos",
+          "author": null,
+          "price": 9.99,
+          "priceRaw": "$9.99",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 9000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GHPZPK7V",
+          "raw": {
+            "text": "#76 Samsung Galaxy A16 5G User Manual for Beginners and Seniors: Step by Step Beginner Friendly Guide to Set Up Your Phone, Discover Hidden Features, Fix Common Problems, and Take Better Photos NEXA TECH 4.5 out of 5 stars 9 Kindle Edition $9.99 30 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1511744049",
+          "position": 77,
+          "title": "Actionable Gamification: Beyond Points, Badges and Leaderboards",
+          "author": null,
+          "price": 17.77,
+          "priceRaw": "$17.77",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 921,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1511744049",
+          "raw": {
+            "text": "#77 Actionable Gamification: Beyond Points, Badges and Leaderboards Yu-kai Chou 4.6 out of 5 stars 921 Paperback $17.77 18 pts 4 formats available"
+          }
+        },
+        {
+          "asin": "1500611182",
+          "position": 78,
+          "title": "Help Me! Guide to Android for Seniors: Introduction to Android Phones and Tablets for Beginners",
+          "author": null,
+          "price": 6.99,
+          "priceRaw": "$6.99",
+          "currency": "USD",
+          "rating": 3.7,
+          "reviews": 886,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1500611182",
+          "raw": {
+            "text": "#78 Help Me! Guide to Android for Seniors: Introduction to Android Phones and Tablets for Beginners Charles Hughes 3.7 out of 5 stars 886 Paperback $6.99 7 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1807603814",
+          "position": 79,
+          "title": "iOS 27 Programming for Beginners: Build and publish UIKit apps with Swift 6, Xcode 27, and Apple Intelligence",
+          "author": null,
+          "price": 35.99,
+          "priceRaw": "$35.99",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1807603814",
+          "raw": {
+            "text": "#79 iOS 27 Programming for Beginners: Build and publish UIKit apps with Swift 6, Xcode 27, and Apple Intelligence Ahmad Sahar Paperback $35.99 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GZYGWSBD",
+          "position": 80,
+          "title": "Codex with ChatGPT for Beginners : Learn How to Build Apps, Automate Tasks, Write Code, and Use AI Tools Without Being a Programmer",
+          "author": null,
+          "price": 0.99,
+          "priceRaw": "$0.99",
+          "currency": "USD",
+          "rating": 3,
+          "reviews": 2000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GZYGWSBD",
+          "raw": {
+            "text": "#80 Codex with ChatGPT for Beginners : Learn How to Build Apps, Automate Tasks, Write Code, and Use AI Tools Without Being a Programmer Jordan Blake 3.0 out of 5 stars 2 Kindle Edition $0.99 3 pts"
+          }
+        },
+        {
+          "asin": "1835465153",
+          "position": 81,
+          "title": "Microsoft Power Apps Cookbook: Build user-friendly apps, troubleshoot challenges, and navigate the evolving Power Apps landscape",
+          "author": null,
+          "price": 29.77,
+          "priceRaw": "$29.77",
+          "currency": "USD",
+          "rating": 4.3,
+          "reviews": 24,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1835465153",
+          "raw": {
+            "text": "#81 Microsoft Power Apps Cookbook: Build user-friendly apps, troubleshoot challenges, and navigate the evolving Power Apps landscape Eickhel Mendoza 4.3 out of 5 stars 24 Paperback $29.77 30 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HLTZ1KB1",
+          "position": 82,
+          "title": "IPHONE DUO ILLUSTRATED USER GUIDE 2026–2027: The Complete Step-by-Step Manual for Setup, Dual-Screen Navigation, Multitasking, Camera, Apps, Calls, Messages, Personalization, and Everyday Use",
+          "author": null,
+          "price": 22.99,
+          "priceRaw": "$22.99",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HLTZ1KB1",
+          "raw": {
+            "text": "#82 IPHONE DUO ILLUSTRATED USER GUIDE 2026–2027: The Complete Step-by-Step Manual for Setup, Dual-Screen Navigation, Multitasking, Camera, Apps, Calls, Messages, Personalization, and Everyday Use Raymond Kurtz Paperback $22.99 23 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GXPZJPNM",
+          "position": 83,
+          "title": "Apple iPad (10th/11th Gen) USER GUIDE: A Complete Step by Step Manual for Beginners and Seniors",
+          "author": null,
+          "price": 6.99,
+          "priceRaw": "$6.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 2000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GXPZJPNM",
+          "raw": {
+            "text": "#83 Apple iPad (10th/11th Gen) USER GUIDE: A Complete Step by Step Manual for Beginners and Seniors Mark Patterson 5.0 out of 5 stars 2 Kindle Edition $6.99 21 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0BLG717ML",
+          "position": 84,
+          "title": "iРhone 14 User Guide: The Complete User Manual for Beginners and Seniors to Master How to Use the New iPhone 14, iРhone 14 Рlus, iРhone 14 Рro, and iРhone 14 Рro Max with iOS 16 Tips and Tricks",
+          "author": null,
+          "price": 13.99,
+          "priceRaw": "$13.99",
+          "currency": "USD",
+          "rating": 3.8,
+          "reviews": 8,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0BLG717ML",
+          "raw": {
+            "text": "#84 iРhone 14 User Guide: The Complete User Manual for Beginners and Seniors to Master How to Use the New iPhone 14, iРhone 14 Рlus, iРhone 14 Рro, and iРhone 14 Рro Max with iOS 16 Tips and Tricks Jeremy R. Smith 3.8 out of 5 stars 8 Paperback $13.99 14 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0HR8MGLHZ",
+          "position": 85,
+          "title": "How to Use Canva on iPad: A Full-Color Visual Guide for Beginners, with Touch Gestures, Apple Pencil Drawing, Canva AI, and Over 3 Hours of Video Tutorials (The Canva Creator Series)",
+          "author": null,
+          "price": 19.95,
+          "priceRaw": "$19.95",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HR8MGLHZ",
+          "raw": {
+            "text": "#85 How to Use Canva on iPad: A Full-Color Visual Guide for Beginners, with Touch Gestures, Apple Pencil Drawing, Canva AI, and Over 3 Hours of Video Tutorials (The Canva Creator Series) Tessa Quinn Rae Paperback $19.95 20 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0HHZL32B3",
+          "position": 86,
+          "title": "The Complete Apple Watch Guide for Seniors: The Easiest Full-Color Big-Text Manual to Stay Safe, Connected, and Independent with Confidence (The Simple Tech Guides for Seniors)",
+          "author": null,
+          "price": 22.97,
+          "priceRaw": "$22.97",
+          "currency": "USD",
+          "rating": 4.6,
+          "reviews": 20,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HHZL32B3",
+          "raw": {
+            "text": "#86 The Complete Apple Watch Guide for Seniors: The Easiest Full-Color Big-Text Manual to Stay Safe, Connected, and Independent with Confidence (The Simple Tech Guides for Seniors) Luke Benton 4.6 out of 5 stars 20 Paperback $22.97 23 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GH268LQB",
+          "position": 87,
+          "title": "CompTIA A+ Study Guide: Complete and Exam-Focused Reference for Core 1 (220-1201) & Core 2 (220-1202) with E-Learning Platform, Exam Simulations, Practical Study Strategies, and IT Case Studies",
+          "author": null,
+          "price": 29.97,
+          "priceRaw": "$29.97",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 326000,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GH268LQB",
+          "raw": {
+            "text": "#87 CompTIA A+ Study Guide: Complete and Exam-Focused Reference for Core 1 (220-1201) & Core 2 (220-1202) with E-Learning Platform, Exam Simulations, Practical Study Strategies, and IT Case Studies Hopperfield Education 4.8 out of 5 stars 326 Kindle Edition $29.97 90 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0DZLZZGXG",
+          "position": 88,
+          "title": "How to Build a Mobile App and Earn $10,000+ per Month: A Beginner’s Guide for Developers with No Experience",
+          "author": null,
+          "price": 10000,
+          "priceRaw": "$10,000",
+          "currency": "USD",
+          "rating": 4.5,
+          "reviews": 65,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0DZLZZGXG",
+          "raw": {
+            "text": "#88 How to Build a Mobile App and Earn $10,000+ per Month: A Beginner’s Guide for Developers with No Experience Alexander Popov 4.5 out of 5 stars 65 Paperback $14.99 15 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0FBWNLN68",
+          "position": 89,
+          "title": "The Complete iPhone 16 Guide For Seniors: An Easy, Step-by-Step Guide for Zero-Tech Beginners for Everyday Use (Full Color Edition) (The Tech-Savvy Guides for Seniors)",
+          "author": null,
+          "price": 21.97,
+          "priceRaw": "$21.97",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 213,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0FBWNLN68",
+          "raw": {
+            "text": "#89 The Complete iPhone 16 Guide For Seniors: An Easy, Step-by-Step Guide for Zero-Tech Beginners for Everyday Use (Full Color Edition) (The Tech-Savvy Guides for Seniors) Wesley Grant 4.2 out of 5 stars 213 Paperback $21.97 22 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HMJQ7FRL",
+          "position": 90,
+          "title": "iPhone 18 Pro User Guide for Seniors Made Easy: Clear Screenshots and Step-by-Step Instructions to Set Up Your Phone, Navigate iOS 27, Take Better Photos, and Stay Connected with Confidence",
+          "author": null,
+          "price": 24.97,
+          "priceRaw": "$24.97",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 14,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HMJQ7FRL",
+          "raw": {
+            "text": "#90 iPhone 18 Pro User Guide for Seniors Made Easy: Clear Screenshots and Step-by-Step Instructions to Set Up Your Phone, Navigate iOS 27, Take Better Photos, and Stay Connected with Confidence Shane Redfield 5.0 out of 5 stars 14 Paperback $24.97 25 pts"
+          }
+        },
+        {
+          "asin": "B0HH3S6H5L",
+          "position": 91,
+          "title": "Kindle Sync Problems: The Quick Fix Guide: Fix Books Not Syncing, Missing Downloads, Reading Progress, Wi-Fi, Whispersync and Common Kindle Issues Step by Step",
+          "author": null,
+          "price": 0.99,
+          "priceRaw": "$0.99",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HH3S6H5L",
+          "raw": {
+            "text": "#91 Kindle Sync Problems: The Quick Fix Guide: Fix Books Not Syncing, Missing Downloads, Reading Progress, Wi-Fi, Whispersync and Common Kindle Issues Step by Step Apple Bite Kindle Edition $0.99 3 pts"
+          }
+        },
+        {
+          "asin": "1119763282",
+          "position": 92,
+          "title": "Teach Yourself Visually Iphone 12: 12 Pro, and 12 Pro Max",
+          "author": null,
+          "price": 18.92,
+          "priceRaw": "$18.92",
+          "currency": "USD",
+          "rating": 4.4,
+          "reviews": 294,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1119763282",
+          "raw": {
+            "text": "#92 Teach Yourself Visually Iphone 12: 12 Pro, and 12 Pro Max Guy Hart-Davis 4.4 out of 5 stars 294 Paperback $18.92 19 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HPKJ25CJ",
+          "position": 93,
+          "title": "Apple HomeView: The Complete User Guide: A Step-by-Step Manual to Setting Up Your Smart Home, Connecting Apple Devices, Automating Everyday Tasks, ... and Troubleshooting Common Problems",
+          "author": null,
+          "price": 36.99,
+          "priceRaw": "$36.99",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HPKJ25CJ",
+          "raw": {
+            "text": "#93 Apple HomeView: The Complete User Guide: A Step-by-Step Manual to Setting Up Your Smart Home, Connecting Apple Devices, Automating Everyday Tasks, ... and Troubleshooting Common Problems Ethel Seibert Paperback $36.99 37 pts"
+          }
+        },
+        {
+          "asin": "B0HJHK46JT",
+          "position": 94,
+          "title": "iPhone 18 Pro User Guide for Beginners & Seniors: A Complete Step-by-Step Manual to Set Up, Customize, and Master iOS 27, with Camera Secrets, Apple Intelligence, and More",
+          "author": null,
+          "price": 19.89,
+          "priceRaw": "$19.89",
+          "currency": "USD",
+          "rating": 4.8,
+          "reviews": 6,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HJHK46JT",
+          "raw": {
+            "text": "#94 iPhone 18 Pro User Guide for Beginners & Seniors: A Complete Step-by-Step Manual to Set Up, Customize, and Master iOS 27, with Camera Secrets, Apple Intelligence, and More Curry Vase 4.8 out of 5 stars 6 Paperback $19.89 20 pts"
+          }
+        },
+        {
+          "asin": "1836643179",
+          "position": 95,
+          "title": "Learn React with TypeScript: A beginner's guide to building real-world, production-ready web apps with React 19 and TypeScript",
+          "author": null,
+          "price": 37.04,
+          "priceRaw": "$37.04",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 24,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1836643179",
+          "raw": {
+            "text": "#95 Learn React with TypeScript: A beginner's guide to building real-world, production-ready web apps with React 19 and TypeScript Carl Rippon 4.2 out of 5 stars 24 Paperback $37.04 38 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "1394387601",
+          "position": 96,
+          "title": "Teach Yourself VISUALLY iPhone 17 and iPhone Air",
+          "author": null,
+          "price": 29.09,
+          "priceRaw": "$29.09",
+          "currency": "USD",
+          "rating": 4.2,
+          "reviews": 20,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/1394387601",
+          "raw": {
+            "text": "#96 Teach Yourself VISUALLY iPhone 17 and iPhone Air Guy Hart-Davis 4.2 out of 5 stars 20 Paperback $29.09 30 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0HLW4DX1B",
+          "position": 97,
+          "title": "After the Download: Twenty Years Building Apps, Games, and the Companies Behind Them",
+          "author": null,
+          "price": 13.09,
+          "priceRaw": "$13.09",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HLW4DX1B",
+          "raw": {
+            "text": "#97 After the Download: Twenty Years Building Apps, Games, and the Companies Behind Them Joakim Achrén Audible Audiobook $13.09 3 formats available"
+          }
+        },
+        {
+          "asin": "B0HG27GDYH",
+          "position": 98,
+          "title": "IPAD PRO M5 USER GUIDE: The Complete 2025-2026 Manual to Master iPadOS 26, M5 Performance, Apple Pencil Pro, and Every Hidden Feature — Step-by-Step for Beginners and Seniors",
+          "author": null,
+          "price": 6.99,
+          "priceRaw": "$6.99",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0HG27GDYH",
+          "raw": {
+            "text": "#98 IPAD PRO M5 USER GUIDE: The Complete 2025-2026 Manual to Master iPadOS 26, M5 Performance, Apple Pencil Pro, and Every Hidden Feature — Step-by-Step for Beginners and Seniors Marcus Techwell Kindle Edition $6.99 21 pts 3 formats available"
+          }
+        },
+        {
+          "asin": "B0H1HPYXKP",
+          "position": 99,
+          "title": "MASTERING YOUR KINDLE PAPERWHITE 2026: The Definitive User Manual with Step-by-Step Instructions, Tips, Tricks, and Hidden Features for Every Owner",
+          "author": null,
+          "price": 12.99,
+          "priceRaw": "$12.99",
+          "currency": "USD",
+          "rating": null,
+          "reviews": null,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0H1HPYXKP",
+          "raw": {
+            "text": "#99 MASTERING YOUR KINDLE PAPERWHITE 2026: The Definitive User Manual with Step-by-Step Instructions, Tips, Tricks, and Hidden Features for Every Owner JACOB STONES Paperback $12.99 13 pts 2 formats available"
+          }
+        },
+        {
+          "asin": "B0GTV7PLCV",
+          "position": 100,
+          "title": "AI Driven Swift Architecture: Build modern iOS SwiftUI apps with Foundation Models, MCP agents, Clean Architecture, and TDD",
+          "author": null,
+          "price": 34.99,
+          "priceRaw": "$34.99",
+          "currency": "USD",
+          "rating": 5,
+          "reviews": 6,
+          "sponsored": false,
+          "badge": null,
+          "format": null,
+          "url": "https://www.amazon.com/dp/B0GTV7PLCV",
+          "raw": {
+            "text": "#100 AI Driven Swift Architecture: Build modern iOS SwiftUI apps with Foundation Models, MCP agents, Clean Architecture, and TDD Walid SASSI 5.0 out of 5 stars 6 Paperback $34.99 35 pts 2 formats available"
+          }
+        }
+      ]
+    }
+  ],
+  "stopped": null
+}
