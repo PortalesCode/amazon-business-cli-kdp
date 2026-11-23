@@ -8,7 +8,7 @@ su cuenta.
 
 - El repositorio es la fuente de desarrollo.
 - Repo público: `PortalesCode/amazon-business-cli-kdp`; comando instalado: `abck`.
-- Cada versión se publica como paquete npm con versión SemVer y un tag Git
+- Cada versión se publica como `amazon-business-cli-kdp` en npm, con versión SemVer y un tag Git
   correspondiente.
 - GitHub Actions corre pruebas en cada push a `main` y pull request. Un release
   publicará el paquete solo cuando el nombre del paquete y el registry estén
@@ -61,5 +61,5 @@ retroactivamente el significado de resultados anteriores.
 2. Contrato de manifest, instalación y preview de recursos de workspace.
 3. Migración revisada de los agentes/skills que hoy viven en el laboratorio.
 4. Comando explícito de backup y reconciliación, con pruebas de edición/conflicto.
-5. Elegir nombre de paquete/registry y publicar versiones desde tags.
+5. Publicar la primera versión `0.1.0` en npm (nombre y registry ya definidos).
 6. Comando `update` del CLI que delega en el gestor de paquetes, sin tocar workspaces.

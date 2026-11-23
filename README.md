@@ -35,6 +35,21 @@ el comando; no hace falta reinstalar después de cada edición. Si cambia el paq
 bun unlink --global
 ```
 
+## Instalación desde npm
+
+Cuando la versión esté publicada:
+
+```bash
+bun add --global amazon-business-cli-kdp
+abck --help
+```
+
+Para actualizar solo el ejecutable, sin tocar los workspaces:
+
+```bash
+bun update --global amazon-business-cli-kdp
+```
+
 ## Paths
 
 ```bash

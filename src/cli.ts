@@ -83,7 +83,7 @@ export function resolveConfig(paths: Record<string, string>, cwd = process.cwd()
 }
 
 function help() {
-  console.log(`Amazon Business CLI — prototipo local
+  console.log(`Amazon Business CLI — investigación KDP
 
 Uso:
   abck init <workspace> [--json]
