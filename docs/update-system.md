@@ -11,6 +11,11 @@ su cuenta.
 - Cada versión se publica como `amazon-business-cli-kdp` en npm, con versión SemVer y un tag Git
   correspondiente.
 - GitHub Actions corre pruebas en cada push a `main` y pull request.
+- La publicación npm se hace desde `.github/workflows/publish.yml` con trusted publishing
+  (OIDC), no con un token npm guardado. En npmjs.com hay que vincular una sola vez el paquete
+  con `PortalesCode/amazon-business-cli-kdp` y el workflow `publish.yml`. Luego, cada tag
+  `vX.Y.Z` que coincida con `package.json` publica tras pasar los tests. El workflow también
+  permite publicar manualmente desde `main`, útil para completar una versión cuyo tag ya existe.
 - El usuario actualiza el ejecutable explícitamente con Bun. La CLI no se
   autoactualiza en segundo plano.
 - Este camino no modifica `.amazon-business/`, `.opencode/` ni archivos del proyecto.
