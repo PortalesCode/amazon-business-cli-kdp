@@ -42,6 +42,12 @@ bun add --global amazon-business-cli-kdp
 abck --help
 ```
 
+Para ver la versión instalada:
+
+```bash
+abck --version
+```
+
 Para actualizar solo el ejecutable, sin tocar los workspaces:
 
 ```bash

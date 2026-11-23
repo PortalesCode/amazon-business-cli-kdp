@@ -1,5 +1,5 @@
 #!/usr/bin/env bun
-import { existsSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import { join, resolve } from "node:path";
 import {
   DB_FILENAME,
@@ -35,6 +35,9 @@ const SCRIPT_BY_COMMAND: Record<string, string> = {
 };
 
 const GLOBAL_PATH_FLAGS = new Set(["--workspace", "--tool-dir", "--pipeline-dir"]);
+const PACKAGE_VERSION = (JSON.parse(
+  readFileSync(new URL("../package.json", import.meta.url), "utf8"),
+) as { version: string }).version;
 
 export function parseGlobalPaths(args: string[]): { paths: Record<string, string>; forwarded: string[] } {
   const paths: Record<string, string> = {};
@@ -142,6 +145,11 @@ function doctor(config: CliConfig, json: boolean) {
 }
 
 export async function main(argv = process.argv.slice(2)) {
+  if (argv.length === 1 && (argv[0] === "--version" || argv[0] === "-v")) {
+    console.log(PACKAGE_VERSION);
+    return 0;
+  }
+
   if (argv.includes("--help") || argv.includes("-h") || argv.length === 0) {
     help();
     return argv.length === 0 ? 1 : 0;

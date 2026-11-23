@@ -33,6 +33,20 @@ test("init exige un workspace explícito para no inicializar el directorio equiv
   await expect(main(["init"])).rejects.toThrow("Uso: abck init <workspace> [--json]");
 });
 
+test.each(["--version", "-v"])("muestra la versión del paquete con %s", async (flag) => {
+  const originalLog = console.log;
+  const output: unknown[][] = [];
+  console.log = (...args: unknown[]) => output.push(args);
+  try {
+    expect(await main([flag])).toBe(0);
+    expect(output).toEqual([
+      [JSON.parse(await Bun.file(join(import.meta.dir, "../package.json")).text()).version],
+    ]);
+  } finally {
+    console.log = originalLog;
+  }
+});
+
 test("resuelve almacenamiento aislado bajo el workspace", () => {
   const dir = mkdtempSync(join(tmpdir(), "amazon-business-cli-"));
   try {
