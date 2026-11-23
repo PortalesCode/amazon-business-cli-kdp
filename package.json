@@ -5,10 +5,10 @@
   "description": "Workspace-isolated Amazon KDP research CLI and engine",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PortalesCode/amazon-business-cli-kdp.git"
+    "url": "git+https://github.com/PortalesCode/amazon-business-cli-kdp.git"
   },
   "bin": {
-    "abck": "./src/cli.ts"
+    "abck": "src/cli.ts"
   },
   "files": [
     "src/",
