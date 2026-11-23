@@ -12,6 +12,7 @@ import { join } from "node:path";
 import { DB_PATH } from "./paths";
 import { fromDb } from "./apply";
 import { evaluate } from "./gates";
+import { loadCriteria } from "./criteria";
 import { titleHits, bookShareOf } from "./classify";
 
 function arg(name: string): string | undefined {
@@ -99,7 +100,7 @@ async function main() {
       results.push({ phrase, status: "missing-db-capture" });
       continue;
     }
-    const evaluation = evaluate(input);
+    const evaluation = evaluate(input, loadCriteria());
     const rows = searchItems(phrase);
     const top10 = rows.slice(0, 10);
     const authorCounts: Record<string, number> = {};

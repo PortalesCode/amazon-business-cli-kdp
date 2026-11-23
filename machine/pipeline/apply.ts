@@ -17,6 +17,7 @@ import { existsSync, mkdirSync, writeFileSync, readFileSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import type { PhraseInput, Row } from "./types";
 import { evaluate } from "./gates";
+import { loadCriteria } from "./criteria";
 import { renderAnalysis } from "./render";
 import { parseTotal } from "./total";
 import { DB_PATH, CORRIDAS } from "./paths";
@@ -154,13 +155,14 @@ function listKeywords(dbPath: string): string[] {
 }
 
 export function runOne(input: PhraseInput, outRoot: string | null): ReturnType<typeof evaluate> {
-  const ev = evaluate(input);
+  const ev = evaluate(input, loadCriteria());
   if (outRoot) {
     const day = input.capturedAt.slice(0, 10);
     const dir = join(outRoot, `${day}-${slug(input.keyword)}`);
     mkdirSync(dir, { recursive: true });
     writeFileSync(join(dir, "analisis.md"), renderAnalysis(ev, input.rows));
     writeFileSync(join(dir, "crudo.json"), JSON.stringify(input, null, 2));
+    writeFileSync(join(dir, "evaluacion.json"), JSON.stringify(ev, null, 2));
   }
   return ev;
 }

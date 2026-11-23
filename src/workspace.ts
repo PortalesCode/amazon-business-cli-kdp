@@ -1,6 +1,6 @@
 import { Database } from "bun:sqlite";
-import { existsSync, lstatSync, mkdirSync, readFileSync, realpathSync, renameSync, statSync, writeFileSync } from "node:fs";
-import { isAbsolute, join, relative, resolve, sep } from "node:path";
+import { existsSync, lstatSync, mkdirSync, readFileSync, readdirSync, realpathSync, renameSync, statSync, writeFileSync } from "node:fs";
+import { dirname, isAbsolute, join, relative, resolve, sep } from "node:path";
 
 export const WORKSPACE_STATE_DIR = ".amazon-business";
 export const WORKSPACE_CONFIG_FILE = "config.json";
@@ -29,6 +29,43 @@ export type WorkspacePaths = {
 
 const REQUIRED_TABLES = ["items", "ranks", "runs", "suggestions"];
 const SCHEMA_PATH = join(import.meta.dir, "../machine/storage/schema.sql");
+const SCAFFOLD_ROOT = join(import.meta.dir, "../templates/workspace");
+
+function installScaffoldDirectory(root: string, sourceDir: string, relativeDir = "") {
+  const created: string[] = [];
+  const preserved: string[] = [];
+
+  for (const entry of readdirSync(sourceDir, { withFileTypes: true })) {
+    const relativePath = join(relativeDir, entry.name);
+    const sourcePath = join(sourceDir, entry.name);
+    const portableRelativePath = relativePath.split(sep).join("/");
+    const targetRelativePath = portableRelativePath === "confidencial/gitignore.template"
+      ? join("confidencial", ".gitignore")
+      : relativePath;
+    const targetPath = join(root, targetRelativePath);
+    assertLocalPath(root, targetPath);
+
+    if (entry.isDirectory()) {
+      mkdirSync(targetPath, { recursive: true });
+      const nested = installScaffoldDirectory(root, sourcePath, relativePath);
+      created.push(...nested.created);
+      preserved.push(...nested.preserved);
+      continue;
+    }
+
+    if (!entry.isFile()) continue;
+    if (existsSync(targetPath)) {
+      preserved.push(relativePath);
+      continue;
+    }
+
+    mkdirSync(dirname(targetPath), { recursive: true });
+    writeFileSync(targetPath, readFileSync(sourcePath), { flag: "wx" });
+    created.push(targetRelativePath);
+  }
+
+  return { created, preserved };
+}
 
 function isInside(root: string, path: string) {
   const relativePath = relative(root, path);
@@ -37,12 +74,24 @@ function isInside(root: string, path: string) {
 }
 
 function assertLocalPath(root: string, path: string) {
-  if (!existsSync(path)) return;
-  if (lstatSync(path).isSymbolicLink()) {
-    throw new Error(`La ruta de datos no puede ser un symlink: ${path}`);
-  }
-  if (!isInside(realpathSync(root), realpathSync(path))) {
+  if (!isInside(root, path)) {
     throw new Error(`La ruta de datos escapa del workspace: ${path}`);
+  }
+  const canonicalRoot = realpathSync(root);
+  let current = path;
+  while (isInside(root, current)) {
+    if (existsSync(current)) {
+      if (lstatSync(current).isSymbolicLink()) {
+        throw new Error(`La ruta de datos no puede ser un symlink: ${current}`);
+      }
+      if (!isInside(canonicalRoot, realpathSync(current))) {
+        throw new Error(`La ruta de datos escapa del workspace: ${current}`);
+      }
+    }
+    if (current === root) break;
+    const parent = dirname(current);
+    if (parent === current) break;
+    current = parent;
   }
 }
 
@@ -186,8 +235,14 @@ export function initWorkspace(rootPath: string) {
     assertLocalPath(root, outputDir);
     mkdirSync(outputDir, { recursive: true });
   }
+  for (const directory of ["Lab", "sitio", "confidencial"]) {
+    const projectDir = join(root, directory);
+    assertLocalPath(root, projectDir);
+    mkdirSync(projectDir, { recursive: true });
+  }
 
   const databaseCreated = initializeDatabase(paths.databasePath);
+  const scaffold = installScaffoldDirectory(root, SCAFFOLD_ROOT);
   const configCreated = !existingConfig;
   if (configCreated) {
     const temporary = `${configPath}.${process.pid}.tmp`;
@@ -195,5 +250,5 @@ export function initWorkspace(rootPath: string) {
     renameSync(temporary, configPath);
   }
 
-  return { ...paths, databaseCreated, configCreated };
+  return { ...paths, databaseCreated, configCreated, scaffold };
 }

@@ -1,6 +1,6 @@
 {
   "name": "amazon-business-cli-kdp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "description": "Workspace-isolated Amazon KDP research CLI and engine",
   "repository": {
@@ -16,6 +16,7 @@
     "machine/pipeline/*.ts",
     "machine/pipeline/*.txt",
     "machine/storage/schema.sql",
+    "templates/workspace/",
     "README.md"
   ],
   "publishConfig": {

@@ -2,7 +2,10 @@ import { test, expect } from "bun:test";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { evaluate, monthsBetween } from "../gates";
+import { loadCriteria } from "../criteria";
 import type { PhraseInput, Row } from "../types";
+import { mkdtempSync, rmSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
 
 const CAPTURED = "2026-11-21T00:00:00.000Z";
 
@@ -31,6 +34,39 @@ test("cuenta meses entre fechas", () => {
   expect(m).toBeGreaterThan(17.9);
   expect(m).toBeLessThan(18.4);
   expect(monthsBetween("no-es-fecha", "2021-07-01")).toBeNull();
+});
+
+test("carga criterios por workspace, completa defaults y los conserva en la evaluación", () => {
+  const dir = mkdtempSync(join(tmpdir(), "abck-criteria-"));
+  const path = join(dir, "criteria.json");
+  try {
+    writeFileSync(path, JSON.stringify({ maxResults: 900, minMass: 4 }));
+    const criteria = loadCriteria(path);
+    expect(criteria.maxResults).toBe(900);
+    expect(criteria.minMass).toBe(4);
+    expect(criteria.minOrganic).toBe(3);
+    const ev = evaluate(input([], 800), criteria);
+    expect(ev.criteria).toEqual(criteria);
+    expect(ev.gates[0].threshold).toContain("900");
+    expect(ev.gates[3].threshold).toContain("4");
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+});
+
+test("rechaza claves y valores de criterios inválidos", () => {
+  const dir = mkdtempSync(join(tmpdir(), "abck-criteria-"));
+  const path = join(dir, "criteria.json");
+  try {
+    writeFileSync(path, JSON.stringify({ mystery: 10 }));
+    expect(() => loadCriteria(path)).toThrow("Criterios desconocidos");
+    writeFileSync(path, JSON.stringify({ maxResults: -1 }));
+    expect(() => loadCriteria(path)).toThrow("no negativo");
+    writeFileSync(path, JSON.stringify({ minAmplitude: 1.5 }));
+    expect(() => loadCriteria(path)).toThrow("entero");
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
 });
 
 test("un nicho sano pasa las cuatro", () => {

@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, readFileSync, realpathSync } from "node:fs";
+import { homedir } from "node:os";
 import { join, resolve } from "node:path";
 import {
   DB_FILENAME,
@@ -62,6 +63,7 @@ export function parseGlobalPaths(args: string[]): { paths: Record<string, string
 
 export function resolveConfig(paths: Record<string, string>, cwd = process.cwd()): CliConfig {
   const workspace = resolve(paths["--workspace"] ?? cwd);
+  assertWorkspaceOutsideHome(workspace);
   const resolveFromWorkspace = (value: string | undefined, fallback: string) =>
     resolve(workspace, value ?? fallback);
   const stateDir = join(workspace, WORKSPACE_STATE_DIR);
@@ -85,11 +87,21 @@ export function resolveConfig(paths: Record<string, string>, cwd = process.cwd()
   };
 }
 
+export function assertWorkspaceOutsideHome(workspace: string) {
+  const canonicalWorkspace = existsSync(workspace) ? realpathSync(workspace) : resolve(workspace);
+  const canonicalHome = existsSync(homedir()) ? realpathSync(homedir()) : resolve(homedir());
+  if (canonicalWorkspace === canonicalHome) {
+    throw new Error(
+      `No se puede usar el home del usuario como workspace (${canonicalHome}). Entra a un proyecto y ejecuta \`abck init\` ahí.`,
+    );
+  }
+}
+
 function help() {
   console.log(`Amazon Business CLI — investigación KDP
 
 Uso:
-  abck init <workspace> [--json]
+  abck init [workspace] [--json]
   abck doctor [--workspace <ruta>] [--json]
   abck machine <comando> [argumentos de la máquina] [paths]
 
@@ -102,11 +114,12 @@ Paths globales:
   --tool-dir <ruta>     herramienta legacy requerida solo para el dossier E5
   --pipeline-dir <ruta> override de desarrollo para comparar otro pipeline
 
-Ejemplo:
-  abck init /ruta/al/proyecto
+Ejemplo (desde la raíz del proyecto):
+  abck init
   abck machine run --plan 1 --seed 1 \\
     --workspace /ruta/al/proyecto
 
+No inicialices ni ejecutes el motor desde el home del usuario.
 Los datos quedan aislados en <workspace>/.amazon-business/data.
 Los argumentos propios de la máquina se reenvían sin cambios.`);
 }
@@ -162,10 +175,10 @@ export async function main(argv = process.argv.slice(2)) {
   if (command === "init") {
     const json = forwarded.includes("--json");
     const initArgs = forwarded.filter((arg) => arg !== "--json");
-    if (initArgs.length > 1 || (!initArgs[0] && !paths["--workspace"])) {
-      throw new Error("Uso: abck init <workspace> [--json]");
+    if (initArgs.length > 1) {
+      throw new Error("Uso: abck init [workspace] [--json]");
     }
-    const target = initArgs[0] ?? paths["--workspace"]!;
+    const target = initArgs[0] ?? paths["--workspace"] ?? process.cwd();
     const initialized = initWorkspace(target);
     const result = {
       workspace: initialized.root,
@@ -174,12 +187,21 @@ export async function main(argv = process.argv.slice(2)) {
       database: initialized.databasePath,
       configCreated: initialized.configCreated,
       databaseCreated: initialized.databaseCreated,
+      scaffoldCreated: initialized.scaffold.created,
+      scaffoldPreserved: initialized.scaffold.preserved,
     };
     if (json) console.log(JSON.stringify(result, null, 2));
     else {
       console.log(`${initialized.configCreated ? "Inicializado" : "Ya inicializado"}: ${initialized.root}`);
       console.log(`  data: ${initialized.dataDir}`);
       console.log(`  db:   ${initialized.databasePath}${initialized.databaseCreated ? " (nueva)" : " (preservada)"}`);
+      console.log(`  estructura del proyecto: Lab/, sitio/, confidencial/, .opencode/`);
+      if (initialized.scaffold.created.length) {
+        console.log(`  recursos OpenCode nuevos: ${initialized.scaffold.created.length}`);
+      }
+      if (initialized.scaffold.preserved.length) {
+        console.log(`  archivos existentes preservados: ${initialized.scaffold.preserved.length}`);
+      }
     }
     return 0;
   }
@@ -203,6 +225,7 @@ export async function main(argv = process.argv.slice(2)) {
     env: {
       ...process.env,
       EDITORIAL_DATA_DIR: workspace.dataDir,
+      EDITORIAL_CRITERIA_FILE: join(workspace.stateDir, "criteria.json"),
       EDITORIAL_TOOL_DIR: resolve(
         config.workspace,
         paths["--tool-dir"] ?? process.env.EDITORIAL_TOOL_DIR ?? workspace.legacyToolDir,

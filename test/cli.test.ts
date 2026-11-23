@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test";
-import { mkdtempSync, rmSync } from "node:fs";
+import { existsSync, mkdtempSync, rmSync } from "node:fs";
+import { homedir } from "node:os";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { main, parseGlobalPaths, resolveConfig } from "../src/cli";
@@ -29,8 +30,26 @@ test("rechaza paths globales sin valor", () => {
   expect(() => parseGlobalPaths(["--workspace"])).toThrow("Falta el valor de --workspace.");
 });
 
-test("init exige un workspace explícito para no inicializar el directorio equivocado", async () => {
-  await expect(main(["init"])).rejects.toThrow("Uso: abck init <workspace> [--json]");
+test("init usa el directorio actual como workspace por defecto", async () => {
+  const dir = mkdtempSync(join(tmpdir(), "amazon-business-init-cwd-"));
+  const originalCwd = process.cwd();
+  const originalLog = console.log;
+  process.chdir(dir);
+  console.log = () => {};
+  try {
+    expect(await main(["init"])).toBe(0);
+    expect(existsSync(join(dir, ".amazon-business/config.json"))).toBe(true);
+  } finally {
+    console.log = originalLog;
+    process.chdir(originalCwd);
+    rmSync(dir, { recursive: true, force: true });
+  }
+});
+
+test("rechaza el home como workspace", () => {
+  expect(() => resolveConfig({ "--workspace": homedir() })).toThrow(
+    "No se puede usar el home del usuario como workspace",
+  );
 });
 
 test.each(["--version", "-v"])("muestra la versión del paquete con %s", async (flag) => {

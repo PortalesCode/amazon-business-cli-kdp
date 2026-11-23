@@ -57,12 +57,21 @@ bun update --global amazon-business-cli-kdp
 ## Paths
 
 ```bash
-abck init /path/to/project
-abck doctor --workspace /path/to/project
+cd /path/to/project
+abck init
+abck doctor
 ```
 
+- `abck init` usa el directorio actual. También acepta `abck init /path/to/project`.
+- No se puede inicializar ni ejecutar el motor usando directamente el home del usuario.
 - `init` crea `<workspace>/.amazon-business/{config.json,data/}` y una base SQLite vacía
   aislada para ese workspace. Crea también `data/amazon`, `data/autocomplete` y `data/corridas`.
+- También prepara `Lab/`, `sitio/` y `confidencial/` en la raíz, e instala una `.opencode/`
+  inicial con `ceo-editor`, `analista-nicho` y la skill `analizar-como-experto`.
+- Los criterios E4 se guardan en `.amazon-business/criteria.json`; cada evaluación registra
+  el snapshot efectivo bajo `criteria`. Se pueden cambiar por proyecto sin editar la máquina.
+- Los archivos de OpenCode existentes nunca se sobrescriben. `confidencial/` trae un `.gitignore`
+  local para que su contenido no se suba accidentalmente al repositorio.
 - Cada workspace tiene su propia DB; **no se usa un directorio global compartido**.
 - `--workspace`: raíz del proyecto donde trabaja el agente; `machine` exige que esté inicializado.
 - No existe `--data-dir`: los datos pertenecen al workspace y no se pueden redirigir a una

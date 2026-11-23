@@ -2,7 +2,7 @@ import type { Evaluation, GateResult, GateThresholds, PhraseInput, Row, Verdict 
 import { bsrBand, round } from "./units";
 import { totalLabel } from "./total";
 
-/** Los números de Lab/Departamento-de-Investigacion/compuertas.md. Cambiar acá es cambiar la norma. */
+/** Workspace defaults; users can override them in .amazon-business/criteria.json. */
 export const DEFAULT_THRESHOLDS: GateThresholds = {
   maxResults: 2_000,
   minAmplitude: 2,
@@ -143,5 +143,6 @@ export function evaluate(
     mass: { min: round(min), max: round(max), mid: round(mid), crosses: min < t.minMass && max >= t.minMass },
     coverage,
     blockers,
+    criteria: { ...t },
   };
 }

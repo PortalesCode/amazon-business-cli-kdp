@@ -60,4 +60,6 @@ export type Evaluation = {
   /** Cobertura de evidencia (no es probabilidad de éxito). */
   coverage: number;
   blockers: string[];
+  /** Snapshot of the effective criteria used for this evaluation. */
+  criteria: GateThresholds;
 };

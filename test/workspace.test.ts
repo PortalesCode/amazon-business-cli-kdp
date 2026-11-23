@@ -19,6 +19,17 @@ test("init creates a clean, workspace-local database and directories", () => {
     expect(existsSync(join(initialized.dataDir, "amazon"))).toBe(true);
     expect(existsSync(join(initialized.dataDir, "autocomplete"))).toBe(true);
     expect(existsSync(join(initialized.dataDir, "corridas"))).toBe(true);
+    for (const directory of ["Lab", "sitio", "confidencial"]) {
+      expect(existsSync(join(root, directory))).toBe(true);
+    }
+    expect(existsSync(join(root, ".opencode/agents/ceo-editor.md"))).toBe(true);
+    expect(existsSync(join(root, ".opencode/agents/analista-nicho.md"))).toBe(true);
+    expect(existsSync(join(root, ".opencode/skills/analizar-como-experto/SKILL.md"))).toBe(true);
+    expect(JSON.parse(readFileSync(join(root, ".amazon-business/criteria.json"), "utf8")).maxResults).toBe(2000);
+    expect(JSON.parse(readFileSync(join(root, ".opencode/opencode.json"), "utf8")).default_agent).toBe("ceo-editor");
+    expect(readFileSync(join(root, "confidencial/.gitignore"), "utf8")).toContain("!.gitignore");
+    expect(initialized.scaffold.created).toContain(".opencode/agents/ceo-editor.md");
+    expect(initialized.scaffold.created).toContain(join("confidencial", ".gitignore"));
 
     const db = new Database(initialized.databasePath, { readonly: true });
     try {
@@ -29,6 +40,22 @@ test("init creates a clean, workspace-local database and directories", () => {
       db.close();
     }
     expect(loadWorkspace(root).databasePath).toBe(initialized.databasePath);
+  } finally {
+    rmSync(root, { recursive: true, force: true });
+  }
+});
+
+test("init preserves existing OpenCode files instead of replacing user customization", () => {
+  const root = tempWorkspace();
+  const agentPath = join(root, ".opencode/agents/ceo-editor.md");
+  try {
+    mkdirSync(join(root, ".opencode/agents"), { recursive: true });
+    writeFileSync(agentPath, "custom user agent\n");
+
+    const initialized = initWorkspace(root);
+    expect(readFileSync(agentPath, "utf8")).toBe("custom user agent\n");
+    expect(initialized.scaffold.preserved).toContain(".opencode/agents/ceo-editor.md");
+    expect(existsSync(join(root, ".opencode/skills/analizar-como-experto/SKILL.md"))).toBe(true);
   } finally {
     rmSync(root, { recursive: true, force: true });
   }

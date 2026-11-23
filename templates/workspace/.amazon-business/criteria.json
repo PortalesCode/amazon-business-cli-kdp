@@ -1,0 +1,10 @@
+{
+  "maxResults": 2000,
+  "minAmplitude": 2,
+  "amplitudeBsr": 150000,
+  "minOrganic": 3,
+  "organicBsr": 300000,
+  "organicMinMonths": 18,
+  "organicMinReviews": 25,
+  "minMass": 30
+}
