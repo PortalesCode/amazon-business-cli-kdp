@@ -42,7 +42,7 @@ test("resuelve almacenamiento aislado bajo el workspace", () => {
     expect(config.databasePath).toBe(join(dir, ".amazon-business/data/kdp-market-lab.sqlite"));
     expect(config.initialized).toBe(false);
     expect(config.toolDir).toBe(join(dir, "Lab/Departamento-de-Investigacion/Machine/kdp-extension-chromium"));
-    expect(config.pipelineDir.endsWith("cli-amazon-business/machine/pipeline")).toBe(true);
+    expect(config.pipelineDir).toBe(join(import.meta.dir, "../machine/pipeline"));
   } finally {
     rmSync(dir, { recursive: true, force: true });
   }
