@@ -1,11 +1,15 @@
 {
-  "name": "cli-amazon-business",
+  "name": "amazon-business-cli-kdp",
   "version": "0.1.0",
   "private": true,
   "type": "module",
   "description": "Workspace-isolated Amazon KDP research CLI and engine",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PortalesCode/amazon-business-cli-kdp.git"
+  },
   "bin": {
-    "amazon-business": "./src/cli.ts"
+    "abck": "./src/cli.ts"
   },
   "scripts": {
     "dev": "bun run src/cli.ts",

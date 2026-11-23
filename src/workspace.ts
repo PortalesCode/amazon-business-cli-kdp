@@ -144,7 +144,7 @@ export function loadWorkspace(rootPath: string): WorkspacePaths {
   assertLocalPath(root, join(root, WORKSPACE_STATE_DIR));
   assertLocalPath(root, configPath);
   if (!existsSync(configPath)) {
-    throw new Error(`Workspace sin inicializar: ejecuta \`amazon-business init ${root}\`.`);
+    throw new Error(`Workspace sin inicializar: ejecuta \`abck init ${root}\`.`);
   }
   const config = parseConfig(configPath);
   const paths = pathsFor(root, config);

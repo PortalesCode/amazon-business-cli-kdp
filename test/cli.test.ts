@@ -30,7 +30,7 @@ test("rechaza paths globales sin valor", () => {
 });
 
 test("init exige un workspace explícito para no inicializar el directorio equivocado", async () => {
-  await expect(main(["init"])).rejects.toThrow("Uso: amazon-business init <workspace> [--json]");
+  await expect(main(["init"])).rejects.toThrow("Uso: abck init <workspace> [--json]");
 });
 
 test("resuelve almacenamiento aislado bajo el workspace", () => {

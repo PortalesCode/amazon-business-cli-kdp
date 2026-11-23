@@ -7,6 +7,7 @@ su cuenta.
 ## 1. Actualizar el programa
 
 - El repositorio es la fuente de desarrollo.
+- Repo público: `PortalesCode/amazon-business-cli-kdp`; comando instalado: `abck`.
 - Cada versión se publica como paquete npm con versión SemVer y un tag Git
   correspondiente.
 - GitHub Actions corre pruebas en cada push a `main` y pull request. Un release

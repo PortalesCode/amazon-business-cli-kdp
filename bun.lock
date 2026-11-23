@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "cli-amazon-business",
+      "name": "amazon-business-cli-kdp",
       "dependencies": {
         "linkedom": "^0.18.15",
       },

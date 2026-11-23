@@ -86,9 +86,9 @@ function help() {
   console.log(`Amazon Business CLI — prototipo local
 
 Uso:
-  amazon-business init <workspace> [--json]
-  amazon-business doctor [--workspace <ruta>] [--json]
-  amazon-business machine <comando> [argumentos de la máquina] [paths]
+  abck init <workspace> [--json]
+  abck doctor [--workspace <ruta>] [--json]
+  abck machine <comando> [argumentos de la máquina] [paths]
 
 Comandos de máquina:
   run, verify, phrases, apply, bsr, capture-search,
@@ -100,8 +100,8 @@ Paths globales:
   --pipeline-dir <ruta> override de desarrollo para comparar otro pipeline
 
 Ejemplo:
-  amazon-business init /ruta/al/proyecto
-  amazon-business machine run --plan 1 --seed 1 \\
+  abck init /ruta/al/proyecto
+  abck machine run --plan 1 --seed 1 \\
     --workspace /ruta/al/proyecto
 
 Los datos quedan aislados en <workspace>/.amazon-business/data.
@@ -155,7 +155,7 @@ export async function main(argv = process.argv.slice(2)) {
     const json = forwarded.includes("--json");
     const initArgs = forwarded.filter((arg) => arg !== "--json");
     if (initArgs.length > 1 || (!initArgs[0] && !paths["--workspace"])) {
-      throw new Error("Uso: amazon-business init <workspace> [--json]");
+      throw new Error("Uso: abck init <workspace> [--json]");
     }
     const target = initArgs[0] ?? paths["--workspace"]!;
     const initialized = initWorkspace(target);
@@ -182,7 +182,7 @@ export async function main(argv = process.argv.slice(2)) {
 
   if (command !== "machine") throw new Error(`Comando desconocido: ${command}`);
   const [machineCommand, ...machineArgs] = forwarded;
-  if (!machineCommand) throw new Error("Falta el comando de máquina. Usa `amazon-business --help`.");
+  if (!machineCommand) throw new Error("Falta el comando de máquina. Usa `abck --help`.");
   const workspace = loadWorkspace(config.workspace);
 
   const script = SCRIPT_BY_COMMAND[machineCommand];
@@ -213,7 +213,7 @@ if (import.meta.main) {
       process.exitCode = code;
     },
     (error) => {
-      console.error(`amazon-business: ${String(error?.message ?? error)}`);
+      console.error(`abck: ${String(error?.message ?? error)}`);
       process.exitCode = 1;
     },
   );

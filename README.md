@@ -5,6 +5,8 @@ debajo de `machine/`; la CLI resuelve rutas, configura el entorno y ejecuta su p
 No necesita cargar los scripts de `Editorial-Program` para operar. Esa copia queda intacta
 mientras probamos esta como la futura fuente de verdad.
 
+El comando de terminal es `abck`; el paquete se llama `amazon-business-cli-kdp`.
+
 La CLI y el motor son Bun/TypeScript. Requiere Bun y la dependencia `linkedom`.
 
 ## Desarrollo
@@ -21,8 +23,8 @@ bun test
 
 ```bash
 bun link --global
-amazon-business --help
-amazon-business doctor
+abck --help
+abck doctor
 ```
 
 El link apunta a esta carpeta, así que los cambios al código se reflejan al volver a ejecutar
@@ -36,8 +38,8 @@ bun unlink --global
 ## Paths
 
 ```bash
-amazon-business init /path/to/project
-amazon-business doctor --workspace /path/to/project
+abck init /path/to/project
+abck doctor --workspace /path/to/project
 ```
 
 - `init` crea `<workspace>/.amazon-business/{config.json,data/}` y una base SQLite vacía
@@ -58,15 +60,15 @@ reconoce en vez de sobrescribirla. `doctor` es de solo lectura.
 ## Comandos iniciales
 
 ```bash
-amazon-business machine run --plan 1 --seed 1 --workspace /path/to/project
-amazon-business machine verify --phrases-file seleccionadas.json \
+abck machine run --plan 1 --seed 1 --workspace /path/to/project
+abck machine verify --phrases-file seleccionadas.json \
   --workspace /path/to/project
 ```
 
 Prueba offline de E2, sin red:
 
 ```bash
-amazon-business machine phrases \
+abck machine phrases \
   machine/pipeline/test/fixtures/captures/parenting-relationships-marriage.json \
   --limit 4 --label smoke \
   --workspace /path/to/project
