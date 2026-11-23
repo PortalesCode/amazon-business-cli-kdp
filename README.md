@@ -1,9 +1,7 @@
 # Amazon Business CLI
 
-CLI y motor independiente para investigación de mercado de Amazon KDP. El código ejecutable vive
-debajo de `machine/`; la CLI resuelve rutas, configura el entorno y ejecuta su propio pipeline.
-No necesita cargar los scripts de `Editorial-Program` para operar. Esa copia queda intacta
-mientras probamos esta como la futura fuente de verdad.
+CLI para investigar oportunidades de mercado de Amazon KDP. Cada proyecto guarda sus datos y su
+base SQLite en `.amazon-business/`, de forma independiente.
 
 El comando de terminal es `abck`; el paquete se llama `amazon-business-cli-kdp`.
 
